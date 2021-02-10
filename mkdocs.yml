@@ -1,0 +1,8 @@
+site_name: gXchange
+
+theme:
+  name: material
+  language: 'pt'
+  
+nav:
+  - Sobre: index.md
