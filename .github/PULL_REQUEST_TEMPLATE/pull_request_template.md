@@ -1,12 +1,3 @@
----
-name: Criação de novo documento
-about: Criação de novo documento para o projeto
-title: Criação de novo documento
-labels: docs
-assignees: ''
-
----
-
 # Criação de novo documento
 
 ## Descrição 
