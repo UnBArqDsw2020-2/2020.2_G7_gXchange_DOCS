@@ -2,7 +2,10 @@ site_name: gXchange
 
 theme:
   name: material
-  language: 'pt'
-  
+  language: "pt"
+
 nav:
   - Sobre: index.md
+  - Desenho de Software (Base):
+      - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
+          - 5W2H: 5w2h.md
