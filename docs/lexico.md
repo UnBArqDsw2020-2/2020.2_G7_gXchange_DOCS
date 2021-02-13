@@ -63,7 +63,8 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 ## Versionamento
 
-| Versão | Data       | Modificação                     | Autor         |
-| ------ | ---------- | ------------------------------- | ------------- |
-| 1.0    | 11/02/2021 | Criação do documento de léxicos | Rhuan Queiroz |
-| 2.0    | 11/02/2021 | Adicionando alguns léxicos      | Rhuan Queiroz |
+| Versão | Data       | Modificação                    | Motivo | Autor         |
+| ------ | ---------- | -------------------------------| ------ | ------------- |
+| 1.0    | 11/02/2021 | Criação do documento de léxicos | - | Rhuan Queiroz |
+| 2.0    | 11/02/2021 | Adicionando alguns léxicos      | Aprimorar o conhecimento das palavras-chave do projeto | Rhuan Queiroz |
+| 2.1    | 13/02/2021 | Adição de motivo na tabela de versionamento      | Melhorar o versionamento dos documentos | Igor Paiva |
