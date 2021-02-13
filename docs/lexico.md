@@ -57,6 +57,12 @@ Utilizaremos como base o modelo de tabela abaixo:
 | ------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------- | --------- |
 | Verbo         | Ato de um usuário reportar uma publicação e/ou outro usuário | O usuário reportado ou publicação reportada será levado para avaliação | Denunciar |
 
+#### L7 - **Usuário**
+
+| Classificação | Noção | Impacto | Sinônimos |
+| ------------- | ------| ------- | --------- |
+| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o perfil de usuário definido | O usuário pode publicar, comprar, trocar [jogos](/lexico/#l4-jogo) | Comprador, vendedor, moderador |
+
 ## Referências Bibliográficas
 
 > SAMPAIO, Julio; FRANCO, Ana. "A strategy for Conceptual Model Acquisition". Departamento de informática, Pontíficia Universidade Católica, Rio de Janeiro.
@@ -68,3 +74,4 @@ Utilizaremos como base o modelo de tabela abaixo:
 | 1.0    | 11/02/2021 | Criação do documento de léxicos | - | Rhuan Queiroz |
 | 2.0    | 11/02/2021 | Adicionando alguns léxicos      | Aprimorar o conhecimento das palavras-chave do projeto | Rhuan Queiroz |
 | 2.1    | 13/02/2021 | Adição de motivo na tabela de versionamento      | Melhorar o versionamento dos documentos | Igor Paiva |
+| 2.2    | 13/02/2021 | Adição da palavra "usuário" ao léxico      | Definir os usuários do sistema | Igor Paiva |
