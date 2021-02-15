@@ -6,3 +6,5 @@ theme:
   
 nav:
   - Sobre: index.md
+  - Perfil de usuário:
+    - Personas: personas.md
