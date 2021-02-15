@@ -6,3 +6,4 @@ theme:
   
 nav:
   - Sobre: index.md
+  - Léxico: lexico.md
