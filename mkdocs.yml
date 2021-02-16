@@ -6,6 +6,7 @@ theme:
   
 nav:
   - Sobre: index.md
+  - Léxico: lexico.md
   - Perfil de usuário:
     - Personas: personas.md
   - Diagramas causa-efeito: causa_efeito.md
