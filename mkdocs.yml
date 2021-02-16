@@ -4,6 +4,9 @@ theme:
   name: material
   language: "pt"
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Sobre: index.md
   - Desenho de Software (Base):
@@ -13,6 +16,9 @@ nav:
           - Diagramas causa-efeito: causa_efeito.md
           - Perfil de usuário:
             - Personas: personas.md
+          - Requisitos:
+            - Padrões: requisitos/padroes.md
+            - Instrospecção: requisitos/introspeccao.md
   - Versões documentos:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
