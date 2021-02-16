@@ -2,11 +2,14 @@ site_name: gXchange
 
 theme:
   name: material
-  language: 'pt'
-  
+  language: "pt"
+
 nav:
   - Sobre: index.md
-  - Léxico: lexico.md
-  - Perfil de usuário:
-    - Personas: personas.md
-  - Diagramas causa-efeito: causa_efeito.md
+  - Desenho de Software (Base):
+      - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
+          - 5W2H: 5w2h.md
+          - Léxico: lexico.md
+          - Diagramas causa-efeito: causa_efeito.md
+          - Perfil de usuário:
+            - Personas: personas.md
