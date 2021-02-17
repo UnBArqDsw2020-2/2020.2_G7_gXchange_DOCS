@@ -61,7 +61,7 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ------| ------- | --------- |
-| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o [perfil de usuário](personas.md) definido | O usuário pode publicar, comprar, trocar [jogos](/lexico/#l4-jogo) | Comprador, vendedor, moderador |
+| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o [perfil de usuário](/personas) definido | O usuário pode publicar, comprar, trocar [jogos](/lexico/#l4-jogo) | Comprador, vendedor, moderador |
 
 ## Referências Bibliográficas
 
@@ -73,5 +73,5 @@ Utilizaremos como base o modelo de tabela abaixo:
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | [1.0](/versoes/lexico/1.0/) | 11/02/2021 | Criação do documento de léxico e adição algumas palavras | - | Rhuan Queiroz |
 | [1.1](/versoes/lexico/1.1/) | 13/02/2021 | Adição de motivo na tabela de versionamento | Melhorar o versionamento dos documentos | Igor Paiva |
-| 1.2 | 13/02/2021 | Adição da palavra "usuário" ao léxico | Definir os usuários do sistema | Igor Paiva |
+| [1.2](/versoes/lexico/1.2/) | 13/02/2021 | Adição da palavra "usuário" ao léxico | Definir os usuários do sistema | Igor Paiva |
 | 1.3 | 16/02/2021 | Adição do link para o arquivo de personas a partir da palavra "perfil de usuário" | Facilitar a navegação entre os documentos | Thiago Guilherme |
