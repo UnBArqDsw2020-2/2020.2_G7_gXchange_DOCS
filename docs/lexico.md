@@ -59,15 +59,9 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 #### L7 - **Usuário**
 
-<<<<<<< HEAD
-| Classificação | Noção  | Impacto | Sinônimos |
-| ------------- | ------ | ------- | --------- |
-| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o perfil de usuário definido | O usuário pode publicar, comprar, trocar [jogos](/lexico/#l4-jogo) | Comprador, vendedor, moderador |
-=======
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ------| ------- | --------- |
 | Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o [perfil de usuário](/personas) definido | O usuário pode publicar, comprar, trocar [jogos](/lexico/#l4-jogo) | Comprador, vendedor, moderador |
->>>>>>> 20eb4d60a505857cc08be42997bf31472c28a48d
 
 #### L8 - **Invalidar**
 
