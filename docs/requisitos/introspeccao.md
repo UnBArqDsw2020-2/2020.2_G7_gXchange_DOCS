@@ -12,8 +12,8 @@ O método de introspecção consiste em se colocar no papel dos usuários do sis
 <table>
 <tr>
 <th style="text-align: center">Número</th>
-<th>Personas</th>
 <th>Requisito</th>
+<th>Personas</th>
 <th>Tipo</th>
 </tr>
 

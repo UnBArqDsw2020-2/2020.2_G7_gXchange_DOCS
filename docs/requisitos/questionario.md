@@ -116,5 +116,3 @@ Essas foram as respostas obtidas após no final.
 | Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 17/02/2021 | Criação do documento | Relatar os resultados obtidos com o questionário | Rhuan Queiroz, Thiago Guilherme e Washington Bispo |
-
-
