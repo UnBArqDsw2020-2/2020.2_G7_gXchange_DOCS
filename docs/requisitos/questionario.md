@@ -99,10 +99,10 @@ Essas foram as respostas obtidas do questionário após as 73 respostas, ao todo
 | Número | Requisito |
 |:-:|-|
 | 1 | O sistema deve manter a senha do [usuário](/lexico/#l7-usuario) encriptada |
-| 2 | O sistema deve ser capaz de responder as requisições do [usuário](/lexico/#l7-usuario) rapidamente [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
-| 3 | O sistema deve ser confiável [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
-| 4 | O sistema deve ser de fácil aprendizado [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
-| 5 | O sistema deve dispor os [anúncios](/lexico/#l1-anuncio) de maneira organizada [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
+| 2 | O sistema deve ser capaz de responder as requisições do [usuário](/lexico/#l7-usuario) rapidamente [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
+| 3 | O sistema deve ser confiável [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
+| 4 | O sistema deve ser de fácil aprendizado [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
+| 5 | O sistema deve dispor os [anúncios](/lexico/#l1-anuncio) de maneira organizada [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
 
 
 ## Referências
@@ -116,3 +116,4 @@ Essas foram as respostas obtidas do questionário após as 73 respostas, ao todo
 | Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 17/02/2021 | Criação do documento | Relatar os resultados obtidos com o questionário | Rhuan Queiroz, Thiago Guilherme e Washington Bispo |
+| 1.1 | 17/02/2021 | Criação do documento | Colocar parentêses no *link* a ser decidido | Todos os integrantes |

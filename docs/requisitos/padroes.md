@@ -24,12 +24,30 @@ O padrão de escrita dos requisitos, na perspectiva de um <a href="/lexico/#l1-u
 <i>O [tipo(s) de usuário] [precondição opcional] deve ser capaz de [fazer algo] [para alguma coisa opcional] [condições de qualidade, tempo de resposta]</i>
 </div>
 
+## Padrão de identificação
+
+<p style="text-indent: 20px; text-align: justify">
+Utilizaremos uma abordagem sequencial para a identificação dos requisitos, na qual cada requisito possuirá uma indicação de seu tipo e um número sequencial (Wiegers e Beatty, 2013).
+</p>
+
+### Requisitos funcionais
+
+<p style="text-indent: 20px; background: #f8f8f8">
+<em>RF-NÚMERO</em>.  Para os requisitos funcionais. Exemplo: RF-03
+</p>
+
+### Requisitos não funcionais
+
+<p style="text-indent: 20px; background: #f8f8f8">
+<em>RNF-NÚMERO</em>.  Para os requisitos funcionais. Exemplo: RNF-13
+</p>
+
 ## Marcações nos requisitos
 
 ### A ser decidido
 
 <p style="text-indent: 20px; text-align: justify">
-Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam de mais informações e/ou não estão bem definidos. Até o fim do processo de modelagem devem ser adicionadas as informações necessárias ou o requisito deve ser removido.
+Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam de mais informações e/ou não estão bem definidos. Até o fim do processo de modelagem,devem ser adicionadas as informações necessárias ou o requisito deve ser removido.
 </p>
 
 ## Referências
