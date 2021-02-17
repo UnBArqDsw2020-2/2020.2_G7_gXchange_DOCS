@@ -260,4 +260,4 @@ O método de introspecção consiste em se colocar no papel dos usuários do sis
 | Versão | Data       | Modificação               | Motivo | Autor         |
 | ------ | ---------- | ------------------------- | ------ | ------------- |
 |  [1.0](../versoes/introspeccao/1.0.md)   | 16/02/2021 | Criação do documento de introspecção | Elicitar requisitos utilizando a técnica de instrospecção | Igor Paiva, Marcelo Victor e Thiago Lopes |
-|  [1.1](../versoes/introspeccao/1.1.md)   | 16/02/2021 | Correções gerais no documento de introspecção | Corrigir alguns problemas de rastreabilidade | Thiago Lopes |
+|  1.1  | 16/02/2021 | Correções gerais no documento de introspecção | Corrigir alguns problemas de rastreabilidade | Thiago Lopes |

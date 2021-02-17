@@ -14,8 +14,13 @@ nav:
           - 5W2H: 5w2h.md
           - Léxico: lexico.md
           - Diagramas causa-efeito: causa_efeito.md
+          - Análise de Riscos: riscos.md
           - Perfil de usuário:
             - Personas: personas.md
+          - Design Sprint:
+            - Execução: design_sprint/design_sprint.md
+            - Prototipo Média-Fidelidade: design_sprint/prototipo_media.md
+            - Prototipo Alta-Fidelidade: design_sprint/prototipo_alta.md
           - Requisitos:
             - Padrões: requisitos/padroes.md
             - Introspecção: requisitos/introspeccao.md
@@ -26,3 +31,5 @@ nav:
       - 1.2: versoes/lexico/1.2.md
     - Introspecção:
       - 1.0: versoes/introspeccao/1.0.md
+    - Análise de Riscos:
+      - 1.0: versoes/riscos/1.0.md
