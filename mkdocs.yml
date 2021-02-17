@@ -11,6 +11,7 @@ nav:
           - 5W2H: 5w2h.md
           - Léxico: lexico.md
           - Diagramas causa-efeito: causa_efeito.md
+          - Análise de Riscos: riscos.md
           - Perfil de usuário:
             - Personas: personas.md
           - Design Sprint:
@@ -21,4 +22,3 @@ nav:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
       - 1.1: versoes/lexico/1.1.md
-
