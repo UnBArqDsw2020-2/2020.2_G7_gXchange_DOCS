@@ -1,3 +1,6 @@
+
+![logo](./assets/logos/logo-preta-verde-1.png)
+
 # Sobre
 
 Este repositório é destinado ao grupo 7 - [**gXchange**](https://github.com/UnBArqDsw2020-2/2020.2_G7_gXchange_DOCS), contém toda a documentação do projeto da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano, na Universidade de Brasília - Gama, durante o período de 2020/2.
