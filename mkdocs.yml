@@ -4,6 +4,9 @@ theme:
   name: material
   language: "pt"
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Sobre: index.md
   - Desenho de Software (Base):
@@ -18,10 +21,15 @@ nav:
             - Execução: design_sprint/design_sprint.md
             - Prototipo Média-Fidelidade: design_sprint/prototipo_media.md
             - Prototipo Alta-Fidelidade: design_sprint/prototipo_alta.md
+          - Requisitos:
+            - Padrões: requisitos/padroes.md
+            - Introspecção: requisitos/introspeccao.md
   - Versões documentos:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
       - 1.1: versoes/lexico/1.1.md
       - 1.2: versoes/lexico/1.2.md
+    - Introspecção:
+      - 1.0: versoes/introspeccao/1.0.md
     - Análise de Riscos:
       - 1.0: versoes/riscos/1.0.md
