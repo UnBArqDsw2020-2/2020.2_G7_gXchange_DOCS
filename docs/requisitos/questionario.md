@@ -8,7 +8,7 @@ O método de Questionário consiste na criação de um conjunto de perguntas, o 
 
 ## Resultado do questionário
 
-Essas foram as respostas obtidas após no final.
+Essas foram as respostas obtidas do questionário após as 73 respostas, ao todo.
 
 ### Questão 1
 
@@ -98,8 +98,8 @@ Essas foram as respostas obtidas após no final.
 
 | Número | Requisito |
 |:-:|-|
-| 1 | O sistema deve manter os dados sensíveis do [usuário](/lexico/#l7-usuario) encriptados |
-| 2 | O sistema deve ser capaz de responder as requisições do [usuário](/lexico/#l7-usuario) rapidamente |
+| 1 | O sistema deve manter a senha do [usuário](/lexico/#l7-usuario) encriptada |
+| 2 | O sistema deve ser capaz de responder as requisições do [usuário](/lexico/#l7-usuario) rapidamente [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
 | 3 | O sistema deve ser confiável [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
 | 4 | O sistema deve ser de fácil aprendizado [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
 | 5 | O sistema deve dispor os [anúncios](/lexico/#l1-anuncio) de maneira organizada [**a ser decidido**](/requisitos/padroes/#a-ser-decidido) |
