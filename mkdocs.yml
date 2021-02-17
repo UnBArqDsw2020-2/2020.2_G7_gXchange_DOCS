@@ -10,25 +10,28 @@ extra_css:
 nav:
   - Sobre: index.md
   - Desenho de Software (Base):
-      - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
-          - 5W2H: 5w2h.md
-          - Léxico: lexico.md
-          - Diagramas causa-efeito: causa_efeito.md
-          - Análise de Riscos: riscos.md
-          - Perfil de usuário:
-            - Personas: personas.md
-          - Design Sprint:
-            - Execução: design_sprint/design_sprint.md
-            - Prototipo Média-Fidelidade: design_sprint/prototipo_media.md
-            - Prototipo Alta-Fidelidade: design_sprint/prototipo_alta.md
-          - Requisitos:
-            - Padrões: requisitos/padroes.md
-            - Introspecção: requisitos/introspeccao.md
+    - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
+      - 5W2H: 5w2h.md
+      - Léxico: lexico.md
+      - Diagramas causa-efeito: causa_efeito.md
+      - Análise de Riscos: riscos.md
+      - Perfil de usuário:
+        - Personas: personas.md
+      - Design Sprint:
+        - Execução: design_sprint/design_sprint.md
+        - Prototipo Média-Fidelidade: design_sprint/prototipo_media.md
+        - Prototipo Alta-Fidelidade: design_sprint/prototipo_alta.md
+      - Requisitos:
+        - Padrões: requisitos/padroes.md
+        - Introspecção: requisitos/introspeccao.md
+        - Brainstorming: requisitos/brainstorming.md
   - Versões documentos:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
       - 1.1: versoes/lexico/1.1.md
       - 1.2: versoes/lexico/1.2.md
+      - 1.3: versoes/lexico/1.3.md
+      - 1.4: versoes/lexico/1.4.md
     - Introspecção:
       - 1.0: versoes/introspeccao/1.0.md
     - Análise de Riscos:
