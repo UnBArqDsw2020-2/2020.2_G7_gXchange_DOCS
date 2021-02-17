@@ -27,6 +27,7 @@ nav:
         - Padrões: requisitos/padroes.md
         - Introspecção: requisitos/introspeccao.md
         - Brainstorming: requisitos/brainstorming.md
+        - Questionário: requisitos/questionario.md
   - Versões documentos:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
