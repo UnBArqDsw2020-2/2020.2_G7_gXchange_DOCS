@@ -13,7 +13,12 @@ nav:
           - Diagramas causa-efeito: causa_efeito.md
           - Perfil de usuário:
             - Personas: personas.md
+          - Design Sprint:
+            - Execução: design_sprint/design_sprint.md
+            - Prototipo Média-Fidelidade: design_sprint/prototipo_media.md
+            - Prototipo Alta-Fidelidade: design_sprint/prototipo_alta.md
   - Versões documentos:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
       - 1.1: versoes/lexico/1.1.md
+
