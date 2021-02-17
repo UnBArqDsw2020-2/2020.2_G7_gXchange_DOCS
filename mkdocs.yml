@@ -1,6 +1,8 @@
-site_name: gXchange
+site_name: "gXchange"
 
 theme:
+  logo: assets/logos/icon-branco.png
+  favicon: assets/logos/icon-branco.png
   name: material
   language: "pt"
 

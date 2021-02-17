@@ -1,3 +1,8 @@
 td {
   vertical-align: middle !important;
 }
+
+:root {
+  --md-primary-fg-color: #36BF66;
+  --md-accent-fg-color:  #17092E
+}
