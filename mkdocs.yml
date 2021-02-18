@@ -28,6 +28,7 @@ nav:
         - Introspecção: requisitos/introspeccao.md
         - Brainstorming: requisitos/brainstorming.md
         - Questionário: requisitos/questionario.md
+      - Rastro dos participantes: rastro_participantes.md
   - Versões documentos:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
