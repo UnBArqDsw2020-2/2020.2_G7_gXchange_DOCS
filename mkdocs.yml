@@ -13,6 +13,7 @@ nav:
   - Sobre: index.md
   - Desenho de Software (Base):
     - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
+      - Rich Picture: rich_picture.md
       - 5W2H: 5w2h.md
       - Léxico: lexico.md
       - Diagramas causa-efeito: causa_efeito.md
