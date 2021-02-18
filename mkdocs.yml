@@ -38,5 +38,7 @@ nav:
       - 1.4: versoes/lexico/1.4.md
     - Introspecção:
       - 1.0: versoes/introspeccao/1.0.md
+    - Padrões requisitos:
+      - 1.0: versoes/padroes_requisitos/1.0.md
     - Análise de Riscos:
       - 1.0: versoes/riscos/1.0.md
