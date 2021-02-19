@@ -30,9 +30,10 @@ nav:
         - Brainstorming: requisitos/brainstorming.md
         - Questionário: requisitos/questionario.md
         - Todos requisitos priorizados: requisitos/requisitos.md
-      - Rastro dos participantes: rastro_participantes.md
+      - Rastro dos participantes: rastro_participantes_1.1.md
     - 1.2 Módulo Projeto Orientado a Abordagens Específicas:
       - Metodologias: metodologia.md
+      - Rastro dos participantes: rastro_participantes_1.2.md
   - Versões documentos:
     - Léxico:
       - 1.0: versoes/lexico/1.0.md
