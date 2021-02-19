@@ -8,7 +8,7 @@ As atividades listadas nesse arquivo ocorreram entre os dias 05/02/2021 e 17/02/
 
 - 5W2H
 - Rich Picture
-- Léxico, versões [1.1](/versoes/lexico/1.0/), [1.2](/versoes/lexico/1.2/), [1.4](/versoes/lexico/1.4/) e [1.5](/lexico)
+- Léxico, versões [1.1](/versoes/lexico/1.1/), [1.2](/versoes/lexico/1.2/), [1.4](/versoes/lexico/1.4/) e [1.5](/lexico)
 - Análise de riscos
 - Diagrama causa-efeito
 - Perfil de usuário

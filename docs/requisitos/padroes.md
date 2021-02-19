@@ -9,7 +9,7 @@ Este documento serve para definir padrões e informações sobre como os requisi
 ## Padrão de escrita dos requisitos
 
 <p style="text-indent: 20px; text-align: justify">
-O padrão de escrita dos requisitos, na perspectiva do sistema, que será adotado nesse projeto será baseado no proposto por Mavin (Wiegers e Beatty, 2013):
+O padrão de escrita dos requisitos, na perspectiva do sistema, que será adotado nesse projeto será baseado no proposto por Mavin (2009 apud Wiegers e Beatty, 2013):
 </p>
 
 <div style="background: #f8f8f8">
@@ -17,7 +17,7 @@ O padrão de escrita dos requisitos, na perspectiva do sistema, que será adotad
 </div>
 
 <p style="text-indent: 20px; text-align: justify">
-O padrão de escrita dos requisitos, na perspectiva de um <a href="/lexico/#l1-usuario">usuário</a>, que será adotado nesse projeto será baseado no proposto por Alexander e Stevens (Wiegers e Beatty, 2013):
+O padrão de escrita dos requisitos, na perspectiva de um <a href="/lexico/#l1-usuario">usuário</a>, que será adotado nesse projeto será baseado no proposto por Alexander e Stevens (2002 apud Wiegers e Beatty, 2013):
 </p>
 
 <div style="background: #f8f8f8">
@@ -47,7 +47,7 @@ Utilizaremos uma abordagem sequencial para a identificação dos requisitos, na 
 ### A ser decidido
 
 <p style="text-indent: 20px; text-align: justify">
-Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam de mais informações e/ou não estão bem definidos. Até o fim do processo de modelagem,devem ser adicionadas as informações necessárias ou o requisito deve ser removido.
+Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam de mais informações e/ou não estão bem definidos. Até o fim do processo de modelagem, devem ser adicionadas as informações necessárias ou o requisito deve ser removido.
 </p>
 
 ## Referências
@@ -60,3 +60,4 @@ Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam
 | ------ | ---------- | ------------------------- | ------ | ------------- |
 |  [1.0](/versoes/padroes_requisitos/1.0/)   | 16/02/2021 | Criação do documento | Definir padrões de escrita para os requisitos | Igor Paiva, Marcelo Victor e Thiago Lopes |
 |  1.1   | 17/02/2021 | Adição da seção "Padrão de identificação" | Definir padrões de identificação dos requisitos | Todos os integrantes |
+|  1.2   | 19/02/2021 | Correção na referência dos autores dos padrões de escrita | Referenciar adequadamente as fontes utilizadas | Igor Paiva |
