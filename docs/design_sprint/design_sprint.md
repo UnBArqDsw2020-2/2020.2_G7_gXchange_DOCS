@@ -192,12 +192,17 @@ Para avaliar o protótipo de alta fidelidade escolhemos o método de inspeção 
 
 ## Referências
 
-> "The Design Sprint". Google Ventures. Disponível em: https://www.gv.com/sprint/. Acesso em: 16 fev. 2021.
+>Lucidspark. Disponível em: https://lucidspark.com/pt. Acesso em: 19 fev. 2021
 
-> BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+>"The Design Sprint". Google Ventures. Disponível em: https://www.gv.com/sprint/. Acesso em: 16 fev. 2021.
+
+>MACIEL, Cristiano; Nogueira, José; NEUMANN Leandro; GARCIA, Ana. "Avaliação Heurística de Sítios na Web". Instituto de Computação - Universidade Federal Fluminense (UFF).
+
+>BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
 
 ## Versionamento
 
 | Versão | Data       | Modificação               | Motivo | Autor         |
 | ------ | ---------- | ------------------------- | ------ | ------------- |
 |  1.0   | 16/02/2021 | Criação do documento | Documentar o processo de design sprint realizado  | Todos os integrantes |
+|  1.1   | 19/02/2021 | Adição de referência da tabela de avaliação heurística e Lucidspark | Referenciar adequadamente as fontes utilizadas | Igor Paiva |

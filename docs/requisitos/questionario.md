@@ -116,4 +116,4 @@ Essas foram as respostas obtidas do questionário após as 73 respostas, ao todo
 | Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 17/02/2021 | Criação do documento | Relatar os resultados obtidos com o questionário | Rhuan Queiroz, Thiago Guilherme e Washington Bispo |
-| 1.1 | 17/02/2021 | Criação do documento | Colocar parentêses no *link* a ser decidido | Todos os integrantes |
+| 1.1 | 17/02/2021 | Colocar parentêses no *link* a ser decidido | Aplicar corretamente os padrões definidos | Washington Bispo |
