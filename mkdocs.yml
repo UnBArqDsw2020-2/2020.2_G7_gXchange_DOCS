@@ -31,7 +31,7 @@ nav:
         - Questionário: requisitos/questionario.md
         - Todos requisitos priorizados: requisitos/requisitos.md
       - Rastro dos participantes: rastro_participantes.md
-    - 1.2 Processos/Metodologias/:
+    - 1.2 Processos / Metodologias / Abordagens:
       - BPMN: bpmn.md
   - Versões documentos:
     - Léxico:
