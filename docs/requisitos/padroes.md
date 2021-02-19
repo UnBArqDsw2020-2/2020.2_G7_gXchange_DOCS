@@ -47,7 +47,7 @@ Utilizaremos uma abordagem sequencial para a identificação dos requisitos, na 
 ### A ser decidido
 
 <p style="text-indent: 20px; text-align: justify">
-Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam de mais informações e/ou não estão bem definidos. Até o fim do processo de modelagem,devem ser adicionadas as informações necessárias ou o requisito deve ser removido.
+Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam de mais informações e/ou não estão bem definidos. Até o fim do processo de modelagem, devem ser adicionadas as informações necessárias ou o requisito deve ser removido.
 </p>
 
 ## Referências

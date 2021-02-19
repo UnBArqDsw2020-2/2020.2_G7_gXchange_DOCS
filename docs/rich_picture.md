@@ -24,5 +24,5 @@ Rich picture é uma maneira de explorar, reconhecer e definir uma situação e e
 
 | Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
-| [1.0](/versoes/rich_picture/1.0/) | 17/02/2021 | Criação do documento | Documento de Rich Picture que foi realizado dia 09/02/2021 | Todos os integrantes |
+| [1.0](versoes/rich_picture/1.0.md/) | 17/02/2021 | Criação do documento | Documento de Rich Picture que foi realizado dia 09/02/2021 | Todos os integrantes |
 | 2.0 | 18/02/2021 | Editando introdução | Para que ficasse melhor de compreender o propósito de uso do Rich Picture | Rhuan Queiroz |
