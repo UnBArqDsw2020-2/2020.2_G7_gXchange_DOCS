@@ -8,12 +8,12 @@ Rich picture é uma maneira de explorar, reconhecer e definir uma situação e e
 
 ## Rich Picture de anúncios
 
-![Rich Picture Anúncios](../assets/rich_picture/anuncios.png)
+![Rich Picture Anúncios](assets/rich_picture/anuncios.png)
 <a href="https://drive.google.com/file/d/1jb8Efp-0fsOLo1cSm6k9DchTM2s3F_29/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ## Rich Picture de Usuário
 
-![Rich Picture Anúncios](../assets/rich_picture/usuario.png)
+![Rich Picture Anúncios](assets/rich_picture/usuario.png)
 <a href="https://drive.google.com/file/d/11DUdIebt6Jp-Bh4KeXSd8bwn0hltE14Q/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ## Referências Bibliográficas
