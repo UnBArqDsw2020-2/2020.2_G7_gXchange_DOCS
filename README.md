@@ -15,13 +15,23 @@
 | 18/0029223  |  Washington Bispo Arishita Junior |
 
 ## Sobre
-Aplicação web que consiste na troca e venda de jogos de video games entre os usuários do sistema.
+Este repositório é destinado ao grupo 7 - [**gXchange**](https://github.com/UnBArqDsw2020-2/2020.2_G7_gXchange_DOCS), contém toda a documentação do projeto da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano, na Universidade de Brasília - Gama, durante o período de 2020/2.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Aqui serão adicionados 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
+
+![design_sprint](docs/assets/screenshots/entrega_1/design_sprint.png)
+
+![requisitos](docs/assets/screenshots/entrega_1/requisitos.png)
+
+![bpmn](docs/assets/screenshots/entrega_1/bpmn.png)
 
 ## Vídeo(s) Primeira Entrega <<FOCO: DSW(Base)>>
-Aqui serão adicionados o(s) vídeo(s) da Primeira Entrega.
+
+### Desenho de Software (Base):
+
+#### 1.1 - [Módulo Projeto Não Orientado a Abordagens Específicas](https://youtu.be/Jo4Rm84yUq0)
+
+#### 1.2 - [Módulo Processos / Metodologias / Abordagens](https://youtu.be/48xTzKhKb_Y)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Aqui serão adicionados 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
