@@ -59,3 +59,5 @@ nav:
     - Github: padroes/github.md
     - Versões: padroes/versoes.md
     - Documento: padroes/documento.md
+  - Atas:
+    - Reunião dia 23/02/2021: atas/reuniao_23_02_2021.md
