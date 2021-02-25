@@ -37,6 +37,9 @@ nav:
       - Modelagem BPMN 2.0: bpmn.md
       - Rastro dos participantes: rastro_participantes_1.2.md
       - Apresentação: apresentacao_1.2.md
+  - Desenho de software (modelagem):
+    - 2.2 Notação UML – Diagramas Dinâmicos:
+      - Diagrama de classes: diagrama_classes.md
   - Versões documentos:
     - Rich Picture:
       - 1.1: versoes/rich_picture/1.0.md
