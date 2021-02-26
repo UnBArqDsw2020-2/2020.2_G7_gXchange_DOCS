@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O diagrama de pacotes mostra a estrutura de um sistema no nível de pacotes. Este documento auxiliará os integrantes da equipe a entender a estrutura e manter um padrão nos pacotes utilizados do projeto.
+O diagrama de pacotes mostra a estrutura de um sistema no nível de pacotes. Este documento auxiliará os integrantes da equipe a entender a estrutura e manter um padrão nos pacotes utilizados no projeto.
 </p>
 
 ## Diagrama
@@ -26,3 +26,4 @@ O diagrama de pacotes mostra a estrutura de um sistema no nível de pacotes. Est
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 24/02/2021 | Criação do documento | Documentar a estrutura dos pacotes que serão utilizados no projeto | Igor Paiva e Rhuan Queiroz |
+| 1.0.1 | 25/02/2021 | Correção ortográfica | Para corrigir um erro ortográfico | Rhuan Queiroz |
