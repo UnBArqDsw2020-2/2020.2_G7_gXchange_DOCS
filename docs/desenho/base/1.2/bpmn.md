@@ -10,31 +10,31 @@
 
 ### Geral
 
-![Geral](assets/bpmn/geral.png)
+![Geral](../../../assets/bpmn/geral.png)
 
 <a href="https://drive.google.com/file/d/1PHDlCUa7PCWjMdmeXPkYjLpSXYKqXnrc/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ### Sprint
 
-![Sprint](assets/bpmn/sprint.png)
+![Sprint](../../../assets/bpmn/sprint.png)
 
 <a href="https://drive.google.com/file/d/1YrvUe60em0bA3XrWl9RVtlHGOcVapE3v/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ### Planejamento de sprint
 
-![Planejamento de sprint](assets/bpmn/planejamento_sprint.png)
+![Planejamento de sprint](../../../assets/bpmn/planejamento_sprint.png)
 
 <a href="https://drive.google.com/file/d/1Lx1G7TReZOPH2Ro5l4c5JWYyoDQvjM0K/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ### Incrementação
 
-![Incrementação](assets/bpmn/incrementacao.png)
+![Incrementação](../../../assets/bpmn/incrementacao.png)
 
 <a href="https://drive.google.com/file/d/1RiqIu4-ijHWmuFCZXY9i0J7kVlt50WVO/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ### Fechamento de Sprint
 
-![Fechamento de Sprint](assets/bpmn/fechamento_sprint.png)
+![Fechamento de Sprint](../../../assets/bpmn/fechamento_sprint.png)
 
 <a href="https://drive.google.com/file/d/1AYYrlZN7u9WDY_TU93aacC47cjA9bdrW/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 

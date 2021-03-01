@@ -8,7 +8,7 @@ O planejamento da gerência de risco é o processo de definir como conduzir as a
 
 ## Estrutura analítica de Riscos
 
-![EAR](assets/ear.png)
+![EAR](../../../assets/ear.png)
 
 ### Organizacional
 

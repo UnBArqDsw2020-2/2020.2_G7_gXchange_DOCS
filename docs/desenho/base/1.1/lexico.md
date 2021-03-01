@@ -61,25 +61,25 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ------| ------- | --------- |
-| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o [perfil de usuário](/personas) definido | O usuário pode publicar, comprar, trocar [jogos](/lexico/#l4-jogo) | Comprador, vendedor, moderador |
+| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o [perfil de usuário](/personas) definido | O usuário pode publicar, comprar, trocar [jogos](/desenho/base/1.1/lexico/#l4-jogo) | Comprador, vendedor, moderador |
 
 #### L8 - **Invalidar**
 
 | Classificação | Noção  | Impacto | Sinônimos |
 | ------------- | ------ | ------- | --------- |
-| Verbo | Ação do moderador de tornar um [anúncio inválido](/lexico/#l10-anuncio-invalido) | Faz com que o anúncio se torne [inválido](/lexico/#l10-anuncio-invalido) e não seja listado para os [usuários](/lexico/#l7-usuario) | nulificar, anular |
+| Verbo | Ação do moderador de tornar um [anúncio inválido](/desenho/base/1.1/lexico/#l10-anuncio-invalido) | Faz com que o anúncio se torne [inválido](/desenho/base/1.1/lexico/#l10-anuncio-invalido) e não seja listado para os [usuários](/desenho/base/1.1/lexico/#l7-usuario) | nulificar, anular |
 
 #### L9 - **Anúncio válido**
 
 | Classificação | Noção  | Impacto | Sinônimos |
 | ------------- | ------ | ------- | --------- |
-| Estado | Um anúncio válido é listado para os [usuários](/lexico/#l7-usuario) | Um anúncio é criado como válido e o moderador pode [invalidá-lo](/lexico/#l8-invalidar) | - |
+| Estado | Um anúncio válido é listado para os [usuários](/desenho/base/1.1/lexico/#l7-usuario) | Um anúncio é criado como válido e o moderador pode [invalidá-lo](/desenho/base/1.1/lexico/#l8-invalidar) | - |
 
 #### L10 - **Anúncio inválido**
 
 | Classificação | Noção  | Impacto | Sinônimos |
 | ------------- | ------ | ------- | --------- |
-| Estado | Um anúncio válido não é listado para os [usuários](/lexico/#l7-usuario) | O moderador [invalida](/lexico/#l8-invalidar) ou valida um anúncio | - |
+| Estado | Um anúncio válido não é listado para os [usuários](/desenho/base/1.1/lexico/#l7-usuario) | O moderador [invalida](/desenho/base/1.1/lexico/#l8-invalidar) ou valida um anúncio | - |
 
 
 ## Referências Bibliográficas
