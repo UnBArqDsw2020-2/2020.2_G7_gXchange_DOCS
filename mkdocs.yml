@@ -41,6 +41,8 @@ nav:
     - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais:
       - 2.1.1 Notação UML – Diagramas Estáticos:
         - Diagrama de pacotes: diagrama_pacotes.md
+      - 2.1.2 Notação UML - Diagramas Dinâmicos:
+        - Diagramas de Atividade: diagramas_atividades.md
   - Versões documentos:
     - Rich Picture:
       - 1.1: versoes/rich_picture/1.0.md
