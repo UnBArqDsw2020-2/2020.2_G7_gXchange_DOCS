@@ -57,6 +57,8 @@ nav:
       - 1.0: versoes/riscos/1.0.md
     - Requisitos:
       - 1.0: versoes/requisitos/1.0.md
+    - Diagrama de Classe:
+      - 1.0: versoes/diagrama_classe/1.0.md
   - Padrões:
     - Atas: padroes/atas.md
     - Github: padroes/github.md
