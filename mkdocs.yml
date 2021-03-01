@@ -37,7 +37,10 @@ nav:
       - Modelagem BPMN 2.0: bpmn.md
       - Rastro dos participantes: rastro_participantes_1.2.md
       - Apresentação: apresentacao_1.2.md
-  - Desenho de software (modelagem):
+  - Desenho de Software (Modelagem):
+    - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais:
+      - 2.1.1 Notação UML – Diagramas Estáticos:
+        - Diagrama de pacotes: diagrama_pacotes.md
     - 2.2 Notação UML – Diagramas Dinâmicos:
       - Diagrama de classes: diagrama_classes.md
   - Versões documentos:
