@@ -18,7 +18,9 @@ O diagrama de pacotes mostra a estrutura de um sistema no nível de pacotes. Est
 
 ## Referências
 
->"UML Package Diagrams Overview". Disponível em: https://www.uml-diagrams.org/package-diagrams-overview.html. Acesso em: 25 fev. 2021.
+>"UML Package Diagrams Overview". UML-diagrams. Disponível em: https://www.uml-diagrams.org/package-diagrams-overview.html. Acesso em: 25 fev. 2021.
+
+>"Tudo sobre diagramas de pacotes UML". Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-pacotes-uml. Acesso em: 26 fev. 2021.
 
 ## Versionamento
  Versão | Data       | Modificação                    | Motivo | Autor         |
