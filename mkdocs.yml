@@ -42,6 +42,7 @@ nav:
       - 2.1.1 Notação UML – Diagramas Estáticos:
         - Diagrama de pacotes: diagrama_pacotes.md
         - Diagrama de classes: diagrama_classes.md
+        - Diagrama de componentes: diagrama_componentes.md
   - Versões documentos:
     - Rich Picture:
       - 1.1: versoes/rich_picture/1.0.md
@@ -68,3 +69,4 @@ nav:
     - Documento: padroes/documento.md
   - Atas:
     - Reunião dia 23/02/2021: atas/reuniao_23_02_2021.md
+    - Reunião dia 01/03/2021: atas/reuniao_01_03_2021.md
