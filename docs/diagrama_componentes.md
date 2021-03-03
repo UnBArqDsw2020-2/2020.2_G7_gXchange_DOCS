@@ -1,4 +1,4 @@
-# Diagrama de classes
+# Diagrama de Componentes
 
 ## Introdução
 
@@ -33,3 +33,4 @@ Foi debatido entre os integrantes sobre a necessidade de especificar um componen
 | Versão | Data       | Modificação               | Motivo | Autor         |
 | ------ | ---------- | ------------------------- | ------ | ------------- |
 |  1.0  | 02/03/2021 | Criação do documento de diagrama de componente | Criar um diagrama que indentifique os componentes presentes no projeto | Todos os integrantes |
+|  1.0.1  | 03/03/2021 | Correção no titulo do documento | - | Marcelo Victor |
