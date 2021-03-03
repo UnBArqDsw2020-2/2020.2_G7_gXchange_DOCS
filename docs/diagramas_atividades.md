@@ -129,7 +129,7 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
 
 #### Imagem do diagrama
 
-![Diagrama de atividade de alterar senha](assets/diagrama_atividade/DA_DesativarConta.png)
+![Diagrama de atividade de desativar conta](assets/diagrama_atividade/DA_DesativarConta.png)
 
 <a href="https://drive.google.com/file/d/15pQF-46pXoyKyEgUS3sTcMOdpfS5W4vR/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
@@ -142,7 +142,7 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
 
 #### Imagem do diagrama
 
-![Diagrama de atividade de alterar senha](assets/diagrama_atividade/DA_EditarPerfil.png)
+![Diagrama de atividade de editar perfil](assets/diagrama_atividade/DA_EditarPerfil.png)
 
 <a href="https://drive.google.com/file/d/13ZobU4LVqJdabI952fX3jfgoz4B5d-Qa/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
@@ -155,7 +155,7 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
 
 #### Imagem do diagrama
 
-![Diagrama de atividade de alterar senha](assets/diagrama_atividade/DA_ExcluirConta.png)
+![Diagrama de atividade de excluir conta](assets/diagrama_atividade/DA_ExcluirConta.png)
 
 <a href="https://drive.google.com/file/d/1TvxyQ2PjRgN5rS5OqWprksxPXhRtoXCl/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
@@ -163,6 +163,19 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de atividade de excluir conta  | Necessidade de representar as atividades tomadas pelo usuário com o intuito de excluir conta | Thiago Guilherme e Thiago Lopes |
+
+### Personalizar Feed
+
+#### Imagem do diagrama
+
+![Diagrama de atividade de personalizar feed](assets/diagrama_atividade/DA_Personalizar_Feed.png)
+
+<a href="https://drive.google.com/file/d/1WrZCUBI8Qerx0OvbEgAIzMbWNUabuRu9/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+
+#### Versionamento
+ Versão | Data       | Modificação                    | Motivo | Autor         |
+| ------ | ---------- | -------------------------------| ------ | ------------- |
+| 1.0 | 03/03/2021 | Adição do diagrama de atividade de personalizar feed  | Necessidade de representar as atividades tomadas pelo usuário com o intuito de personalizar feed | Thiago Guilherme e Thiago Lopes |
 
 ## Referências
 
