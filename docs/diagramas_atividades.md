@@ -21,6 +21,19 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de login | Necessidade de representar o sistema de login em um diagrama de atividade | Marcelo Victor e Washington Bispo |
 
+### Mensagem para o vendedor
+
+### Imagem do diagrama
+
+![Diagrama de atividade mensagem para o comprador](assets/diagrama_atividade/mensagem_vendedor.png)
+
+<a href="https://drive.google.com/file/d/1LQfUq2LrjinLC51Cd3SB_9WQHzRoVyiw/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+
+### Versionamento
+ Versão | Data       | Modificação                    | Motivo | Autor         |
+| ------ | ---------- | -------------------------------| ------ | ------------- |
+| 1.0 | 03/03/2021 | Adição do diagrama de mensagem para o vendedor | Necessidade de representar o sistema de mensagem para um vendedor em um diagrama de atividade | Marcelo Victor e Washington Bispo |
+
 ### Mensagem para o comprador
 
 ### Imagem do diagrama
