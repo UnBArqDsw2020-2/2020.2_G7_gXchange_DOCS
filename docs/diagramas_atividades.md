@@ -34,6 +34,19 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de mensagem para o comprador | Necessidade de representar o sistema de mensagem para um comprador em um diagrama de atividade | Marcelo Victor e Washington Bispo |
 
+### Avaliar usuário
+
+### Imagem do diagrama
+
+![Diagrama de atividade de avaliar o usuário](assets/diagrama_atividade/avaliar_usuario.jpeg)
+
+<a href="https://drive.google.com/file/d/1TphZXcGxb1sWWaDUTEJqrzptHiv70tT3/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+
+### Versionamento
+ Versão | Data       | Modificação                    | Motivo | Autor         |
+| ------ | ---------- | -------------------------------| ------ | ------------- |
+| 1.0 | 03/03/2021 | Adição do diagrama de avaliar o usuário | Necessidade de representar o sistema de avaliar o usuário em um diagrama de atividade | Marcelo Victor e Washington Bispo |
+
 ## Referências
 
 >"O que é diagrama de atividades UML?". Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml. Acesso em: 1º mar. 2021.
