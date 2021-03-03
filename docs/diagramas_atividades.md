@@ -10,81 +10,94 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
 
 ### Cadastro
 
-### Imagem do diagrama
+#### Imagem do diagrama
 
 ![Diagrama de atividade cadastro](assets/diagrama_atividade/cadastro.png)
 
 <a href="https://drive.google.com/file/d/1bNngyaRaPIq9yKHv14zx5CwV__vJOU8Z/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
-### Versionamento
+#### Versionamento
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de cadastro | Necessidade de representar o sistema de cadasto em um diagrama de atividade | Marcelo Victor e Washington Bispo |
 
 ### Login
 
-### Imagem do diagrama
+#### Imagem do diagrama
 
 ![Diagrama de atividade login](assets/diagrama_atividade/login.jpeg)
 
 <a href="https://drive.google.com/file/d/1u0bj9bIStbdFTb9Z4-DUXy2tkEdyV6NW/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
-### Versionamento
+#### Versionamento
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de login | Necessidade de representar o sistema de login em um diagrama de atividade | Marcelo Victor e Washington Bispo |
 
 ### Mensagem para o vendedor
 
-### Imagem do diagrama
+#### Imagem do diagrama
 
 ![Diagrama de atividade mensagem para o vendedor](assets/diagrama_atividade/mensagem_vendedor.png)
 
 <a href="https://drive.google.com/file/d/1LQfUq2LrjinLC51Cd3SB_9WQHzRoVyiw/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
-### Versionamento
+#### Versionamento
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de mensagem para o vendedor | Necessidade de representar o sistema de mensagem para um vendedor em um diagrama de atividade | Marcelo Victor e Washington Bispo |
 
 ### Mensagem para o comprador
 
-### Imagem do diagrama
+#### Imagem do diagrama
 
 ![Diagrama de atividade mensagem para o comprador](assets/diagrama_atividade/mensagem_comprador.jpeg)
 
 <a href="https://drive.google.com/file/d/1yWHnuG8Rk7L3BAnvoEMsJuwxOfruN8oZ/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
-### Versionamento
+#### Versionamento
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de mensagem para o comprador | Necessidade de representar o sistema de mensagem para um comprador em um diagrama de atividade | Marcelo Victor e Washington Bispo |
 
 ### Avaliar usuário
 
-### Imagem do diagrama
+#### Imagem do diagrama
 
 ![Diagrama de atividade de avaliar o usuário](assets/diagrama_atividade/avaliar_usuario.jpeg)
 
 <a href="https://drive.google.com/file/d/1TphZXcGxb1sWWaDUTEJqrzptHiv70tT3/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
-### Versionamento
+#### Versionamento
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de avaliar o usuário | Necessidade de representar o sistema de avaliar o usuário em um diagrama de atividade | Marcelo Victor e Washington Bispo |
 
 ### Banir usuário
 
-### Imagem do diagrama
+#### Imagem do diagrama
 
 ![Diagrama de atividade de banir o usuário](assets/diagrama_atividade/banir_usuario.png)
 
 <a href="https://drive.google.com/file/d/1EccWXysRzTMVrbIQkj8fGvqTtNVk52us/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
-### Versionamento
+#### Versionamento
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 03/03/2021 | Adição do diagrama de avaliar o usuário | Necessidade de representar o sistema de banimento do usuário em um diagrama de atividade | Marcelo Victor e Washington Bispo |
+
+### Reportar anúncio
+
+#### Imagem do diagrama
+
+![Diagrama de atividade de reportar anúncio](assets/diagrama_atividade/reportar_anuncio.png)
+
+<a href="https://drive.google.com/file/d/1KwFJFLO9h_htUbVmuCdsXirfWejj21Eo/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+
+#### Versionamento
+ Versão | Data       | Modificação                    | Motivo | Autor         |
+| ------ | ---------- | -------------------------------| ------ | ------------- |
+| 1.0 | 03/03/2021 | Adição do diagrama de atividade de reportar anúncio, criado no dia 24/02/2021  | Necessidade de representar as atividades tomadas pelo usuário com o intuito de reportar um anúncio | Igor Paiva e Rhuan Queiroz |
 
 ## Referências
 
@@ -97,3 +110,4 @@ O diagrama de atividades é um diagrama de comportamento UML que mostra o fluxo 
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 01/03/2021 | Criação do documento base para os diagramas de atividade | Prover a estrutura base para a inserção dos diagramas | Thiago Lopes e Rhuan Queiroz |
+| 1.1 | 01/03/2021 | Correção da hierarquia dos títulos dos diagramas | Corrigir a estrutura de índice para facilitar a navegação | Igor Paiva e Rhuan Queiroz |
