@@ -44,7 +44,8 @@ nav:
         - Diagrama de classes: diagrama_classes.md
         - Diagrama de componentes: diagrama_componentes.md
       - 2.1.2 Notação UML - Diagramas Dinâmicos:
-        - Diagramas de Atividade: diagramas_atividades.md
+        - Diagramas de atividade: diagramas_atividades.md
+        - Diagramas de estados: diagramas_estados.md
   - Versões documentos:
     - Rich Picture:
       - 1.1: versoes/rich_picture/1.0.md
