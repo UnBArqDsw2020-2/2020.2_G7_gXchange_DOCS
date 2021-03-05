@@ -40,7 +40,12 @@ nav:
   - Desenho de Software (Modelagem):
     - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais:
       - 2.1.1 Notação UML – Diagramas Estáticos:
-        - Diagrama de pacotes: desenho/modelagem/diagrama_pacotes.md
+        - Diagrama de pacotes: diagrama_pacotes.md
+        - Diagrama de classes: diagrama_classes.md
+        - Diagrama de componentes: diagrama_componentes.md
+      - 2.1.2 Notação UML - Diagramas Dinâmicos:
+        - Diagramas de atividade: diagramas_atividades.md
+        - Diagramas de estados: diagramas_estados.md
   - Versões documentos:
     - Rich Picture:
       - 1.1: versoes/rich_picture/1.0.md
@@ -58,10 +63,13 @@ nav:
       - 1.0: versoes/riscos/1.0.md
     - Requisitos:
       - 1.0: versoes/requisitos/1.0.md
+    - Diagrama de Classe:
+      - 1.0: versoes/diagrama_classe/1.0.md
   - Padrões:
     - Atas: iniciativa/padroes/atas.md
     - Github: iniciativa/padroes/github.md
     - Versões: iniciativa/padroes/versoes.md
     - Documento: iniciativa/padroes/documento.md
   - Atas:
-    - Reunião dia 23/02/2021: iniciativa/atas/reuniao_23_02_2021.md
+    - Reunião dia 23/02/2021: atas/reuniao_23_02_2021.md
+    - Reunião dia 01/03/2021: atas/reuniao_01_03_2021.md
