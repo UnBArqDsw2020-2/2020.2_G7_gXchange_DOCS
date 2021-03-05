@@ -9,20 +9,20 @@ O digrama de estados é um diagrama comportamental que mostra comportamentos dis
 ## Discussão entre os autores
 
 <p style="text-indent: 20px; text-align: justify">
-Foi discutido sobre o <a href="/lexico/">documento de léxico</a>, visto que esse lista os objetos característicos do sistema. Dessa forma, foi visto que seria necessário adicionar o objeto "conta" (pertencente a um usuário), os estados "conta ativa" e "conta desativada" ao léxico do projeto.
+Foi discutido sobre o <a href="/desenho/base/1.1/lexico/">documento de léxico</a>, visto que esse lista os objetos característicos do sistema. Dessa forma, foi visto que seria necessário adicionar o objeto "conta" (pertencente a um usuário), os estados "conta ativa" e "conta desativada" ao léxico do projeto.
 </p>
 
 ## Diagramas
 
 ### Estados de um anúncio
 
-![Diagrama de estado de um anúncio](assets/diagramas_estados/anuncio.png)
+![Diagrama de estado de um anúncio](../../../assets/diagramas_estados/anuncio.png)
 
 <a href="https://drive.google.com/file/d/1LwM7ArpFO7gMIzwc-FQl7OL3FlMuQNpY/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ### Estados de uma conta
 
-![Diagrama de estado de um usuário](assets/diagramas_estados/conta_usuario.png)
+![Diagrama de estado de um usuário](../../../assets/diagramas_estados/conta_usuario.png)
 
 <a href="https://drive.google.com/file/d/18pgdHR4dGJC1AKnnXJrR8lkabk7T-19T/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 

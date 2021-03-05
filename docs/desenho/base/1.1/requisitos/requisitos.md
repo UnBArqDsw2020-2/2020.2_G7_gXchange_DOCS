@@ -114,5 +114,5 @@ Legenda aplicável à rastreabilidade:
 
 | Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
-| [1.0](../../../../versoes/requisitos/1.0.md) | 17/02/2021 | Criação do documento | Listar, identificar e priorizar todos os requisitos e suas respectivas técnicas | Todos os integrantes |
+| [1.0](/versoes/requisitos/1.0.md) | 17/02/2021 | Criação do documento | Listar, identificar e priorizar todos os requisitos e suas respectivas técnicas | Todos os integrantes |
 | 2.0 | 17/02/2021 | Modificando os "e" para "," na coluna de rastreabilidade e corrigindo incoerências no RF-36 | Correção para seguir o padrão e corrigindo incoerências | Washington Bispo |
