@@ -12,7 +12,7 @@ O diagrama de pacotes mostra a estrutura de um sistema no nível de pacotes. Est
 
 ## Imagem diagrama
 
-![Diagrama de pacotes](assets/diagrama_pacotes.png)
+![Diagrama de pacotes](/../../assets/diagrama_pacotes.png)
 
 <a href="https://drive.google.com/file/d/1nWQfHkQFVMbse3rAtp8eLebTYxH26HsH/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 

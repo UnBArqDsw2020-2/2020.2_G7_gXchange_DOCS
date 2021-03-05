@@ -8,35 +8,35 @@
 
 ### Pré login
 
-![Pré login](../assets/design_sprint/prototipo_media/pre_login.png)
+![Pré login](../../../../assets/design_sprint/prototipo_media/pre_login.png)
 
 ### Cadastro
 
-![Cadastro](../assets/design_sprint/prototipo_media/cadastro.png)
+![Cadastro](../../../../assets/design_sprint/prototipo_media/cadastro.png)
 
 ### Login
 
-![Login](../assets/design_sprint/prototipo_media/login.png)
+![Login](../../../../assets/design_sprint/prototipo_media/login.png)
 
 ### Feed
 
-![Feed](../assets/design_sprint/prototipo_media/feed.png)
+![Feed](../../../../assets/design_sprint/prototipo_media/feed.png)
 
 ### Anúncio
 
-![Anúncio](../assets/design_sprint/prototipo_media/anuncio.png)
+![Anúncio](../../../../assets/design_sprint/prototipo_media/anuncio.png)
 
 ### Anúncio sidebar
 
-![Anúncio sidebar](../assets/design_sprint/prototipo_media/anuncio_sidebar.png)
+![Anúncio sidebar](../../../../assets/design_sprint/prototipo_media/anuncio_sidebar.png)
 
 ### Conversas
 
-![Conversas](../assets/design_sprint/prototipo_media/conversas.png)
+![Conversas](../../../../assets/design_sprint/prototipo_media/conversas.png)
 
 ### Chat
 
-![Chat](../assets/design_sprint/prototipo_media/chat.png)
+![Chat](../../../../assets/design_sprint/prototipo_media/chat.png)
 
 ## Versionamento
 
