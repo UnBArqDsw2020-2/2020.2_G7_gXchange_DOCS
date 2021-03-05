@@ -1,5 +1,10 @@
 # Padrões de versionamento
 
+## Documento em desenvolvimento
+<p style="text-indent: 20px; text-align: justify">
+Enquanto o documento estiver em desenvolvimento, ou seja, a branch em que ele está não foi mesclada à <em>develop</em> então não é necessário versionar o documento.
+</p>
+
 ## Versões Maiores
 
 <p style="text-indent: 20px; text-align: justify">
