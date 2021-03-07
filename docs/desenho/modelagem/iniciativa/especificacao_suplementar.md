@@ -24,10 +24,10 @@ Não será utilizado nenhum padrão de escrita e/ou notação, será prezada a c
 O gXchange, assim como já definido anteriormente nos seguintes documentos:
 </p>
 
-- [5W2H](/desenho/base/1.1/5w2h)
-- [Rich picture](/desenho/base/1.1/rich_picture)
-- [Léxico](/desenho/base/1.1/lexico)
-- [Requisitos](/desenho/base/1.1/requisitos/requisitos/)
+- [5W2H](../../../../desenho/base/1.1/5w2h)
+- [Rich picture](../../../../desenho/base/1.1/rich_picture)
+- [Léxico](../../../../desenho/base/1.1/lexico)
+- [Requisitos](../../../../desenho/base/1.1/requisitos/requisitos/)
 
 ### 1.4 Referências
 
@@ -35,21 +35,21 @@ O gXchange, assim como já definido anteriormente nos seguintes documentos:
 Documentos e recursos utilizados referenciados nesse documento:
 </p>
 
-- [Requisitos](/desenho/base/1.1/requisitos/requisitos/)
-- [Design Sprint](/desenho/base/1.1/design_sprint/design_sprint/)
+- [Requisitos](../../../../desenho/base/1.1/requisitos/requisitos/)
+- [Design Sprint](../../../../desenho/base/1.1/design_sprint/design_sprint/)
 
 ## 2. Descrição geral
 
 ### 2.1 Pespectiva de produto
 
 <p style="text-indent: 20px; text-align: justify">
-As características de pespectiva do produto podem ser encontradas no <a href="/desenho/base/1.1/5w2h/">documento 5W2H</a>.
+As características de pespectiva do produto podem ser encontradas no <a href="../../../../desenho/base/1.1/5w2h/">documento 5W2H</a>.
 </p>
 
 ### 2.2 Classes e características dos usuários
 
 <p style="text-indent: 20px; text-align: justify">
-As características e perfis de usuário estão definidos no <a href="/desenho/base/1.1/personas/">documento de personas</a>.
+As características e perfis de usuário estão definidos no <a href="../../../../desenho/base/1.1/personas/">documento de personas</a>.
 </p>
 
 ### 2.3 Ambiente operacional
@@ -275,7 +275,7 @@ Um usuário deve ser capaz de acessar a seção de ajuda e suporte do sistema. P
 ### 4.1 Modelo de dados lógicos
 
 <p style="text-indent: 20px; text-align: justify">
-Posteriormente, será definido um diagrama entidade relacionamento. Será utilizado também o <a href="/desenho/modelage/2.1/diagrama_classes/">diagrama de classe</a>.
+Posteriormente, será definido um diagrama entidade relacionamento. Será utilizado também o <a href="../../../../desenho/modelagem/2.1/diagrama_classes/">diagrama de classe</a>.
 </p>
 
 ### 4.2 Dicionário de dados
@@ -337,7 +337,7 @@ Sobre o protocolo de rede, será utilizado o smtp para email e o https como prot
 ## 6. Atributos de qualidade
 
 <p style="text-indent: 20px; text-align: justify">
-Os atributos de qualidade e seus requisitos estão listados no <a href="/desenho/modelagem/iniciativa/atributos_qualidade/">documento de atributos de qualidade</a>.
+Os atributos de qualidade e seus requisitos estão listados no <a href="../atributos_qualidade/">documento de atributos de qualidade</a>.
 </p>
 
 ## 7. Requisitos de Internacionalização e Localização
