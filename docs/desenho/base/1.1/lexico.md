@@ -61,7 +61,7 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ------| ------- | --------- |
-| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o [perfil de usuário](/desenho/base/1.1/personas) definido | O usuário pode publicar, comprar, trocar [jogos](#l4-jogo) | Comprador, vendedor, moderador |
+| Objeto | Qualquer pessoa que esteja utilizando o sistema, de acordo com o [perfil de usuário](../personas) definido | O usuário pode publicar, comprar, trocar [jogos](#l4-jogo) | Comprador, vendedor, moderador |
 
 #### L8 - **Invalidar**
 
