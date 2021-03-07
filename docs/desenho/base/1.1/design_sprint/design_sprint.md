@@ -22,7 +22,7 @@ O tempo utilizado para cada etapa foi:
 Foi realizado uma sessão de brainstorming, em que cada integrande escreveu em um postsheet uma possível funcionalidade do gXchange.
 </p>
 
-![Unpack](../assets/design_sprint/unpack.png)
+![Unpack](../../../../assets/design_sprint/unpack.png)
 
 <a href="https://drive.google.com/file/d/1H8sKywsvaYAmn7sOsN99mRqZH5Q6O0MI/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
@@ -34,31 +34,31 @@ A etapa de sketch foi realizado da seguinte forma: cada integrante do grupo dese
 
 #### Igor
 
-![Igor](../assets/design_sprint/richpictures/igor.jpg)
+![Igor](../../../../assets/design_sprint/richpictures/igor.jpg)
 
 <a href="https://drive.google.com/file/d/1DX4rVJuT8bC3aMbufkYyxH36cGaoCVEu/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 #### Marcelo
 
-![Marcelo](../assets/design_sprint/richpictures/marcelo.JPG)
+![Marcelo](../../../../assets/design_sprint/richpictures/marcelo.JPG)
 
 <a href="https://drive.google.com/file/d/11EPNhKOdXngcmWQQZXIYBMfmg3bgcULl/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 #### Rhuan
 
-![Rhuan](../assets/design_sprint/richpictures/rhuan.jpg)
+![Rhuan](../../../../assets/design_sprint/richpictures/rhuan.jpg)
 
 <a href="https://drive.google.com/file/d/1ZVlHOMIaXA0zkhOkmaJCKhaNYOuoDLR1/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 #### Thiago Lopes
 
-![Thiago L](../assets/design_sprint/richpictures/thiago_lopes.jpg)
+![Thiago L](../../../../assets/design_sprint/richpictures/thiago_lopes.jpg)
 
 <a href="https://drive.google.com/file/d/1mSPK40aGVul1n5fWzii9dBM-owVpJVFH/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 #### Washington
 
-![Washington](../assets/design_sprint/richpictures/washington.jpg)
+![Washington](../../../../assets/design_sprint/richpictures/washington.jpg)
 
 <a href="https://drive.google.com/file/d/1GLOnkgMb5Vzzou3cRRSDZHvW6_KOy0X-/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
@@ -68,7 +68,7 @@ A etapa de sketch foi realizado da seguinte forma: cada integrante do grupo dese
 Após a etapa de sketch, comparamos os rich pictures de cada integrante, e decidimos que o rich picture do Igor seria o escolhido.
 </p>
 
-![Storyboard](../assets/design_sprint/storyboard.jpeg)
+![Storyboard](../../../../assets/design_sprint/storyboard.jpeg)
 
 <a href="https://drive.google.com/file/d/1H8sKywsvaYAmn7sOsN99mRqZH5Q6O0MI/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
@@ -80,13 +80,13 @@ A partir dos processos anteriores da design sprint, foi desenvolvido um protóti
 
 #### Protótipo de média fidelidade
 
-As imagens do protótipo podem ser acessadas [aqui](/design_sprint/prototipo_media/)
+As imagens do protótipo podem ser acessadas [aqui](/desenho/base/1.1/design_sprint/prototipo_media/)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FkB1mXdqJKSqapMchhTGEKd%2FProt%25C3%25B3tipo-de-M%25C3%25A9dia-gXchange%3Fscaling%3Dscale-down%26node-id%3D2%253A9" allowfullscreen></iframe>
 
 #### Protótipo de alta fidelidade
 
-As imagens do protótipo podem ser acessadas [aqui](/design_sprint/prototipo_alta/)
+As imagens do protótipo podem ser acessadas [aqui](/desenho/base/1.1/design_sprint/prototipo_alta/)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FHHDDXocoxIRDL002Ic7uYZ%2FProt%25C3%25B3tipo-de-Alta-gXchange%3Fnode-id%3D2%253A9%26scaling%3Dscale-down" allowfullscreen></iframe>
 

@@ -13,42 +13,42 @@ nav:
   - Sobre: index.md
   - Desenho de Software (Base):
     - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
-      - Rich Picture: rich_picture.md
-      - 5W2H: 5w2h.md
-      - Léxico: lexico.md
-      - Diagramas causa-efeito: causa_efeito.md
-      - Análise de Riscos: riscos.md
+      - Rich Picture: desenho/base/1.1/rich_picture.md
+      - 5W2H: desenho/base/1.1/5w2h.md
+      - Léxico: desenho/base/1.1/lexico.md
+      - Diagramas causa-efeito: desenho/base/1.1/causa_efeito.md
+      - Análise de Riscos: desenho/base/1.1/riscos.md
       - Perfil de usuário:
-        - Personas: personas.md
+        - Personas: desenho/base/1.1/personas.md
       - Design Sprint:
-        - Execução: design_sprint/design_sprint.md
-        - Prototipo Média-Fidelidade: design_sprint/prototipo_media.md
-        - Prototipo Alta-Fidelidade: design_sprint/prototipo_alta.md
+        - Execução: desenho/base/1.1/design_sprint/design_sprint.md
+        - Prototipo Média-Fidelidade: desenho/base/1.1/design_sprint/prototipo_media.md
+        - Prototipo Alta-Fidelidade: desenho/base/1.1/design_sprint/prototipo_alta.md
       - Requisitos:
-        - Padrões: requisitos/padroes.md
-        - Introspecção: requisitos/introspeccao.md
-        - Brainstorming: requisitos/brainstorming.md
-        - Questionário: requisitos/questionario.md
-        - Todos requisitos priorizados: requisitos/requisitos.md
-      - Rastro dos participantes: rastro_participantes_1.1.md
-      - Apresentação: apresentacao_1.1.md
+        - Padrões: desenho/base/1.1/requisitos/padroes.md
+        - Introspecção: desenho/base/1.1/requisitos/introspeccao.md
+        - Brainstorming: desenho/base/1.1/requisitos/brainstorming.md
+        - Questionário: desenho/base/1.1/requisitos/questionario.md
+        - Todos requisitos priorizados: desenho/base/1.1/requisitos/requisitos.md
+      - Rastro dos participantes: desenho/base/1.1/rastro_participantes_1.1.md
+      - Apresentação: desenho/base/1.1/apresentacao_1.1.md
     - 1.2 Módulo Processos / Metodologias / Abordagens:
-      - Metodologias: metodologia.md
-      - Modelagem BPMN 2.0: bpmn.md
-      - Rastro dos participantes: rastro_participantes_1.2.md
-      - Apresentação: apresentacao_1.2.md
+      - Metodologias: desenho/base/1.2/metodologia.md
+      - Modelagem BPMN 2.0: desenho/base/1.2/bpmn.md
+      - Rastro dos participantes: desenho/base/1.2/rastro_participantes_1.2.md
+      - Apresentação: desenho/base/1.2/apresentacao_1.2.md
   - Desenho de Software (Modelagem):
     - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais:
       - 2.1.1 Notação UML – Diagramas Estáticos:
-        - Diagrama de pacotes: diagrama_pacotes.md
-        - Diagrama de classes: diagrama_classes.md
-        - Diagrama de componentes: diagrama_componentes.md
+        - Diagrama de pacotes: desenho/modelagem/2.1/diagrama_pacotes.md
+        - Diagrama de classes: desenho/modelagem/2.1/diagrama_classes.md
+        - Diagrama de componentes: desenho/modelagem/2.1/diagrama_componentes.md
       - 2.1.2 Notação UML - Diagramas Dinâmicos:
-        - Diagramas de atividade: diagramas_atividades.md
-        - Diagramas de estados: diagramas_estados.md
-    - Iniciativas extras:
-      - Atributos de Qualidades: atributos_qualidade.md
-      - Especificação Suplementar (SRS): especificacao_suplementar.md
+        - Diagramas de atividade: desenho/modelagem/2.2/diagramas_atividades.md
+        - Diagramas de estados: desenho/modelagem/2.2/diagramas_estados.md
+      - Iniciativas extras:
+        - Atributos de Qualidades: atributos_qualidade.md
+        - Especificação Suplementar (SRS): especificacao_suplementar.md
   - Versões documentos:
     - Rich Picture:
       - 1.1: versoes/rich_picture/1.0.md
@@ -68,11 +68,12 @@ nav:
       - 1.0: versoes/requisitos/1.0.md
     - Diagrama de Classe:
       - 1.0: versoes/diagrama_classe/1.0.md
-  - Padrões:
-    - Atas: padroes/atas.md
-    - Github: padroes/github.md
-    - Versões: padroes/versoes.md
-    - Documento: padroes/documento.md
-  - Atas:
-    - Reunião dia 23/02/2021: atas/reuniao_23_02_2021.md
-    - Reunião dia 01/03/2021: atas/reuniao_01_03_2021.md
+  - Iniciativas extras gerais:
+    - Padrões:
+      - Atas: iniciativa_geral/padroes/atas.md
+      - Github: iniciativa_geral/padroes/github.md
+      - Versões: iniciativa_geral/padroes/versoes.md
+      - Documento: iniciativa_geral/padroes/documento.md
+    - Atas:
+      - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
+      - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
