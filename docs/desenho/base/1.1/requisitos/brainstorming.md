@@ -49,28 +49,28 @@ Seguindo as mesmas perguntas guias, foi realizada uma sessão de brainstorming p
 
 | Número | Requisito |
 |:-:|-|
-| 1 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de realizar seu cadastro por email |
-| 2 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de realizar seu cadastro pelo facebook |
-| 3 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de realizar seu cadastro pelo google |
-| 4 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de alterar seu dados (email, nome, telefone, senha, endereço, foto de perfil) |
-| 5 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de desativar sua conta |
-| 6 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de excluir sua conta |
-| 7 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de realizar login utilizando impressão digital |
-| 8 | O [comprador](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de [avaliar](/desenho/base/1.1/lexico/#l5-avaliar) um [vendedor](/desenho/base/1.1/lexico/#l7-usuario) |
-| 9 | O [vendedor](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de [avaliar](/desenho/base/1.1/lexico/#l5-avaliar) um [comprador](/desenho/base/1.1/lexico/#l7-usuario) |
-| 10 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de [reportar](/desenho/base/1.1/lexico/#l6-reportar) outro [usuário](/desenho/base/1.1/lexico/#l7-usuario) |
-| 11 | O [vendedor](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de criar um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 12 | O [vendedor](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de adicionar fotos a um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 13 | O [vendedor](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de adicionar palavras chave a um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 14 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de enviar mensagens para outros [usuários](/desenho/base/1.1/lexico/#l7-usuario) |
-| 15 | O [moderador](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de banir um [usuário](/desenho/base/1.1/lexico/#l7-usuario) |
-| 16 | O [moderador](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de excluir um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 17 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de visualizar um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 18 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de filtrar os [anúncios](/desenho/base/1.1/lexico/#l1-anuncio)|
-| 19 | O [comprador](/desenho/base/1.1/lexico/#l7-usuario) e [vendedor](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de acessar o perfil de outros [compradores](/desenho/base/1.1/lexico/#l7-usuario) e [vendedores](/desenho/base/1.1/lexico/#l7-usuario) |
-| 20 | O [comprador](/desenho/base/1.1/lexico/#l7-usuario) e [vendedor](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de bloquear mensagens de outros [compradores](/desenho/base/1.1/lexico/#l7-usuario) e [vendedores](/desenho/base/1.1/lexico/#l7-usuario) |
-| 21 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de interagir com o feed de [anúncios](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 22 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de escolher os tópicos de [anúncios](/desenho/base/1.1/lexico/#l1-anuncio) que deseja visualizar no seu feed [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
+| 1 | O [usuário](../lexico/#l7-usuario) deve ser capaz de realizar seu cadastro por email |
+| 2 | O [usuário](../lexico/#l7-usuario) deve ser capaz de realizar seu cadastro pelo facebook |
+| 3 | O [usuário](../lexico/#l7-usuario) deve ser capaz de realizar seu cadastro pelo google |
+| 4 | O [usuário](../lexico/#l7-usuario) deve ser capaz de alterar seu dados (email, nome, telefone, senha, endereço, foto de perfil) |
+| 5 | O [usuário](../lexico/#l7-usuario) deve ser capaz de desativar sua conta |
+| 6 | O [usuário](../lexico/#l7-usuario) deve ser capaz de excluir sua conta |
+| 7 | O [usuário](../lexico/#l7-usuario) deve ser capaz de realizar login utilizando impressão digital |
+| 8 | O [comprador](../lexico/#l7-usuario) deve ser capaz de [avaliar](../lexico/#l5-avaliar) um [vendedor](../lexico/#l7-usuario) |
+| 9 | O [vendedor](../lexico/#l7-usuario) deve ser capaz de [avaliar](../lexico/#l5-avaliar) um [comprador](../lexico/#l7-usuario) |
+| 10 | O [usuário](../lexico/#l7-usuario) deve ser capaz de [reportar](../lexico/#l6-reportar) outro [usuário](../lexico/#l7-usuario) |
+| 11 | O [vendedor](../lexico/#l7-usuario) deve ser capaz de criar um [anúncio](../lexico/#l1-anuncio) |
+| 12 | O [vendedor](../lexico/#l7-usuario) deve ser capaz de adicionar fotos a um [anúncio](../lexico/#l1-anuncio) |
+| 13 | O [vendedor](../lexico/#l7-usuario) deve ser capaz de adicionar palavras chave a um [anúncio](../lexico/#l1-anuncio) |
+| 14 | O [usuário](../lexico/#l7-usuario) deve ser capaz de enviar mensagens para outros [usuários](../lexico/#l7-usuario) |
+| 15 | O [moderador](../lexico/#l7-usuario) deve ser capaz de banir um [usuário](../lexico/#l7-usuario) |
+| 16 | O [moderador](../lexico/#l7-usuario) deve ser capaz de excluir um [anúncio](../lexico/#l1-anuncio) |
+| 17 | O [usuário](../lexico/#l7-usuario) deve ser capaz de visualizar um [anúncio](../lexico/#l1-anuncio) |
+| 18 | O [usuário](../lexico/#l7-usuario) deve ser capaz de filtrar os [anúncios](../lexico/#l1-anuncio)|
+| 19 | O [comprador](../lexico/#l7-usuario) e [vendedor](../lexico/#l7-usuario) deve ser capaz de acessar o perfil de outros [compradores](../lexico/#l7-usuario) e [vendedores](../lexico/#l7-usuario) |
+| 20 | O [comprador](../lexico/#l7-usuario) e [vendedor](../lexico/#l7-usuario) deve ser capaz de bloquear mensagens de outros [compradores](../lexico/#l7-usuario) e [vendedores](../lexico/#l7-usuario) |
+| 21 | O [usuário](../lexico/#l7-usuario) deve ser capaz de interagir com o feed de [anúncios](../lexico/#l1-anuncio) |
+| 22 | O [usuário](../lexico/#l7-usuario) deve ser capaz de escolher os tópicos de [anúncios](../lexico/#l1-anuncio) que deseja visualizar no seu feed [**(a ser decidido)**](../padroes/#a-ser-decidido) |
 | 23 | O sistema deve utilizar reconhecimento de imagem nas fotos dos jogos para aferir a qualidade da mídia |
 | 24 | O sistema deve utilizar reconhecimento de imagem nas fotos de usuário e anúncios para filtrar imagens impróprias |
 
@@ -78,14 +78,14 @@ Seguindo as mesmas perguntas guias, foi realizada uma sessão de brainstorming p
 
 | Número | Requisito |
 |:-:|-|
-| 1 | O sistema deve enviar um e-mail de confirmação para o [usuário](/desenho/base/1.1/lexico/#l7-usuario) após o cadastro |
+| 1 | O sistema deve enviar um e-mail de confirmação para o [usuário](../lexico/#l7-usuario) após o cadastro |
 | 2 | O sistema deve fornecer um modo noturno |
-| 3 | O sistema deve possuir uma página de criação de anúncios intuitiva [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
-| 4 | O sistema deve ser gamificado [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
-| 5 | O sistema deve ser amigável [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
-| 6 | O sistema deve possuir uma boa usabilidade [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
-| 7 | O sistema deve exibir somente perfis de [compradores](/desenho/base/1.1/lexico/#l7-usuario) e [vendedores](/desenho/base/1.1/lexico/#l7-usuario) |
-| 8 | O sistema deve filtrar palavras impróprias em [anúncios](/desenho/base/1.1/lexico/#l1-anuncio) [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
+| 3 | O sistema deve possuir uma página de criação de anúncios intuitiva [**(a ser decidido)**](../padroes/#a-ser-decidido) |
+| 4 | O sistema deve ser gamificado [**(a ser decidido)**](../padroes/#a-ser-decidido) |
+| 5 | O sistema deve ser amigável [**(a ser decidido)**](../padroes/#a-ser-decidido) |
+| 6 | O sistema deve possuir uma boa usabilidade [**(a ser decidido)**](../padroes/#a-ser-decidido) |
+| 7 | O sistema deve exibir somente perfis de [compradores](../lexico/#l7-usuario) e [vendedores](../lexico/#l7-usuario) |
+| 8 | O sistema deve filtrar palavras impróprias em [anúncios](../lexico/#l1-anuncio) [**(a ser decidido)**](../padroes/#a-ser-decidido) |
 
 ## Referências
 
