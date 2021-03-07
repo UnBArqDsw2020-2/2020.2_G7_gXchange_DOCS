@@ -80,13 +80,13 @@ A partir dos processos anteriores da design sprint, foi desenvolvido um protóti
 
 #### Protótipo de média fidelidade
 
-As imagens do protótipo podem ser acessadas [aqui](/desenho/base/1.1/design_sprint/prototipo_media/)
+As imagens do protótipo podem ser acessadas [aqui](../prototipo_media/)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FkB1mXdqJKSqapMchhTGEKd%2FProt%25C3%25B3tipo-de-M%25C3%25A9dia-gXchange%3Fscaling%3Dscale-down%26node-id%3D2%253A9" allowfullscreen></iframe>
 
 #### Protótipo de alta fidelidade
 
-As imagens do protótipo podem ser acessadas [aqui](/desenho/base/1.1/design_sprint/prototipo_alta/)
+As imagens do protótipo podem ser acessadas [aqui](../prototipo_alta/)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FHHDDXocoxIRDL002Ic7uYZ%2FProt%25C3%25B3tipo-de-Alta-gXchange%3Fnode-id%3D2%253A9%26scaling%3Dscale-down" allowfullscreen></iframe>
 

@@ -8,7 +8,7 @@ As atividades listadas nesse arquivo ocorreram entre os dias 05/02/2021 e 17/02/
 
 - 5W2H
 - Rich Picture
-- Léxico, versões [1.1](/versoes/lexico/1.1/), [1.2](/versoes/lexico/1.2/), [1.4](/versoes/lexico/1.4/) e [1.5](/desenho/base/1.1/lexico)
+- Léxico, versões [1.1](../../../../versoes/lexico/1.1/), [1.2](../../../../versoes/lexico/1.2/), [1.4](../../../../versoes/lexico/1.4/) e [1.5](/desenho/base/1.1/lexico)
 - Análise de riscos
 - Diagrama causa-efeito
 - Perfil de usuário
@@ -22,7 +22,7 @@ As atividades listadas nesse arquivo ocorreram entre os dias 05/02/2021 e 17/02/
 
 - 5W2H
 - Rich Picture e o Documento
-- Léxico, versões [1.4](/versoes/lexico/1.4) e [1.5](/desenho/base/1.1/lexico)
+- Léxico, versões [1.4](../../../../versoes/lexico/1.4) e [1.5](/desenho/base/1.1/lexico)
 - Análise de riscos
 - Diagrama causa-efeito
 - Perfil de usuário
@@ -37,7 +37,7 @@ As atividades listadas nesse arquivo ocorreram entre os dias 05/02/2021 e 17/02/
 - 5W2H
 - Rich Picture e o Documento
 - Causa-efeito
-- Léxico, versão [1.0](/versoes/lexico/1.0)
+- Léxico, versão [1.0](../../../../versoes/lexico/1.0)
 - Análise de Riscos
 - Questionário
 - Brainstorming
@@ -48,7 +48,7 @@ As atividades listadas nesse arquivo ocorreram entre os dias 05/02/2021 e 17/02/
 
 - Rich Picture
 - 5W2H
-- Léxico, versões [1.4](/versoes/lexico/1.4) e [1.5](/desenho/base/1.1/lexico)
+- Léxico, versões [1.4](../../../../versoes/lexico/1.4) e [1.5](/desenho/base/1.1/lexico)
 - Diagrama Causa-Efeito
 - Análise de Riscos
 - Personas
@@ -69,7 +69,7 @@ As atividades listadas nesse arquivo ocorreram entre os dias 05/02/2021 e 17/02/
 - Questionário
 - Brainstorming
 - Priorização dos requisitos
-- Análise de Riscos, versão [2.0](/riscos)
+- Análise de Riscos, versão [2.0](../riscos)
 
 ## Washington Bispo Arishita Júnior (18/0029223)
 

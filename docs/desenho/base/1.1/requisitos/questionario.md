@@ -81,28 +81,28 @@ Essas foram as respostas obtidas do questionário após as 73 respostas, ao todo
 
 | Número | Requisito |
 |:-:|-|
-| 1 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de visualizar as fotos de um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 2 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de enviar mensagens para outros [usuários](/desenho/base/1.1/lexico/#l7-usuario) |
-| 3 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de acessar uma página de ajuda e suporte |
-| 4 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de [avaliar](/desenho/base/1.1/lexico/#l5-avaliar) outros [usuários](/desenho/base/1.1/lexico/#l7-usuario) |
-| 5 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de visualizar o perfil de outros [usuários](/desenho/base/1.1/lexico/#l7-usuario) |
-| 6 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de visualizar o feed de [anúncios](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 7 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de buscar por um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
-| 8 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de realizar seu cadastro por email |
-| 9 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de realizar seu cadastro pelo facebook |
-| 10 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de realizar seu cadastro pelo google |
-| 11 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de visualizar as [avaliações](/desenho/base/1.1/lexico/#l5-avaliar) de outros [usuários](/desenho/base/1.1/lexico/#l7-usuario) |
-| 12 | O [usuário](/desenho/base/1.1/lexico/#l7-usuario) deve ser capaz de visualizar os dados (nome do [jogo](/desenho/base/1.1/lexico/#l4-jogo), tempo de uso, plataforma, localização, preço) de um [anúncio](/desenho/base/1.1/lexico/#l1-anuncio) |
+| 1 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de visualizar as fotos de um [anúncio](../../lexico/#l1-anuncio) |
+| 2 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de enviar mensagens para outros [usuários](../../lexico/#l7-usuario) |
+| 3 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de acessar uma página de ajuda e suporte |
+| 4 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de [avaliar](../../lexico/#l5-avaliar) outros [usuários](../../lexico/#l7-usuario) |
+| 5 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de visualizar o perfil de outros [usuários](../../lexico/#l7-usuario) |
+| 6 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de visualizar o feed de [anúncios](../../lexico/#l1-anuncio) |
+| 7 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de buscar por um [anúncio](../../lexico/#l1-anuncio) |
+| 8 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de realizar o seu cadastro por email |
+| 9 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de realizar o seu cadastro pelo facebook |
+| 10 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de realizar o seu cadastro pelo google |
+| 11 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de visualizar as [avaliações](../../lexico/#l5-avaliar) de outros [usuários](../../lexico/#l7-usuario) |
+| 12 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de visualizar os dados (nome do [jogo](../../lexico/#l4-jogo), tempo de uso, plataforma, localização, preço) de um [anúncio](../../lexico/#l1-anuncio) |
 
 ### Não Funcionais
 
 | Número | Requisito |
 |:-:|-|
-| 1 | O sistema deve manter a senha do [usuário](/desenho/base/1.1/lexico/#l7-usuario) encriptada |
-| 2 | O sistema deve ser capaz de responder as requisições do [usuário](/desenho/base/1.1/lexico/#l7-usuario) rapidamente [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
-| 3 | O sistema deve ser confiável [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
-| 4 | O sistema deve ser de fácil aprendizado [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
-| 5 | O sistema deve dispor os [anúncios](/desenho/base/1.1/lexico/#l1-anuncio) de maneira organizada [**(a ser decidido)**](/requisitos/padroes/#a-ser-decidido) |
+| 1 | O sistema deve manter a senha do [usuário](../../lexico/#l7-usuario) encriptada |
+| 2 | O sistema deve ser capaz de responder às requisições do [usuário](../../lexico/#l7-usuario) rapidamente [**(a ser decidido)**](../padroes/#a-ser-decidido) |
+| 3 | O sistema deve ser confiável [**(a ser decidido)**](../padroes/#a-ser-decidido) |
+| 4 | O sistema deve ser de fácil aprendizado [**(a ser decidido)**](../padroes/#a-ser-decidido) |
+| 5 | O sistema deve dispor os [anúncios](../../lexico/#l1-anuncio) de maneira organizada [**(a ser decidido)**](../padroes/#a-ser-decidido) |
 
 
 ## Referências

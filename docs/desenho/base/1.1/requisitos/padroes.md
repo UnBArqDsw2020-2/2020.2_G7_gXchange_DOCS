@@ -17,7 +17,7 @@ O padrão de escrita dos requisitos, na perspectiva do sistema, que será adotad
 </div>
 
 <p style="text-indent: 20px; text-align: justify">
-O padrão de escrita dos requisitos, na perspectiva de um <a href="/desenho/base/1.1/lexico/#l1-usuario">usuário</a>, que será adotado nesse projeto será baseado no proposto por Alexander e Stevens (2002 apud Wiegers e Beatty, 2013):
+O padrão de escrita dos requisitos, na perspectiva de um <a href="../../lexico/#l1-usuario">usuário</a>, que será adotado nesse projeto será baseado no proposto por Alexander e Stevens (2002 apud Wiegers e Beatty, 2013):
 </p>
 
 <div style="background: #f8f8f8">
