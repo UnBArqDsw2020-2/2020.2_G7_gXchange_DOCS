@@ -8,7 +8,7 @@ Os diagramas de classes são um dos tipos de diagramas mais úteis na UML. Nós 
 
 ## Diagrama
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/93f8a4be-dce2-4876-8b27-88783b29637e" id="wLogO8Gx0bNC"></iframe></div>
+![Diagrama de classes](../../../../assets/diagrama_classes/diagrama_de_classes.png)
 
 <a href="https://drive.google.com/file/d/1Eo1pcQ4aFlpviyRvsF1M0vWQN2ekdF6b/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 

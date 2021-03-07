@@ -8,11 +8,7 @@ O diagrama de pacotes mostra a estrutura de um sistema no nível de pacotes. Est
 
 ## Diagrama
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/9dac0fbf-313f-4174-981d-cc73833ac190" id="_WafnIRwPDC~"></iframe></div>
-
-## Imagem diagrama
-
-![Diagrama de pacotes](/../../assets/diagrama_pacotes.png)
+![Diagrama de pacotes](/../../assets/diagrama_pacotes/diagrama_de_pacotes.png)
 
 <a href="https://drive.google.com/file/d/1nWQfHkQFVMbse3rAtp8eLebTYxH26HsH/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
