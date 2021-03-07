@@ -206,67 +206,67 @@ Um usuário, como moderador, deve ser capaz de visualizar, remover denúncias, d
 - RF-23
 - RF-34
 
-### 3.7 Notificar usuário
+### 3.8 Notificar usuário
 
-#### 3.7.1 Descrição
+#### 3.8.1 Descrição
 
 <p style="text-indent: 20px; text-align: justify">
 Um vendedor deve ser notificado das alterações de estado dos seus anúncios e de mensagens recebidas, um comprador deve ser notificado quando o anúncio que ele reportou foi invalidado. Possui prioridade Baixa.
 </p>
 
-#### 3.7.2 Requisitos funcionais
+#### 3.8.2 Requisitos funcionais
 
 - RF-16
 - RF-18
 - RF-21
 
-### 3.8 Chat de usuários
+### 3.9 Chat de usuários
 
-#### 3.8.1 Descrição
+#### 3.9.1 Descrição
 
 <p style="text-indent: 20px; text-align: justify">
 Um usuário, como comprador, deve ser capaz de enviar mensagens para um vendedor por meio de um anúncio, visualizar as mensagens enviadas e receber mensagens. Um usuário, como vendedor, deve ser capaz de visualizar os chats de anúncios e as conversas de cada chat. Possui prioridade Alta.
 </p>
 
-#### 3.8.2 Requisitos funcionais
+#### 3.9.2 Requisitos funcionais
 
 - RF-11
 - RF-35
 
-### 3.9 Qualidade de mídia
+### 3.10 Qualidade de mídia
 
-#### 3.9.1 Descrição
+#### 3.10.1 Descrição
 
 <p style="text-indent: 20px; text-align: justify">
 Um usuário deve ser garantido pelo sistema que a qualidade das mídias de um anúncio são boas. Possui prioridade baixíssima.
 </p>
 
-#### 3.9.2 Requisitos funcionais
+#### 3.10.2 Requisitos funcionais
 
 - RF-37
 - RF-38
 
-### 3.10 Login por impressão digital
+### 3.11 Login por impressão digital
 
-#### 3.10.1 Descrição
+#### 3.11.1 Descrição
 
 <p style="text-indent: 20px; text-align: justify">
 Um usuário deve ser capaz de realizar login utilizando a impressão digital. Possui prioridade baixíssima.
 </p>
 
-#### 3.10.2 Requisitos funcionais
+#### 3.11.2 Requisitos funcionais
 
 - RF-32
 
-### 3.11 Ajuda e suporte
+### 3.12 Ajuda e suporte
 
-#### 3.11.1 Descrição
+#### 3.12.1 Descrição
 
 <p style="text-indent: 20px; text-align: justify">
 Um usuário deve ser capaz de acessar a seção de ajuda e suporte do sistema. Possui prioridade baixa.
 </p>
 
-#### 3.11.2 Requisitos funcionais
+#### 3.12.2 Requisitos funcionais
 
 - RF-40
 
