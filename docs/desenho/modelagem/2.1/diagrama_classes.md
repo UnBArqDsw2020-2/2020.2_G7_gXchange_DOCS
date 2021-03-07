@@ -20,5 +20,5 @@ Os diagramas de classes são um dos tipos de diagramas mais úteis na UML. Nós 
 
 | Versão | Data       | Modificação               | Motivo | Autor         |
 | ------ | ---------- | ------------------------- | ------ | ------------- |
-|  [1.0](versoes/diagrama_classe/1.0.md)  | 25/02/2021 | Criação do documento de diagrama de classe | Criar um diagrama que indentifique as classes presentes no projeto | Todos os integrantes |
+|  [1.0](../../../versoes/diagrama_classe/1.0.md)  | 25/02/2021 | Criação do documento de diagrama de classe | Criar um diagrama que indentifique as classes presentes no projeto | Todos os integrantes |
 |  2.0  | 25/02/2021 | Correção na referência e adição do iframe para o diagrama | Corrigir um erro na referência e deixar o diagrama mais visível | Thiago Lopes |

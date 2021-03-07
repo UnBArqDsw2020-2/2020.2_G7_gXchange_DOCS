@@ -26,7 +26,7 @@ Considerando essas categorias é possível dizer que existem 3 tipos de usuário
 |--|--|
 | Status: | Persona primária |
 | Nome: | Thomas Araujo Souza |
-| Foto: | <img src="../assets/personas/thomas.png" alt="Thomas" style="width:130px;"/> |
+| Foto: | <img src="../../../../assets/personas/thomas.png" alt="Thomas" style="width:130px;"/> |
 | Idade: | 22 anos |
 | Profissão: | Estudante e estagiário em e-commerce |
 | Escolaridade: | Cursando ensino superior |
@@ -43,7 +43,7 @@ Considerando essas categorias é possível dizer que existem 3 tipos de usuário
 |--|--|
 | Status: | Persona primária |
 | Nome: | Carlos Macedo dos Santos |
-| Foto: | <img src="../assets/personas/carlos.png" alt="Carlos" style="width:130px;"/> |
+| Foto: | <img src="../../../../assets/personas/carlos.png" alt="Carlos" style="width:130px;"/> |
 | Idade: | 29 anos |
 | Profissão: | Streamer |
 | Escolaridade: | Ensino médio |
@@ -60,7 +60,7 @@ Considerando essas categorias é possível dizer que existem 3 tipos de usuário
 |--|--|
 | Status: | Persona primária |
 | Nome: |  Sarah Brenda Campos |
-| Foto: | <img src="../assets/personas/sarah.png" alt="Sarah" style="width:130px;"/> |
+| Foto: | <img src="../../../../assets/personas/sarah.png" alt="Sarah" style="width:130px;"/> |
 | Idade: | 23 anos |
 | Profissão: | Estudante e moderadora na gXchange |
 | Escolaridade: | Cursando ensino superior |
@@ -77,7 +77,7 @@ Considerando essas categorias é possível dizer que existem 3 tipos de usuário
 |--|--|
 | Status: | Antipersona |
 | Nome: |  Rebecca Fátima Mendes |
-| Foto: | <img src="../assets/personas/rebecca.png" alt="Sarah" style="width:130px;"/> |
+| Foto: | <img src="../../../../assets/personas/rebecca.png" alt="Sarah" style="width:130px;"/> |
 | Idade: | 35 anos |
 | Profissão: | Empresária no ramo de agronomia |
 | Escolaridade: | Ensino médio completo |
