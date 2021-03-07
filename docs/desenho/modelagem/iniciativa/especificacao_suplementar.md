@@ -258,7 +258,7 @@ Um usuário deve ser capaz de realizar login utilizando a impressão digital. Po
 
 - RF-32
 
-### 3.11 Login por impressão digital
+### 3.11 Ajuda e suporte
 
 #### 3.11.1 Descrição
 
