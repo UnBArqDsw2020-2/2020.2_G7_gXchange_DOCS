@@ -8,7 +8,7 @@ Para compreender e definir as relações e expectativas dos atributos de qualida
 
 ## Palavras-chave
 
-&emsp;[Vendedor](/desenho/base/1.1/lexico/#l7-usuario), [Usuário](/desenho/base/1.1/lexico/#l7-usuario), [Anúncio](/desenho/base/1.1/lexico/#l1-anuncio), usabilidade, eficiência, reusabilidade, portabilidade, perfomance, segurança, confiabilidade, qualidade. 
+&emsp;[Vendedor](../../../../desenho/base/1.1/lexico/#l7-usuario), [Usuário](../../../../desenho/base/1.1/lexico/#l7-usuario), [Anúncio](../../../../desenho/base/1.1/lexico/#l1-anuncio), usabilidade, eficiência, reusabilidade, portabilidade, perfomance, segurança, confiabilidade, qualidade. 
 
 ## Passo 1: começar com um escopo abrangente
 
