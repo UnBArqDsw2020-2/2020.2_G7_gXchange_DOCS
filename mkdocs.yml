@@ -46,8 +46,10 @@ nav:
       - 2.1.2 Notação UML - Diagramas Dinâmicos:
         - Diagramas de atividade: desenho/modelagem/2.2/diagramas_atividades.md
         - Diagramas de estados: desenho/modelagem/2.2/diagramas_estados.md
-      - 2.1.3 Modelagem Ágil:
-        - Backlog de Produto: desenho/modelagem/2.3/ftf.md
+        - Diagramas de sequência: desenho/modelagem/2.2/diagramas_sequencia.md
+      - 2.1.3 Modelagem ágil:
+        - First Things First: desenho/modelagem/2.3/ftf.md
+        - Backlog de produto: desenho/modelagem/2.3/backlog_produto.md
       - Iniciativas extras:
         - Atributos de Qualidades: desenho/modelagem/iniciativa/atributos_qualidade.md
         - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
@@ -68,6 +70,7 @@ nav:
       - 1.0: versoes/riscos/1.0.md
     - Requisitos:
       - 1.0: versoes/requisitos/1.0.md
+      - 2.0: versoes/requisitos/2.0.md
     - Diagrama de Classe:
       - 1.0: versoes/diagrama_classe/1.0.md
   - Iniciativas extras gerais:
