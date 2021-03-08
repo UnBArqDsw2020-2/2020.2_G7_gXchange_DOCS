@@ -26,7 +26,7 @@ A planilha com o backlog pode ser encontrada <a href="https://docs.google.com/sp
 
 ![Épicos do Backlog de produto](../../../assets/backlog/epicos.jpg)
 
-<a href="https://drive.google.com/file/d/1F3agi1-CH5wM29scCQSqeCgigCoEFREV/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1iDe37NllFQeHeoQFabc9UfBS2PsbVqu3/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ### Histórias de usuários
 
