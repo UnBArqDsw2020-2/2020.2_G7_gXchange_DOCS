@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O digrama de estados é um diagrama comportamental que mostra comportamentos discretos de uma parte de sistema, através de mudanças finitas de estados. Este documento auxiliará na compreensão dos estados dos objetos do sistema e nas mudanças entre eles.
+O diagrama de estados é um diagrama comportamental que mostra comportamentos discretos de uma parte de sistema, através de mudanças finitas de estados. Este documento auxiliará na compreensão dos estados dos objetos do sistema e nas mudanças entre eles.
 </p>
 
 ## Discussão entre os autores
@@ -24,7 +24,7 @@ Foi discutido sobre o <a href="../../../../desenho/base/1.1/lexico/">documento d
 
 ![Diagrama de estado de um usuário](../../../assets/diagramas_estados/conta_usuario.png)
 
-<a href="https://drive.google.com/file/d/18pgdHR4dGJC1AKnnXJrR8lkabk7T-19T/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1ymASm8SGyDbJvkVIgiXMNRS6dB91OjyW/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
 ## Referências
 
