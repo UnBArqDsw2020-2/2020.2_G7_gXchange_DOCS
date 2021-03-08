@@ -46,6 +46,7 @@ nav:
       - 2.1.2 Notação UML - Diagramas Dinâmicos:
         - Diagramas de atividade: desenho/modelagem/2.2/diagramas_atividades.md
         - Diagramas de estados: desenho/modelagem/2.2/diagramas_estados.md
+        - Diagramas de sequência: desenho/modelagem/2.2/diagramas_sequencia.md
       - Iniciativas extras:
         - Atributos de Qualidades: desenho/modelagem/iniciativa/atributos_qualidade.md
         - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
