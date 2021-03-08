@@ -12,7 +12,19 @@ O backlog de produto em um projeto ágil contém uma lista de demandas de trabal
 
 ## Backlog
 
-<p>
+<p style="text-indent: 20px; text-align: justify">
+Será convencionado os graus de granularidade do sistema como sendo:
+</p>
+
+- User Story (História de usuário): algo que pode ser desenvolvido em uma iteração (Sprint)
+- Epic (Épico): pode ser um conjunto de histórias de usuário ou um conjunto de épicos menores
+- Feature (funcionalidade): Grupo de capacidades do sistema que agregam valor ao usuário. Seja: 
+    - Uma história de usuário
+    - Um conjunto de histórias de usuário
+    - Um épico
+    - Um conjunto de épicos
+
+<p style="text-indent: 20px; text-align: justify">
 A planilha com o backlog pode ser encontrada <a href="https://docs.google.com/spreadsheets/d/1cwIyA45C8Xvj6mNrDmgCpoLtkpJnH1IgDXl2kX7muxc/edit?usp=sharing" target="_blank" rel="noopener">aqui</a>
 </p>
 
