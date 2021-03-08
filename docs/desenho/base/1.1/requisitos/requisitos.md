@@ -90,21 +90,46 @@ Legenda aplicável à rastreabilidade:
 | Identificador | Requisito | Prioridade | Rastreabilidade |
 |:--:|--|:--:|:--:|
 | RNF-01 | O sistema deve informar o comprador e vendedor que as mensagens poderão ser verificadas em caso de denúncias | **Must** | [INF-29](../introspeccao/#requisitos) |
-| RNF-02 | O sistema deve possibilitar uma navegabilidade ágil entre as funcionalidades [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Should** | [INF-30](../introspeccao/#requisitos) |
-| RNF-03 | A interface do sistema deverá possuir uma boa usabilidade e de fácil aprendizado [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Should** | [INF-31](../introspeccao/#requisitos), [BNF-6](../brainstorming/#nao-funcionais), [QNF-4](../questionario/#nao-funcionais) |
 | RNF-04 | O sistema de mensagens deve buscar novas mensagens em no máximo 5 segundos | **Must** | [INF-32](../introspeccao/#requisitos) |
-| RNF-05 | O sistema deve funcionar em *smartphones* | **Must** | [INF-33](../introspeccao/#requisitos) |
+| RNF-05 | O sistema deve funcionar em *smartphones* seja Android ou iOS | **Must** | [INF-33](../introspeccao/#requisitos) |
 | RNF-06 | O sistema deve enviar um e-mail de confirmação para o [usuário](../../lexico/#l7-usuario) após o cadastro | **Should** | [BNF-1](../brainstorming/#nao-funcionais) |
 | RNF-07 | O sistema deve fornecer um modo noturno | **Could** | [BNF-2](../brainstorming/#nao-funcionais) |
-| RNF-08 | O sistema deve possuir uma página de criação de anúncios intuitiva [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Should** | [BNF-3](../brainstorming/#nao-funcionais) |
-| RNF-09 | O sistema deve ser gamificado [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Could** | [BNF-4](../brainstorming/#nao-funcionais) |
-| RNF-10 | O sistema deve ser amigável [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Should** | [BNF-5](../brainstorming/#nao-funcionais) |
 | RNF-11 | O sistema deve exibir somente perfis de [compradores](../../lexico/#l7-usuario) e [vendedores](../../lexico/#l7-usuario) | **Should** | [BNF-7](../brainstorming/#nao-funcionais) |
-| RNF-12 | O sistema deve filtrar palavras impróprias em [anúncios](../../lexico/#l1-anuncio) [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Could** | [BNF-8](../brainstorming/#nao-funcionais) |
+| RNF-12 | O sistema deve filtrar palavras impróprias em [anúncios](../../lexico/#l1-anuncio) | **Could** | [BNF-8](../brainstorming/#nao-funcionais) |
 | RNF-13 | O sistema deve manter a senha do [usuário](../../lexico/#l7-usuario) encriptada | **Must** | [QNF-1](../questionario/#nao-funcionais) |
-| RNF-14 | O sistema deve ser capaz de responder as requisições do [usuário](../../lexico/#l7-usuario) rapidamente [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Must** | [QNF-2](../questionario/#nao-funcionais) |
-| RNF-15 | O sistema deve ser confiável [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Must** | [QNF-3](../questionario/#nao-funcionais) |
-| RNF-16 | O sistema deve dispor os [anúncios](../../lexico/#l1-anuncio) de maneira organizada [**(a ser decidido)**](../padroes/#a-ser-decidido) | **Should** | [QNF-5](../questionario/#nao-funcionais) |
+
+### Qualidade
+
+<p style="text-indent: 20px; text-align: justify">
+Os requisitos de qualidade aqui listados foram obtidos realizando uma técnica de exploração dos atributos de qualidade do sistema e podem ser encontrados <a href="../../../../modelagem/iniciativa/atributos_qualidade">aqui</a>. Já o documento de especificação dos requisitos pode ser acessado <a href="../../../../modelagem/iniciativa/especificacao_suplementar">aqui</a>.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+As prioridades maiores representam requisitos que são mais relevantes. Mais detalhes sobre a priorização dos atributos de qualidade podem ser encontrados <a href="../../../../modelagem/iniciativa/atributos_qualidade/#passo-3-priorizar-a-lista">aqui</a>.
+</p>
+
+| Indentificador | Requisito | Prioridade | Atributo de qualidade |
+|:--:|--|:--:|:--:|
+| RNFQ-1 | O vendedor com experiência deve ser capaz de cadastrar um anúncio, desconsiderando o tempo para realizar as fotografias, em uma média de tempo de 8 minutos, com um máximo de 12 minutos, 90% das vezes | 3 | Usabilidade |
+| RNFQ-2 | O sistema deve reutilizar os componentes já criados que se encaixem na tarefa necessária | 2 | Usabilidade, Reusabilidade |
+| RNFQ-3 | O sistema deve utilizar um conjunto de ícones e *assets* padronizados, sempre com o mesmo propósito | 2 | Usabilidade, Reusabilidade |
+| RNFQ-4 | O sistema deve informar erros em campos no formulário de cadastro de anúncio | 3 | Usabilidade |
+| RNFQ-5 | O sistema deve informar erros com uma janela de tempo de no máximo 5 segundos | 3 | Usabilidade, Perfomance |
+| RNFQ-6 | O sistema deve submeter requisições apenas se os campos forem válidos e estiverem corretos | 3 | Usabilidade, Perfomance |
+| RNFQ-7 | O sistema deve permitir ao usuário cancelar a tarefa em execução antes da conclusão de pelo menos 50% da mesma | 3 | Usabilidade |
+| RNFQ-8 | Antes de realizar uma requisição durante uma tarefa o sistema deve permitir ao usuário cancelar a tarefa | 3 | Usabilidade |
+| RNFQ-9 | Os componentes do sistema devem resolver os problemas utilizando a menor quantidade de operações possível, no máximo 70% do processamento destinado a ele | 2 | Performance, Eficiência |
+| RNFQ-10 | Os componentes do sistema devem resolver os problemas utilizando a menor quantidade de memória possível, no máximo 70% da memória destinado a ele | 2 | Performance, Eficiência |
+| RNFQ-11 | O sistema deve solicitar um *CAPTCHA* sempre que o usuário errar a senha por 2 ou mais vezes consecutivas | 6 | Segurança |
+| RNFQ-12 | O sistema deve solicitar a senha atual do usuário antes de desativar ou excluir a conta  | 6 |  Segurança |
+| RNFQ-13 | O sistema deve solicitar confirmação do usuário por email antes de excluir a conta | 6 | Segurança |
+| RNFQ-14 | O sistema deve ser eficaz em navegadores modernos, como Google Chrome, Mozilla Firefox, Microsoft Edge, Opera GX e Safari | 4 | Portabilidade |
+| RNFQ-15 | O sistema deve carregar as páginas WEB em no máximo 10 segundos, dada uma rede de 10 ou mais megabits por segundo | 2 | Eficiência, Performance |
+| RNFQ-16 | O sistema deve responder requisições em no máximo 5 segundos estritos | 2 | Eficiência, Performance |
+| RNFQ-17 | O sistema deve recuperar os objetos do SGBD em no máximo 3 segundos | 2 | Eficiência, Performance |
+| RNFQ-18 | O sistema não deve falhar em responder as requisições mais que 5 vezes em 1000 casos | 4 |Confiabilidade |
+| RNFQ-19 | Os componentes do sistema não devem falhar mais do que uma vez entre 30 dias | 4 | Confiabilidade |
+| RNFQ-20 | Os componentes do sistema devem se recuperar de uma falha simples em menos de 10s | 4 | Confiabilidade |
 
 ## Referências
 
@@ -115,4 +140,5 @@ Legenda aplicável à rastreabilidade:
 | Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | [1.0](../../../../../versoes/requisitos/1.0/) | 17/02/2021 | Criação do documento | Listar, identificar e priorizar todos os requisitos e suas respectivas técnicas | Todos os integrantes |
-| 2.0 | 17/02/2021 | Modificando os "e" para "," na coluna de rastreabilidade e corrigindo incoerências no RF-36 | Correção para seguir o padrão e corrigindo incoerências | Washington Bispo |
+| [2.0](../../../../../versoes/requisitos/2.0/) | 17/02/2021 | Modificando os "e" para "," na coluna de rastreabilidade e corrigindo incoerências no RF-36 | Correção para seguir o padrão e corrigindo incoerências | Washington Bispo |
+| 3.0 | 07/03/2021 | Inserindo requisitos não funcionais de qualidade e removendo os requisitos com a ser decidido | Para que os requisitos não funcionais estejam bem estruturados | Igor Paiva, Rhuan Queiroz, Thiago Guilherme, Thiago Lopes e Washingo Bispo |

@@ -42,6 +42,12 @@ Utilizaremos uma abordagem sequencial para a identificação dos requisitos, na 
 <em>RNF-NÚMERO</em>.  Para os requisitos funcionais. Exemplo: RNF-13
 </p>
 
+### Requisitos não funcionais de qualidade
+
+<p style="text-indent: 20px; background: #f8f8f8">
+<em>RNFQ-NÚMERO</em>.  Para os requisitos não funcionais de qualidade. Exemplo: RNFQ-11
+</p>
+
 ## Marcações nos requisitos
 
 ### A ser decidido
@@ -61,3 +67,4 @@ Os requisitos com a marca "<b>(a ser decidido)</b>" são requisitos que precisam
 |  [1.0](/versoes/padroes_requisitos/1.0/)   | 16/02/2021 | Criação do documento | Definir padrões de escrita para os requisitos | Igor Paiva, Marcelo Victor e Thiago Lopes |
 |  1.1   | 17/02/2021 | Adição da seção "Padrão de identificação" | Definir padrões de identificação dos requisitos | Todos os integrantes |
 |  1.2   | 19/02/2021 | Correção na referência dos autores dos padrões de escrita | Referenciar adequadamente as fontes utilizadas | Igor Paiva |
+|  1.3   | 07/03/2021 | Adição do padrão de identificação dos requisitos não funcionais de qualidade | Igor Paiva, Rhuan Queiroz, Thiago Guilherme, Thiago Lopes e Washingo Bispo |
