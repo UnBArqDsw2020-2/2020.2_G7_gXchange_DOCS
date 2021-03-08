@@ -9,7 +9,7 @@ O digrama de estados é um diagrama comportamental que mostra comportamentos dis
 ## Discussão entre os autores
 
 <p style="text-indent: 20px; text-align: justify">
-Foi discutido sobre o <a href="/desenho/base/1.1/lexico/">documento de léxico</a>, visto que esse lista os objetos característicos do sistema. Dessa forma, foi visto que seria necessário adicionar o objeto "conta" (pertencente a um usuário), os estados "conta ativa" e "conta desativada" ao léxico do projeto.
+Foi discutido sobre o <a href="../../../../desenho/base/1.1/lexico/">documento de léxico</a>, visto que esse lista os objetos característicos do sistema. Dessa forma, foi visto que seria necessário adicionar o objeto "conta" (pertencente a um usuário), os estados "conta ativa" e "conta desativada" ao léxico do projeto.
 </p>
 
 ## Diagramas
