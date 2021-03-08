@@ -59,16 +59,16 @@ Seguindo as mesmas perguntas guias, foi realizada uma sessão de brainstorming p
 | 8 | O [comprador](../../lexico/#l7-usuario) deve ser capaz de [avaliar](../../lexico/#l5-avaliar) um [vendedor](../../lexico/#l7-usuario) |
 | 9 | O [vendedor](../../lexico/#l7-usuario) deve ser capaz de [avaliar](../../lexico/#l5-avaliar) um [comprador](../../lexico/#l7-usuario) |
 | 10 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de [reportar](../../lexico/#l6-reportar) outro [usuário](../../lexico/#l7-usuario) |
-| 11 | O [vendedor](../../lexico/#l7-usuario) deve ser capaz de criar um [anúncio]../(../lexico/#l1-anuncio) |
+| 11 | O [vendedor](../../lexico/#l7-usuario) deve ser capaz de criar um [anúncio](../../lexico/#l1-anuncio) |
 | 12 | O [vendedor](../../lexico/#l7-usuario) deve ser capaz de adicionar fotos a um [anúncio](../../lexico/#l1-anuncio) |
 | 13 | O [vendedor](../../lexico/#l7-usuario) deve ser capaz de adicionar palavras chave a um [anúncio](../../lexico/#l1-anuncio) |
 | 14 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de enviar mensagens para outros [usuários](../../lexico/#l7-usuario) |
-| 15 | O [moderador](../../lexico/#l7-usuario) deve ser capaz de banir um [usuário]../(../lexico/#l7-usuario) |
-| 16 | O [moderador](../../lexico/#l7-usuario) deve ser capaz de excluir um [anúncio]../(../lexico/#l1-anuncio) |
-| 17 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de visualizar um [anúncio]../(../lexico/#l1-anuncio) |
-| 18 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de filtrar os [anúncios]../(../lexico/#l1-anuncio)|
-| 19 | O [comprador](../../lexico/#l7-usuario) e [vendedor](../../lexico/#l7-usuario) deve ser capaz de acessar o perfil de outros [compradores](../../lexico/#l7-usuario) e [vendedores]../(../lexico/#l7-usuario) |
-| 20 | O [comprador](../../lexico/#l7-usuario) e [vendedor](../../lexico/#l7-usuario) deve ser capaz de bloquear mensagens de outros [compradores](../../lexico/#l7-usuario) e [vendedores]../(../lexico/#l7-usuario) |
+| 15 | O [moderador](../../lexico/#l7-usuario) deve ser capaz de banir um [usuário](../../lexico/#l7-usuario) |
+| 16 | O [moderador](../../lexico/#l7-usuario) deve ser capaz de excluir um [anúncio](../../lexico/#l1-anuncio) |
+| 17 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de visualizar um [anúncio](../../lexico/#l1-anuncio) |
+| 18 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de filtrar os [anúncios](../../lexico/#l1-anuncio)|
+| 19 | O [comprador](../../lexico/#l7-usuario) e [vendedor](../../lexico/#l7-usuario) deve ser capaz de acessar o perfil de outros [compradores](../../lexico/#l7-usuario) e [vendedores].(./(./lexico/#l7-usuario) |
+| 20 | O [comprador](../../lexico/#l7-usuario) e [vendedor](../../lexico/#l7-usuario) deve ser capaz de bloquear mensagens de outros [compradores](../../lexico/#l7-usuario) e [vendedores].(./(./lexico/#l7-usuario) |
 | 21 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de interagir com o feed de [anúncios](../../lexico/#l1-anuncio) |
 | 22 | O [usuário](../../lexico/#l7-usuario) deve ser capaz de escolher os tópicos de [anúncios](../../lexico/#l1-anuncio) que deseja visualizar no seu feed [**(a ser decidido)**](../padroes/#a-ser-decidido) |
 | 23 | O sistema deve utilizar reconhecimento de imagem nas fotos dos jogos para aferir a qualidade da mídia |

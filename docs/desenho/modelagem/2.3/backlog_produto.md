@@ -62,7 +62,7 @@ Serão escritos da seguinte forma:
 Eu, como um usuário, desejo realizar cadastro usando conta Google para que eu consiga me cadastrar no sistema de maneira rápida e fácil.
 
 Prioridade: Alta
-
+v
 Rastreabilidade: RF-01 
 
 Critérios de aceitação:
