@@ -18,7 +18,7 @@ Foi debatido entre os integrantes sobre a necessidade de especificar um componen
 
 ## Diagrama
 
-![Diagrama de componentes](/../../assets/diagrama_componentes/diagrama_de_componentes.png)
+![Diagrama de componentes](../../../../assets/diagrama_componentes/diagrama_de_componentes.png)
 
 <a href="https://drive.google.com/file/d/1xU5zW2MU66O0srtWuXSoXb3pZectBMDB/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
