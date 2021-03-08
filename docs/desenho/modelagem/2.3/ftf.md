@@ -3,7 +3,7 @@
 ## Motivo da escolha
 
 <p style="text-indent: 20px; text-align: justify">
-Nós decidimos utilizar o First Things First pois ele fornece uma abordagem técnica, formal para a priorização dos requisitos. Todos os requisitos listados são funcionais, e com prioridade "Must" no <a href="https://unbarqdsw2020-2.github.io/2020.2_G7_gXchange_DOCS/desenho/base/1.1/requisitos/requisitos/" target="_blank" rel="noopenner">documento de priorização MoSCoW</a>
+Nós decidimos utilizar o First Things First pois ele fornece uma abordagem técnica, formal para a priorização dos requisitos. Todos os requisitos listados são funcionais, e com prioridade "Must" no <a href="../../../base/1.1/requisitos/requisitos" target="_blank" rel="noopenner">documento de priorização MoSCoW</a>
 </p>
 
 ## Palavras-chave
