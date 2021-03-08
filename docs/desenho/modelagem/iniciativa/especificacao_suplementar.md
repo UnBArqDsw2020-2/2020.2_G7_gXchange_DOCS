@@ -15,7 +15,7 @@ A especificação dos requisitos aborda os requisitos funcionais e principalment
 ### 1.2 Convenções do documento
 
 <p style="text-indent: 20px; text-align: justify">
-Não será utilizado nenhum padrão de escrita e/ou notação, será prezada a convenção proposta no <a href="/desenho/base/1.1/requisitos/padroes/">documento de padrões dos requisitos</a>.
+Não será utilizado nenhum padrão de escrita e/ou notação, será prezada a convenção proposta no <a href="../../../../desenho/base/1.1/requisitos/padroes/">documento de padrões dos requisitos</a>.
 </p>
 
 ### 1.3 Escopo do projeto
