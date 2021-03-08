@@ -1,4 +1,4 @@
-# Metodologias
+# Diagramas de atividades
 
 ## Introdução
 

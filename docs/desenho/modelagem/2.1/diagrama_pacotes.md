@@ -1,4 +1,4 @@
-# Metodologias
+# Diagrama de Pacotes
 
 ## Introdução
 

@@ -60,7 +60,7 @@ Foi debatida a ideia de criar um diagrama de sequência representando a interaç
 
 #### Imagem do diagrama
 
-![Diagrama de sequência de interagir com o feed](../../../../assets/diagramas_sequencia/mandar_mensagem.png)
+![Diagrama de sequência de interagir com o feed](../../../../assets/diagramas_sequencia/interagir_feed.png)
 
 <a href="https://drive.google.com/file/d/1_U8QMs0SrzRScvl22FwOzEvgQGovefpD/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
 
