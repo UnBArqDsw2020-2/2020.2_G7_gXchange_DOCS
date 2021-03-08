@@ -3,7 +3,7 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O método de introspecção consiste em se colocar no papel dos usuários do sistema e imaginar o que os mesmos gostariam e/ou necessitariam que o sistema cumprisse para suprir as suas necessidades, e também suas características. Neste processo, utilizaremos <a href="/desenho/base/1.1/personas">personas</a> para tornar o processo de identificação e interpretação dos usuários-alvo do sistema mais fácil.
+O método de introspecção consiste em se colocar no papel dos usuários do sistema e imaginar o que os mesmos gostariam e/ou necessitariam que o sistema cumprisse para suprir as suas necessidades, e também suas características. Neste processo, utilizaremos <a href="../../personas">personas</a> para tornar o processo de identificação e interpretação dos usuários-alvo do sistema mais fácil.
 </p>
 
 ## Requisitos
@@ -40,21 +40,21 @@ O método de introspecção consiste em se colocar no papel dos usuários do sis
 
 <tr>
 <td style="text-align: center">4</td>
-<td style="text-align: justify">O comprador deve ser capaz de <a href="/lexico/#l6-reportar">reportar</a> um anúncio feito por um vendedor</td>
+<td style="text-align: justify">O comprador deve ser capaz de <a href="../../lexico/#l6-reportar">reportar</a> um anúncio feito por um vendedor</td>
 <td><a href="../../personas/#persona-1-thomas-araujo-souza">Thomas</a></td>
 <td>Funcional</td>
 </tr>
 
 <tr>
 <td style="text-align: center">5</td>
-<td style="text-align: justify">O comprador deve ser capaz de <a href="/lexico/#l5-avaliar">avaliar</a> um vendedor após realizar uma troca ou compra</td>
+<td style="text-align: justify">O comprador deve ser capaz de <a href="../../lexico/#l5-avaliar">avaliar</a> um vendedor após realizar uma troca ou compra</td>
 <td><a href="../../personas/#persona-1-thomas-araujo-souza">Thomas</a></td>
 <td>Funcional</td>
 </tr>
 
 <tr>
 <td style="text-align: center">6</td>
-<td style="text-align: justify">O vendedor deve ser capaz de <a href="/lexico/#l5-avaliar">avaliar</a> um comprador após a realização de uma compra ou troca</td>
+<td style="text-align: justify">O vendedor deve ser capaz de <a href="../../lexico/#l5-avaliar">avaliar</a> um comprador após a realização de uma compra ou troca</td>
 <td><a href="../../personas/#persona-2-carlos-macedo-dos-santos">Carlos</a></td>
 <td>Funcional</td>
 </tr>
@@ -117,14 +117,14 @@ O método de introspecção consiste em se colocar no papel dos usuários do sis
 
 <tr>
 <td style="text-align: center">15</td>
-<td style="text-align: justify">O moderador deve ser capaz de <a href="/lexico/#l8-invalidar">invalidar</a> um anúncio</td>
+<td style="text-align: justify">O moderador deve ser capaz de <a href="../../lexico/#l8-invalidar">invalidar</a> um anúncio</td>
 <td><a href="../../personas/#persona-3-sarah-brenda-campos">Sarah</a></td>
 <td>Funcional</td>
 </tr>
 
 <tr>
 <td style="text-align: center">16</td>
-<td style="text-align: justify">O sistema deverá notificar o vendedor caso seu anúncio seja <a href="/lexico/#l8-invalidar">invalidado</a></td>
+<td style="text-align: justify">O sistema deverá notificar o vendedor caso seu anúncio seja <a href="/../..lexico/#l8-invalidar">invalidado</a></td>
 <td><a href="../../personas/#persona-3-sarah-brenda-campos">Sarah</a> e <a href="../../personas/#persona-2-carlos-macedo-dos-santos">Carlos</a></td>
 <td>Funcional</td>
 </tr>
@@ -132,21 +132,21 @@ O método de introspecção consiste em se colocar no papel dos usuários do sis
 
 <tr>
 <td style="text-align: center">17</td>
-<td style="text-align: justify">O sistema deve listar apenas <a href="/lexico/#l9-anuncio-valido">anúncios válidos</a></td>
+<td style="text-align: justify">O sistema deve listar apenas <a href="../../lexico/#l9-anuncio-valido">anúncios válidos</a></td>
 <td><a href="../../personas/#persona-1-thomas-araujo-souza">Thomas</a></td>
 <td>Funcional</td>
 </tr>
 
 <tr>
 <td style="text-align: center">18</td>
-<td style="text-align: justify">O sistema deverá notificar o usuário quando um <a href="/lexico/#l1-anuncio">anúncio</a> que ele reportou for <a href="/lexico/#l8-invalidar">invalidado</a></td>
+<td style="text-align: justify">O sistema deverá notificar o usuário quando um <a href="/../..lexico/#l1-anuncio">anúncio</a> que ele reportou for <a href="../../lexico/#l8-invalidar">invalidado</a></td>
 <td><a href="../../personas/#persona-3-sarah-brenda-campos">Sarah</a> e <a href="../../personas/#persona-1-thomas-araujo-souza">Thomas</a></td>
 <td>Funcional</td>
 </tr>
 
 <tr>
 <td style="text-align: center">19</td>
-<td style="text-align: justify">O vendedor deve ser capaz de remover um <a href="/lexico/#l1-anuncio">anúncio</a></td>
+<td style="text-align: justify">O vendedor deve ser capaz de remover um <a href="../../lexico/#l1-anuncio">anúncio</a></td>
 <td><a href="../../personas/#persona-2-carlos-macedo-dos-santos">Carlos</a></td>
 <td>Funcional</td>
 </tr>
@@ -174,14 +174,14 @@ O método de introspecção consiste em se colocar no papel dos usuários do sis
 
 <tr>
 <td style="text-align: center">23</td>
-<td style="text-align: justify">O moderador deve ser capaz de banir um <a href="/lexico/#l7-usuario">usuário</a> (<a href="/requisitos/padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
+<td style="text-align: justify">O moderador deve ser capaz de banir um <a href="../../lexico/#l7-usuario">usuário</a> (<a href="../padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
 <td><a href="../../personas/#persona-3-sarah-brenda-campos">Sarah</a></td>
 <td>Funcional</td>
 </tr>
 
 <tr>
 <td style="text-align: center">24</td>
-<td style="text-align: justify">O sistema no momento de cadastro, deve pedir o consentimento dos usuários em relação aos termos de uso (<a href="/requisitos/padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
+<td style="text-align: justify">O sistema no momento de cadastro, deve pedir o consentimento dos usuários em relação aos termos de uso (<a href="../padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
 <td><a href="../../personas/#persona-1-thomas-araujo-souza">Thomas</a>, <a href="../../personas/#persona-2-carlos-macedo-dos-santos">Carlos</a> e <a href="../../personas/#persona-3-sarah-brenda-campos">Sarah</a></td>
 <td>Funcional</td>
 </tr>
@@ -223,14 +223,14 @@ O método de introspecção consiste em se colocar no papel dos usuários do sis
 
 <tr>
 <td style="text-align: center">30</td>
-<td style="text-align: justify">O sistema deve possibilitar uma navegabilidade ágil entre as funcionalidades (<a href="/requisitos/padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
+<td style="text-align: justify">O sistema deve possibilitar uma navegabilidade ágil entre as funcionalidades (<a href="../padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
 <td><a href="../../personas/#persona-1-thomas-araujo-souza">Thomas</a>, <a href="../../personas/#persona-2-carlos-macedo-dos-santos">Carlos</a> e <a href="../../personas/#persona-3-sarah-brenda-campos">Sarah</a></td>
 <td>Não funcional</td>
 </tr>
 
 <tr>
 <td style="text-align: center">31</td>
-<td style="text-align: justify">A interface do sistema deverá possuir uma boa usabilidade (<a href="/requisitos/padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
+<td style="text-align: justify">A interface do sistema deverá possuir uma boa usabilidade (<a href="../padroes/#a-ser-decidido"><strong>a ser decidido</strong></a>)</td>
 <td><a href="../../personas/#persona-2-carlos-macedo-dos-santos">Carlos</a>, <a href="../../personas/#persona-1-thomas-araujo-souza">Thomas</a> e <a href="../../personas/#persona-3-sarah-brenda-campos">Sarah</a></td>
 <td>Não funcional</td>
 </tr>
