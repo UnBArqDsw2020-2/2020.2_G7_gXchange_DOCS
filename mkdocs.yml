@@ -45,6 +45,7 @@ nav:
         - Diagrama de componentes: desenho/modelagem/2.1/diagrama_componentes.md
         - Iniciativas extras:
           - Rastro dos participantes: desenho/modelagem/2.1/rastro_participantes.md
+        - Apresentação: desenho/modelagem/2.1/apresentacao.md
       - 2.1.2 Notação UML - Diagramas Dinâmicos:
         - Diagramas de atividade: desenho/modelagem/2.2/diagramas_atividades.md
         - Diagramas de estados: desenho/modelagem/2.2/diagramas_estados.md
@@ -52,11 +53,13 @@ nav:
         - Diagramas de sequência: desenho/modelagem/2.2/diagramas_sequencia.md
         - Iniciativas extras:
           - Rastro dos participantes: desenho/modelagem/2.2/rastro_participantes.md
+        - Apresentação: desenho/modelagem/2.2/apresentacao.md
       - 2.1.3 Modelagem ágil:
         - First Things First: desenho/modelagem/2.3/ftf.md
         - Backlog de produto: desenho/modelagem/2.3/backlog_produto.md
         - Iniciativas extras:
           - Rastro dos participantes: desenho/modelagem/2.3/rastro_participantes.md
+        - Apresentação: desenho/modelagem/2.3/apresentacao.md
       - Iniciativas extras:
         - Atributos de Qualidade: desenho/modelagem/iniciativa/atributos_qualidade.md
         - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
