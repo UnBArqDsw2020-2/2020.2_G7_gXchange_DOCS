@@ -34,10 +34,24 @@ Este repositório é destinado ao grupo 7 - [**gXchange**](https://github.com/Un
 #### 1.2 - [Módulo Processos / Metodologias / Abordagens](https://youtu.be/48xTzKhKb_Y)
 
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Aqui serão adicionados 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
+
+![Diagrama componentes](docs/assets/screenshots/entrega_2/diagrama_componentes.png)
+
+![Diagrama sequência](docs/assets/screenshots/entrega_2/diagrama_sequencia.png)
+
+![Backlog de produto](docs/assets/screenshots/entrega_2/backlog_produto.png)
 
 ## Vídeo(s) Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Aqui serão adicionados o(s) vídeo(s) da Segunda Entrega.
+
+### Desenho de Software (modelagem):
+
+#### 2.1 Módulo Projeto Orientado a Abordagens Tradicionais
+
+##### 2.1.1 - [Notação UML – Diagramas Estáticos](https://youtu.be/zOOK5ZxOAwA)
+
+##### 2.1.2 - [Notação UML – Diagramas Dinâmicos](https://youtu.be/_iZWiHMbcMY)
+
+##### 2.1.3 - [Modelagem ágil](https://youtu.be/JOU-X-XP3X0)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Aqui serão adicionados 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
