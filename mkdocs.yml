@@ -12,85 +12,88 @@ extra_css:
 nav:
   - Sobre: index.md
   - Desenho de Software (Base):
-    - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
-      - Rich Picture: desenho/base/1.1/rich_picture.md
-      - 5W2H: desenho/base/1.1/5w2h.md
-      - Léxico: desenho/base/1.1/lexico.md
-      - Diagramas causa-efeito: desenho/base/1.1/causa_efeito.md
-      - Análise de Riscos: desenho/base/1.1/riscos.md
-      - Perfil de usuário:
-        - Personas: desenho/base/1.1/personas.md
-      - Design Sprint:
-        - Execução: desenho/base/1.1/design_sprint/design_sprint.md
-        - Prototipo Média-Fidelidade: desenho/base/1.1/design_sprint/prototipo_media.md
-        - Prototipo Alta-Fidelidade: desenho/base/1.1/design_sprint/prototipo_alta.md
-      - Requisitos:
-        - Padrões: desenho/base/1.1/requisitos/padroes.md
-        - Introspecção: desenho/base/1.1/requisitos/introspeccao.md
-        - Brainstorming: desenho/base/1.1/requisitos/brainstorming.md
-        - Questionário: desenho/base/1.1/requisitos/questionario.md
-        - Todos requisitos priorizados: desenho/base/1.1/requisitos/requisitos.md
-      - Rastro dos participantes: desenho/base/1.1/rastro_participantes_1.1.md
-      - Apresentação: desenho/base/1.1/apresentacao_1.1.md
-    - 1.2 Módulo Processos / Metodologias / Abordagens:
-      - Metodologias: desenho/base/1.2/metodologia.md
-      - Modelagem BPMN 2.0: desenho/base/1.2/bpmn.md
-      - Rastro dos participantes: desenho/base/1.2/rastro_participantes_1.2.md
-      - Apresentação: desenho/base/1.2/apresentacao_1.2.md
+      - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
+          - Rich Picture: desenho/base/1.1/rich_picture.md
+          - 5W2H: desenho/base/1.1/5w2h.md
+          - Léxico: desenho/base/1.1/lexico.md
+          - Diagramas causa-efeito: desenho/base/1.1/causa_efeito.md
+          - Análise de Riscos: desenho/base/1.1/riscos.md
+          - Perfil de usuário:
+              - Personas: desenho/base/1.1/personas.md
+          - Design Sprint:
+              - Execução: desenho/base/1.1/design_sprint/design_sprint.md
+              - Prototipo Média-Fidelidade: desenho/base/1.1/design_sprint/prototipo_media.md
+              - Prototipo Alta-Fidelidade: desenho/base/1.1/design_sprint/prototipo_alta.md
+          - Requisitos:
+              - Padrões: desenho/base/1.1/requisitos/padroes.md
+              - Introspecção: desenho/base/1.1/requisitos/introspeccao.md
+              - Brainstorming: desenho/base/1.1/requisitos/brainstorming.md
+              - Questionário: desenho/base/1.1/requisitos/questionario.md
+              - Todos requisitos priorizados: desenho/base/1.1/requisitos/requisitos.md
+          - Rastro dos participantes: desenho/base/1.1/rastro_participantes_1.1.md
+          - Apresentação: desenho/base/1.1/apresentacao_1.1.md
+      - 1.2 Módulo Processos / Metodologias / Abordagens:
+          - Metodologias: desenho/base/1.2/metodologia.md
+          - Modelagem BPMN 2.0: desenho/base/1.2/bpmn.md
+          - Rastro dos participantes: desenho/base/1.2/rastro_participantes_1.2.md
+          - Apresentação: desenho/base/1.2/apresentacao_1.2.md
   - Desenho de Software (Modelagem):
-    - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais:
-      - 2.1.1 Notação UML – Diagramas Estáticos:
-        - Diagrama de pacotes: desenho/modelagem/2.1/diagrama_pacotes.md
-        - Diagrama de classes: desenho/modelagem/2.1/diagrama_classes.md
-        - Diagrama de componentes: desenho/modelagem/2.1/diagrama_componentes.md
-        - Iniciativas extras:
-          - Rastro dos participantes: desenho/modelagem/2.1/rastro_participantes.md
-        - Apresentação: desenho/modelagem/2.1/apresentacao.md
-      - 2.1.2 Notação UML - Diagramas Dinâmicos:
-        - Diagramas de atividade: desenho/modelagem/2.2/diagramas_atividades.md
-        - Diagramas de estados: desenho/modelagem/2.2/diagramas_estados.md
-        - Diagramas de comunicação: desenho/modelagem/2.2/diagramas_comunicacao.md
-        - Diagramas de sequência: desenho/modelagem/2.2/diagramas_sequencia.md
-        - Iniciativas extras:
-          - Rastro dos participantes: desenho/modelagem/2.2/rastro_participantes.md
-        - Apresentação: desenho/modelagem/2.2/apresentacao.md
-      - 2.1.3 Modelagem ágil:
-        - First Things First: desenho/modelagem/2.3/ftf.md
-        - Backlog de produto: desenho/modelagem/2.3/backlog_produto.md
-        - Iniciativas extras:
-          - Rastro dos participantes: desenho/modelagem/2.3/rastro_participantes.md
-        - Apresentação: desenho/modelagem/2.3/apresentacao.md
-      - Iniciativas extras:
-        - Atributos de Qualidade: desenho/modelagem/iniciativa/atributos_qualidade.md
-        - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
+      - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais:
+          - 2.1.1 Notação UML – Diagramas Estáticos:
+              - Diagrama de pacotes: desenho/modelagem/2.1/diagrama_pacotes.md
+              - Diagrama de classes: desenho/modelagem/2.1/diagrama_classes.md
+              - Diagrama de componentes: desenho/modelagem/2.1/diagrama_componentes.md
+              - Iniciativas extras:
+                  - Rastro dos participantes: desenho/modelagem/2.1/rastro_participantes.md
+              - Apresentação: desenho/modelagem/2.1/apresentacao.md
+          - 2.1.2 Notação UML - Diagramas Dinâmicos:
+              - Diagramas de atividade: desenho/modelagem/2.2/diagramas_atividades.md
+              - Diagramas de estados: desenho/modelagem/2.2/diagramas_estados.md
+              - Diagramas de comunicação: desenho/modelagem/2.2/diagramas_comunicacao.md
+              - Diagramas de sequência: desenho/modelagem/2.2/diagramas_sequencia.md
+              - Iniciativas extras:
+                  - Rastro dos participantes: desenho/modelagem/2.2/rastro_participantes.md
+              - Apresentação: desenho/modelagem/2.2/apresentacao.md
+          - 2.1.3 Modelagem ágil:
+              - First Things First: desenho/modelagem/2.3/ftf.md
+              - Backlog de produto: desenho/modelagem/2.3/backlog_produto.md
+              - Iniciativas extras:
+                  - Rastro dos participantes: desenho/modelagem/2.3/rastro_participantes.md
+              - Apresentação: desenho/modelagem/2.3/apresentacao.md
+          - Iniciativas extras:
+              - Atributos de Qualidade: desenho/modelagem/iniciativa/atributos_qualidade.md
+              - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
   - Versões documentos:
-    - Rich Picture:
-      - 1.1: versoes/rich_picture/1.0.md
-    - Léxico:
-      - 1.0: versoes/lexico/1.0.md
-      - 1.1: versoes/lexico/1.1.md
-      - 1.2: versoes/lexico/1.2.md
-      - 1.3: versoes/lexico/1.3.md
-      - 1.4: versoes/lexico/1.4.md
-    - Introspecção:
-      - 1.0: versoes/introspeccao/1.0.md
-    - Padrões requisitos:
-      - 1.0: versoes/padroes_requisitos/1.0.md
-    - Análise de Riscos:
-      - 1.0: versoes/riscos/1.0.md
-    - Requisitos:
-      - 1.0: versoes/requisitos/1.0.md
-      - 2.0: versoes/requisitos/2.0.md
-    - Diagrama de Classe:
-      - 1.0: versoes/diagrama_classe/1.0.md
+      - Rich Picture:
+          - 1.1: versoes/rich_picture/1.0.md
+      - Léxico:
+          - 1.0: versoes/lexico/1.0.md
+          - 1.1: versoes/lexico/1.1.md
+          - 1.2: versoes/lexico/1.2.md
+          - 1.3: versoes/lexico/1.3.md
+          - 1.4: versoes/lexico/1.4.md
+          - 1.5: versoes/lexico/1.5.md
+      - Introspecção:
+          - 1.0: versoes/introspeccao/1.0.md
+      - Padrões requisitos:
+          - 1.0: versoes/padroes_requisitos/1.0.md
+      - Análise de Riscos:
+          - 1.0: versoes/riscos/1.0.md
+      - Requisitos:
+          - 1.0: versoes/requisitos/1.0.md
+          - 2.0: versoes/requisitos/2.0.md
+      - Diagrama de Classe:
+          - 1.0: versoes/diagrama_classe/1.0.md
   - Iniciativas extras gerais:
-    - Padrões:
-      - Atas: iniciativa_geral/padroes/atas.md
-      - Github: iniciativa_geral/padroes/github.md
-      - Versões: iniciativa_geral/padroes/versoes.md
-      - Documento: iniciativa_geral/padroes/documento.md
-    - Atas:
-      - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
-      - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
-      - Reunião dia 05/03/2021: iniciativa_geral/atas/reuniao_05_03_2021.md
-      - Reunião dia 22/03/2021: iniciativa_geral/atas/reuniao_22_03_2021.md
+      - Padrões:
+          - Atas: iniciativa_geral/padroes/atas.md
+          - Github: iniciativa_geral/padroes/github.md
+          - Versões: iniciativa_geral/padroes/versoes.md
+          - Documento: iniciativa_geral/padroes/documento.md
+      - Atas:
+          - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
+          - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
+          - Reunião dia 05/03/2021: iniciativa_geral/atas/reuniao_05_03_2021.md
+          - Reunião dia 16/03/2021: iniciativa_geral/atas/reuniao_16_03_2021.md
+          - Reunião dia 21/03/2021: iniciativa_geral/atas/reuniao_21_03_2021.md
+          - Reunião dia 22/03/2021: iniciativa_geral/atas/reuniao_22_03_2021.md
