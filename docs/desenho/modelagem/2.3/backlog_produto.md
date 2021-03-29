@@ -24,7 +24,7 @@ Será convencionado os graus de granularidade do sistema como sendo:
     - Um épico
     - Um conjunto de épicos
 
-<p style="text-indent: 20px; text-align: justify">
+
 A planilha com o backlog pode ser encontrada <a href="https://docs.google.com/spreadsheets/d/1cwIyA45C8Xvj6mNrDmgCpoLtkpJnH1IgDXl2kX7muxc/edit?usp=sharing" target="_blank" rel="noopener">aqui</a>
 </p>
 
@@ -116,7 +116,7 @@ Critérios de aceitação:
 
 #### US04
 
-Eu, como um vendedor, desejo concordar com os termos de consentimento ao realizar meu cadastro para que eu consiga estar ciente de como o sistema lidará com meus dados sensíveis.
+Eu, como um usuário, desejo concordar com os termos de consentimento ao realizar meu cadastro para que eu consiga estar ciente de como o sistema lidará com meus dados sensíveis.
 
 Prioridade: Muilto alta
 
@@ -131,7 +131,7 @@ Critérios de aceitação:
 
 #### US05
 
-Eu, como um vendedor, desejo que meus dados (nome, apelido (nome de usuário), email e senha) sejam salvos para que eu consiga utilizar o sistema de maneira segura e eficaz, e possa ser identificado por outros usuários.
+Eu, como um usuário, desejo que meus dados (nome, apelido (nome de usuário), email e senha) sejam salvos para que eu consiga utilizar o sistema de maneira segura e eficaz, e possa ser identificado por outros usuários.
 
 Prioridade: Muito alta
 
@@ -548,3 +548,4 @@ Rastreabilidade: RF-40
 | Versão | Data       | Modificação               | Motivo | Autor         |
 | ------ | ---------- | ------------------------- | ------ | ------------- |
 |  1.0   | 07/03/2021 | Criação do documento | Criar um backlog de produto  | Igor Paiva, Rhuan Queiroz, Thiago Guilherme, Thiago Lopes e Washington Bispo |
+|  1.1  | 28/03/2021 | Correção tipo de usuário das histórias US04 E US05 | Tornar mais claro a compreensão das histórias de usuário | Marcelo Victor |
