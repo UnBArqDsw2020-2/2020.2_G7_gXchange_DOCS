@@ -22,7 +22,7 @@ Dentro da estrutura de Builder, há a classe diretora, no caso qualquer classe q
 
 ## Código
 
-```tsx
+``` typescript
 class OfferBuilder {
     private offer: Offer; // O tipo Offer refere-se ao tipo Anúncio
 

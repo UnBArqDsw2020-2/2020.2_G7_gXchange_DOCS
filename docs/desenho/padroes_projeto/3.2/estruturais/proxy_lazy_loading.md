@@ -3,7 +3,7 @@
 ## Problema
 
 <p style="text-indent: 20px; text-align: justify">
-Usuários com internet mais lentas podem sofrer problemas na renderização das imagens dos anúncios, além disso, o tempo para renderização pode causar <em>glitches<em> em que a página não fica corretamente formatada por que não está levando em conta o tamanho da imagem. 
+Usuários com internet mais lentas podem sofrer problemas na renderização das imagens dos anúncios, além disso, o tempo para renderização pode causar <em>glitches</em> em que a página não fica corretamente formatada por que não está levando em conta o tamanho da imagem. 
 </p>
 
 ## Solução

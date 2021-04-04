@@ -9,7 +9,7 @@ Como interagir com a API? Como fazer os componentes do Front-end interagirem com
 ## Solução
 
 <p style="text-indent: 20px; text-align: justify">
-Criar uma classe que funciona como um Facade para a comunicação com a API, essa classe cria uma instância do Axios (biblioteca Javascript para requisições HTTP) e possui métodos públicos para cada verbo HTTP utilizado na aplicação, e esses métodos utilizam a instância do Axios e retorna uma promise para os componentes do Front-end que realizam as requisições para a API e eles podem tratar os casos de sucesso e erro como for conveniente. Nessa classe é possível também configurar <em>handlers<em> para erros comuns, como por exemplo, 401 (Unauthorized) que significa que a autenticação falhou e o usuário precisa logar novamente.
+Criar uma classe que funciona como um Facade para a comunicação com a API, essa classe cria uma instância do Axios (biblioteca Javascript para requisições HTTP) e possui métodos públicos para cada verbo HTTP utilizado na aplicação, e esses métodos utilizam a instância do Axios e retorna uma promise para os componentes do Front-end que realizam as requisições para a API e eles podem tratar os casos de sucesso e erro como for conveniente. Nessa classe é possível também configurar <em>handlers</em> para erros comuns, como por exemplo, 401 (Unauthorized) que significa que a autenticação falhou e o usuário precisa logar novamente.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">

@@ -14,7 +14,7 @@ As Views da API se comportam como mediadoras dos objetos do back-end.
 
 ## Código
 
-```python
+``` python
 class CreateUser(generics.CreateAPIView):
     queryset = Person.objects.all() # Model
     serializer_class = PersonSerializer # Serializer
@@ -23,7 +23,7 @@ class CreateUser(generics.CreateAPIView):
 
 outro exemplo
 
-```python
+``` python
 class OfferPlatformListView(BaseFilterListView): # A Classe internament faz a mediação dos objetos que ela utiliza
     """
         View que lista todas os anúncios com uma dada plataforma

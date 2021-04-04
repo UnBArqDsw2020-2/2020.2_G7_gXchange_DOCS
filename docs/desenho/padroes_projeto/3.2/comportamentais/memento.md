@@ -18,7 +18,7 @@ No código abaixo é mostrado como é possível retornar o valor do estado (stat
 
 ## Código
 
-```tsx
+``` typescript
 const Component: React.FC = () => {
   const [state, setState] = useState(0);
 

@@ -14,7 +14,7 @@ O framework Django Rest permite que alguns métodos específicos das Views sejam
 
 ## Código
 
-```python
+``` python
 """
     As views existentes dentro de generics do Django Rest por si só podem ser consideradas templates
 """
