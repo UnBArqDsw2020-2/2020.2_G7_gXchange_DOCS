@@ -32,7 +32,7 @@ Abordagens semelhantes podem ser tomadas para problemas de criação de contas c
 
 ## Código
 
-```python
+``` python
 class ProfileBuilder(models.Models):
     # A chave primária desta model será automática
     email = EmailField(unique=True)
