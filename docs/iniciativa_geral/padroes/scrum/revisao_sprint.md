@@ -46,3 +46,7 @@ Lista de mudanças realizadas no backlog de produto dada as necessidades
 
 Referências
 ```
+
+## Referências
+
+> SCHWABER, Ken; SUTHERLAND, Jeff. “Guia do Scrum - Um guia definitivo para o Scrum: As regras do jogo”. Scrum.Org and ScrumInc, 2014.

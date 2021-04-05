@@ -1,7 +1,7 @@
 # Padrão planejamento de sprint
 
 ``` md
-# Planejamento da Sprint 1
+# Planejamento da Sprint X
 
 ## Palavras-chave
 
@@ -68,3 +68,7 @@ Lista com as histórias selecionadas
 
 Referências
 ```
+
+## Referências
+
+> SCHWABER, Ken; SUTHERLAND, Jeff. “Guia do Scrum - Um guia definitivo para o Scrum: As regras do jogo”. Scrum.Org and ScrumInc, 2014.

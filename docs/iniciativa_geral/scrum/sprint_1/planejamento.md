@@ -6,53 +6,7 @@
 
 ## Quadro de conhecimentos
 
-![Quadro conhecimentos](../../../assets/equipe/quadro_conhecimento.jpg)
-
-<a href="https://drive.google.com/file/d/1OHimVLb2KvnB2ydgDWGLDBhOxTNPBZep/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
-
-## Qual o objetivo da Sprint?
-
-### Conceitual
-
-<p style="text-indent: 20px; text-align: justify">
-Se ambientar com as metodologias e processo de desenvolvimento, realizando algum incremento básico.
-</p>
-
-### Objetivo visão PO
-
-<p style="text-indent: 20px; text-align: justify">
-Visto que este é o primeiro contato com o ambiente scrum, o PO propõe que todos o time desenvolvimento atue na resolução das seguintes histórias: 
-</p>
-
-- US03 - Eu, como um usuário, desejo realizar cadastro utilizando email para que eu consiga me cadastrar e utilizar o sistema.
-- US04 - Eu, como um usuário, desejo concordar com os termos de consentimento ao realizar meu cadastro para que eu consiga estar ciente de como o sistema lidará com meus dados sensíveis.
-- US05 - Eu, como um usuário, desejo que meus dados (nome, apelido (nome de usuário), email e senha) sejam salvos para que eu consiga utilizar o sistema de maneira segura e eficaz, e possa ser identificado por outros usuários.
-- US10 - Eu, como um vendedor, desejo que meus anúncios sejam salvos com: nome do(s) jogo(s), plataforma, condição, foto(s), minhas informações de contato, localização, preço e descrição para que eu consiga descrever bem os jogos que desejo trocar e/ou vender.
-
-### Objetivo visão TD
-
-<p style="text-indent: 20px; text-align: justify">
-Não há discordância com a visão do PO.
-</p>
-
-### Objetivo final
-
-<p style="text-indent: 20px; text-align: justify">
-O incremento esperado desta sprint são as issues citadas anteriormente: US03, US04, US05 e US10.
-</p>
-
-## Pesar as histórias (Planning Poker)
-
-- US03: 8
-- US04: 3
-- US05: 2
-- US10: 2
-
-## Definir os pares
-
-<p style="text-indent: 20px; text-align: justify">
-Como é uma sprint de ambientação todo o time irá participar da elaboração do incremento selecionado.
-</p>
+![Q
 
 ## Como o trabalho escolhido será realizado?
 
