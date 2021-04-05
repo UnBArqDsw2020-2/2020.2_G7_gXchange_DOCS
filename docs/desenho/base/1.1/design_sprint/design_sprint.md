@@ -24,7 +24,7 @@ Foi realizado uma sessão de brainstorming, em que cada integrande escreveu em u
 
 ![Unpack](../../../../assets/design_sprint/unpack.png)
 
-<a href="https://drive.google.com/file/d/1H8sKywsvaYAmn7sOsN99mRqZH5Q6O0MI/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1H8sKywsvaYAmn7sOsN99mRqZH5Q6O0MI/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 ### 2º Sketch
 
@@ -36,31 +36,31 @@ A etapa de sketch foi realizado da seguinte forma: cada integrante do grupo dese
 
 ![Igor](../../../../assets/design_sprint/richpictures/igor.jpg)
 
-<a href="https://drive.google.com/file/d/1DX4rVJuT8bC3aMbufkYyxH36cGaoCVEu/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1DX4rVJuT8bC3aMbufkYyxH36cGaoCVEu/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 #### Marcelo
 
 ![Marcelo](../../../../assets/design_sprint/richpictures/marcelo.JPG)
 
-<a href="https://drive.google.com/file/d/11EPNhKOdXngcmWQQZXIYBMfmg3bgcULl/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/11EPNhKOdXngcmWQQZXIYBMfmg3bgcULl/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 #### Rhuan
 
 ![Rhuan](../../../../assets/design_sprint/richpictures/rhuan.jpg)
 
-<a href="https://drive.google.com/file/d/1ZVlHOMIaXA0zkhOkmaJCKhaNYOuoDLR1/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1ZVlHOMIaXA0zkhOkmaJCKhaNYOuoDLR1/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 #### Thiago Lopes
 
 ![Thiago L](../../../../assets/design_sprint/richpictures/thiago_lopes.jpg)
 
-<a href="https://drive.google.com/file/d/1mSPK40aGVul1n5fWzii9dBM-owVpJVFH/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1mSPK40aGVul1n5fWzii9dBM-owVpJVFH/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 #### Washington
 
 ![Washington](../../../../assets/design_sprint/richpictures/washington.jpg)
 
-<a href="https://drive.google.com/file/d/1GLOnkgMb5Vzzou3cRRSDZHvW6_KOy0X-/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1GLOnkgMb5Vzzou3cRRSDZHvW6_KOy0X-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 ### 3º Decision
 
@@ -70,7 +70,7 @@ Após a etapa de sketch, comparamos os rich pictures de cada integrante, e decid
 
 ![Storyboard](../../../../assets/design_sprint/storyboard.jpeg)
 
-<a href="https://drive.google.com/file/d/1H8sKywsvaYAmn7sOsN99mRqZH5Q6O0MI/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1H8sKywsvaYAmn7sOsN99mRqZH5Q6O0MI/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 ### 4º Prototype
 
@@ -192,17 +192,17 @@ Para avaliar o protótipo de alta fidelidade escolhemos o método de inspeção 
 
 ## Referências
 
->Lucidspark. Disponível em: https://lucidspark.com/pt. Acesso em: 19 fev. 2021
+> Lucidspark. Disponível em: https://lucidspark.com/pt. Acesso em: 19 fev. 2021
 
->"The Design Sprint". Google Ventures. Disponível em: https://www.gv.com/sprint/. Acesso em: 16 fev. 2021.
+> "The Design Sprint". Google Ventures. Disponível em: https://www.gv.com/sprint/. Acesso em: 16 fev. 2021.
 
->MACIEL, Cristiano; Nogueira, José; NEUMANN Leandro; GARCIA, Ana. "Avaliação Heurística de Sítios na Web". Instituto de Computação - Universidade Federal Fluminense (UFF).
+> MACIEL, Cristiano; Nogueira, José; NEUMANN Leandro; GARCIA, Ana. "Avaliação Heurística de Sítios na Web". Instituto de Computação - Universidade Federal Fluminense (UFF).
 
->BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+> BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
 
 ## Versionamento
 
-| Versão | Data       | Modificação               | Motivo | Autor         |
-| ------ | ---------- | ------------------------- | ------ | ------------- |
-|  1.0   | 16/02/2021 | Criação do documento | Documentar o processo de design sprint realizado  | Todos os integrantes |
-|  1.1   | 19/02/2021 | Adição de referência da tabela de avaliação heurística e Lucidspark | Referenciar adequadamente as fontes utilizadas | Igor Paiva |
+| Versão | Data       | Modificação                                                         | Motivo                                           | Autor                |
+| ------ | ---------- | ------------------------------------------------------------------- | ------------------------------------------------ | -------------------- |
+| 1.0    | 16/02/2021 | Criação do documento                                                | Documentar o processo de design sprint realizado | Todos os integrantes |
+| 1.1    | 19/02/2021 | Adição de referência da tabela de avaliação heurística e Lucidspark | Referenciar adequadamente as fontes utilizadas   | Igor Paiva           |

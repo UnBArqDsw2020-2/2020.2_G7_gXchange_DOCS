@@ -8,7 +8,7 @@
 
 ![Quadro conhecimentos](../../../assets/equipe/quadro_conhecimento.jpg)
 
-<a href="https://drive.google.com/file/d/1OHimVLb2KvnB2ydgDWGLDBhOxTNPBZep/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1OHimVLb2KvnB2ydgDWGLDBhOxTNPBZep/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 ## Qual o objetivo da Sprint?
 
@@ -72,11 +72,11 @@ Rastreabilidade: RF-03
 
 Critérios de aceitação:
 
-* A conta está sendo criada corretamente?
-* Todos os dados necessários estão sendo coletados?
-* A senha da conta possui mais que 8 caracteres?
-* A senha contém ao menos uma letra maiúscula, um número e um caractere especial?
-* O email é válido, ou seja, possui alias@domain?
+- A conta está sendo criada corretamente?
+- Todos os dados necessários estão sendo coletados?
+- A senha da conta possui mais que 8 caracteres?
+- A senha contém ao menos uma letra maiúscula, um número e um caractere especial?
+- O email é válido, ou seja, possui alias@domain?
 
 ### US04
 
@@ -88,10 +88,10 @@ Rastreabilidade: RF-24
 
 Critérios de aceitação:
 
-* O termo de consentimento é exibido ao usuário durante o cadastro?
-* O termo lista como o sistema usará os dados do usuário?
-* O termo lista como o sistema guardará os dados do usuário?
-* Só é possível continuar o cadastro se o termo for aceito?
+- O termo de consentimento é exibido ao usuário durante o cadastro?
+- O termo lista como o sistema usará os dados do usuário?
+- O termo lista como o sistema guardará os dados do usuário?
+- Só é possível continuar o cadastro se o termo for aceito?
 
 ### US05
 
@@ -103,9 +103,9 @@ Rastreabilidade: RF-25
 
 Critérios de aceitação:
 
-* Os dados estão salvos no sistema corretamente?
-* Os dados utilizam os campos adequados, de modo a otimizar o espaço de armazenamento?
-* A senha é salva criptografada?
+- Os dados estão salvos no sistema corretamente?
+- Os dados utilizam os campos adequados, de modo a otimizar o espaço de armazenamento?
+- A senha é salva criptografada?
 
 ### US10
 
@@ -117,11 +117,11 @@ Rastreabilidade: RF-12
 
 Critérios de aceitação:
 
-* Os dados estão salvos no sistema corretamente?
-* Os dados utilizam os campos adequados, de modo a otimizar o espaço de armazenamento?
-* As fotos são enviadas corretamente?
-* Possui pelo menos uma foto?
+- Os dados estão salvos no sistema corretamente?
+- Os dados utilizam os campos adequados, de modo a otimizar o espaço de armazenamento?
+- As fotos são enviadas corretamente?
+- Possui pelo menos uma foto?
 
 ## Referências
 
->SCHWABER, Ken; SUTHERLAND, Jeff. “Guia do Scrum - Um guia definitivo para o Scrum: As regras do jogo”. Scrum.Org and ScrumInc, 2014.
+> SCHWABER, Ken; SUTHERLAND, Jeff. “Guia do Scrum - Um guia definitivo para o Scrum: As regras do jogo”. Scrum.Org and ScrumInc, 2014.
