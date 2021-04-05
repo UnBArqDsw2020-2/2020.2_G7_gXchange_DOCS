@@ -1,10 +1,10 @@
-site_name: "gXchange"
+site_name: 'gXchange'
 
 theme:
   logo: assets/logos/icon-branco.png
   favicon: assets/logos/icon-branco.png
   name: material
-  language: "pt"
+  language: 'pt'
 
 extra_css:
   - stylesheets/extra.css
@@ -64,8 +64,8 @@ nav:
               - Atributos de Qualidade: desenho/modelagem/iniciativa/atributos_qualidade.md
               - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
   - Desenho de Software (Padrões de projeto):
-    - Iniciativas extras:
-      - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
+      - Iniciativas extras:
+          - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
   - Versões documentos:
       - Rich Picture:
           - 1.1: versoes/rich_picture/1.0.md
@@ -88,21 +88,24 @@ nav:
       - Diagrama de Classe:
           - 1.0: versoes/diagrama_classe/1.0.md
   - Iniciativas extras gerais:
-    - Padrões:
-      - Atas: iniciativa_geral/padroes/atas.md
-      - Github: iniciativa_geral/padroes/github.md
-      - Versões: iniciativa_geral/padroes/versoes.md
-      - Documento: iniciativa_geral/padroes/documento.md
+      - Padrões:
+          - Atas: iniciativa_geral/padroes/atas.md
+          - Github: iniciativa_geral/padroes/github.md
+          - Versões: iniciativa_geral/padroes/versoes.md
+          - Documento: iniciativa_geral/padroes/documento.md
+          - Scrum:
+              - Planejamento da Sprint: iniciativa_geral/padroes/scrum/planejamento_sprint.md
       - Scrum:
-        - Planejamento da Sprint: iniciativa_geral/padroes/scrum/planejamento_sprint.md
-    - Scrum:
-        - Sprint 1: 
-            - Planejamento: iniciativa_geral/scrum/sprint_1/planejamento.md
-    - Atas:
-      - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
-      - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
-      - Reunião dia 05/03/2021: iniciativa_geral/atas/reuniao_05_03_2021.md
-      - Reunião dia 16/03/2021: iniciativa_geral/atas/reuniao_16_03_2021.md
-      - Reunião dia 21/03/2021: iniciativa_geral/atas/reuniao_21_03_2021.md
-      - Reunião dia 22/03/2021: iniciativa_geral/atas/reuniao_22_03_2021.md
-
+          - Sprint 1:
+              - Planejamento: iniciativa_geral/scrum/sprint_1/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_1/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_1/retrospectiva.md
+          - Sprint 2:
+              - Planejamento: iniciativa_geral/scrum/sprint_2/planejamento.md
+      - Atas:
+          - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
+          - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
+          - Reunião dia 05/03/2021: iniciativa_geral/atas/reuniao_05_03_2021.md
+          - Reunião dia 16/03/2021: iniciativa_geral/atas/reuniao_16_03_2021.md
+          - Reunião dia 21/03/2021: iniciativa_geral/atas/reuniao_21_03_2021.md
+          - Reunião dia 22/03/2021: iniciativa_geral/atas/reuniao_22_03_2021.md
