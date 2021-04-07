@@ -20,7 +20,7 @@ Foi debatido entre os integrantes sobre a necessidade de especificar um componen
 
 ![Diagrama de componentes](../../../../assets/diagrama_componentes/diagrama_de_componentes.png)
 
-<a href="https://drive.google.com/file/d/1xU5zW2MU66O0srtWuXSoXb3pZectBMDB/view?usp=sharing" target="_blank" rel="noopener">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1xU5zW2MU66O0srtWuXSoXb3pZectBMDB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 ## Referências
 
@@ -30,7 +30,7 @@ Foi debatido entre os integrantes sobre a necessidade de especificar um componen
 
 ## Versionamento
 
-| Versão | Data       | Modificação               | Motivo | Autor         |
-| ------ | ---------- | ------------------------- | ------ | ------------- |
-|  1.0  | 02/03/2021 | Criação do documento de diagrama de componente | Criar um diagrama que indentifique os componentes presentes no projeto | Todos os integrantes |
-|  1.0.1  | 03/03/2021 | Correção no titulo do documento | - | Marcelo Victor |
+| Versão | Data       | Modificação                                    | Motivo                                                                 | Autor                |
+| ------ | ---------- | ---------------------------------------------- | ---------------------------------------------------------------------- | -------------------- |
+| 1.0    | 02/03/2021 | Criação do documento de diagrama de componente | Criar um diagrama que indentifique os componentes presentes no projeto | Todos os integrantes |
+| 1.0.1  | 03/03/2021 | Correção no titulo do documento                | -                                                                      | Marcelo Victor       |
