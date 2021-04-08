@@ -65,6 +65,7 @@ nav:
               - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
   - Desenho de Software (Padrões de projeto):
       - 3.1 Módulo Padrões de Projeto GRASPs: desenho/padroes_projeto/3.1/grasp.md
+      - 3.3 Módulo Padrões de Projeto Emergentes: desenho/padroes_projeto/3.3/emergente.md
       - Iniciativas extras:
           - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
   - Versões documentos:
