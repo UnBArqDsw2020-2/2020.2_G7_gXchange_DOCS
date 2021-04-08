@@ -1,10 +1,10 @@
-site_name: "gXchange"
+site_name: 'gXchange'
 
 theme:
   logo: assets/logos/icon-branco.png
   favicon: assets/logos/icon-branco.png
   name: material
-  language: "pt"
+  language: 'pt'
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
@@ -85,6 +85,7 @@ nav:
               - Mediador: desenho/padroes_projeto/3.2/comportamentais/mediator.md
               - Memento: desenho/padroes_projeto/3.2/comportamentais/memento.md
               - Template: desenho/padroes_projeto/3.2/comportamentais/template.md
+      - 3.3 Módulo Padrões de Projeto Emergentes: desenho/padroes_projeto/3.3/emergente.md
       - Iniciativas extras:
           - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
   - Versões documentos:
