@@ -1,13 +1,19 @@
-site_name: 'gXchange'
+site_name: "gXchange"
 
 theme:
   logo: assets/logos/icon-branco.png
   favicon: assets/logos/icon-branco.png
   name: material
-  language: 'pt'
+  language: "pt"
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
 
 nav:
   - Sobre: index.md
@@ -65,6 +71,20 @@ nav:
               - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
   - Desenho de Software (Padrões de projeto):
       - 3.1 Módulo Padrões de Projeto GRASPs: desenho/padroes_projeto/3.1/grasp.md
+      - 3.2 Módulo Padrões de Projeto GoFs:
+          - Geral: desenho/padroes_projeto/3.2/geral.md
+          - Criacionais:
+              - Builder Anúncio: desenho/padroes_projeto/3.2/criacionais/builder_anuncio.md
+              - Builder Moderador: desenho/padroes_projeto/3.2/criacionais/builder_moderador.md
+              - Prototype (Type Script): desenho/padroes_projeto/3.2/criacionais/prototype_ts.md
+          - Estruturais:
+              - API Adapter: desenho/padroes_projeto/3.2/estruturais/api_adapter.md
+              - FlyWeight Motivos: desenho/padroes_projeto/3.2/estruturais/flyweight_motivos.md
+              - Proxy Lazy Loading: desenho/padroes_projeto/3.2/estruturais/proxy_lazy_loading.md
+          - Comportamentais:
+              - Mediador: desenho/padroes_projeto/3.2/comportamentais/mediator.md
+              - Memento: desenho/padroes_projeto/3.2/comportamentais/memento.md
+              - Template: desenho/padroes_projeto/3.2/comportamentais/template.md
       - Iniciativas extras:
           - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
   - Versões documentos:
