@@ -1,4 +1,4 @@
-# Facade e Adapter - API
+# Mediator - Django Views
 
 ## Problema
 
@@ -40,3 +40,4 @@ class OfferPlatformListView(BaseFilterListView): # A Classe internament faz a me
 | Versão | Data       | Modificação               | Motivo | Autor         |
 | ------ | ---------- | ------------------------- | ------ | ------------- |
 | 1.0 | 04/04/2021 | Criação do documento | Documentar a necessidade do mediador | Todos os integrantes |
+| 1.1 | 07/04/2021 | Alteração do título do documento | O título estava divergente com o conteúdo | Washington Bispo |
