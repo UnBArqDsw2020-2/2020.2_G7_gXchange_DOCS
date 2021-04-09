@@ -20,9 +20,15 @@ Fazendo assim a relação motivo de denúncia, tornar-se um relacionamento, dest
 Diferente do FlyWeight original este não acontece na memória RAM, e sim no Banco de Dados. Da mesma forma poupa armazenamento do banco, por não ter que ficar repetindo atributos de texto que muitas vezes são iguais. 
 </p>
 
+## Modelagem
+
+![Diagrama de builder do moderador](../../../../../assets/gofs/modelos/flyweight.png)
+
+<a href="https://drive.google.com/file/d/1ldNde1PLIpvhuX6mFnlgOgFPOVJKyXz7/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
 ## Código
 
-``` python
+```python
 class Reason(models.Model):
     text = TextField(unique=True)
     pass
@@ -31,7 +37,7 @@ class Report(models.Model):
     creator = ForeignKey(User)
     reported = ForeignKey(User)
     reason = OneToOneField(Reason)
-    date = DateField() 
+    date = DateField()
     comment = TextField() # aqui deverá ir o comentário que servirá também como motivo caso seja marcado o motivo como 'outros'
 ```
 
@@ -39,6 +45,7 @@ também sendo necessária uma Serializer, que também pode se comportar como uma
 
 ## Versionamento
 
-| Versão | Data       | Modificação               | Motivo | Autor         |
-| ------ | ---------- | ------------------------- | ------ | ------------- |
-| 1.0 | 04/04/2021 | Criação do documento | Listar o problema de padronização dos motivos | Todos os integrantes |
+| Versão | Data       | Modificação                                  | Motivo                                         | Autor                |
+| ------ | ---------- | -------------------------------------------- | ---------------------------------------------- | -------------------- |
+| 1.0    | 04/04/2021 | Criação do documento                         | Listar o problema de padronização dos motivos  | Todos os integrantes |
+| 1.1    | 08/04/2021 | Alteração da solução e inclusão da modelagem | Para que esteja documentado a modelagem do GOF | Marcelo Victor       |
