@@ -16,18 +16,26 @@ Criar uma classe que funciona como um adaptador para a comunicação com a API, 
 Essa classe fornece para os componentes do Front-end apenas possui os métodos para os verbos HTTP, para que os componentes sejam adaptados para utilizar as funcionalidades fornecidas, temos então o padrão Adapter aplicado, dependente da composição de um objeto da classe API Adapter com as instâncias dos componentes do Front-end.
 </p>
 
+## Modelagem
+
+![Modelagem API Adapter](../../../../../assets/gofs/modelos/API_Adapter.png)
+
+<a href="https://drive.google.com/file/d/1anC75EUmuJwtzPYnY5XQg47NdQkIkkk5/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
 ## Código
 
 ### API Adapter
 
+OBS: os métodos <em>interceptors</em>(request and response) não estão representados no momento, pois nesse ponto do projeto ainda não os implementamos.
+
 ```typescript
-import axios, { AxiosInstance, AxiosRequestConfig } from 'axios';
+import axios, { AxiosInstance, AxiosRequestConfig } from "axios";
 
 const CONFIG: AxiosRequestConfig = {
-  timeout: parseInt(process.env.REACT_APP_GXCHANGE_TIMEOUT || '5000', 10),
+  timeout: parseInt(process.env.REACT_APP_GXCHANGE_TIMEOUT || "5000", 10),
   baseURL: `${process.env.REACT_APP_GXCHANGE_API_URL}/app/`,
   headers: {
-    Accept: 'application/json',
+    Accept: "application/json",
   },
 };
 
@@ -91,22 +99,22 @@ const send = async () => {
       password,
     };
 
-    await API.post('/user', params);
+    await API.post("/user", params);
 
     dispatch(
       openModal({
-        title: 'Sucesso',
-        type: 'success',
-        content: 'Conta criada com sucesso',
+        title: "Sucesso",
+        type: "success",
+        content: "Conta criada com sucesso",
       })
     );
 
-    history.push('/');
+    history.push("/");
   } catch (error) {
     dispatch(
       openModal({
-        title: 'Erro',
-        type: 'error',
+        title: "Erro",
+        type: "error",
         content: error.message,
       })
     );
@@ -122,3 +130,4 @@ const send = async () => {
 | ------ | ---------- | ------------------------------ | ---------------------------------------------------------------- | -------------------- |
 | 1.0    | 04/04/2021 | Criação do documento           | Documentar a necessidade do API Adapter                          | Todos os integrantes |
 | 1.1    | 05/04/2021 | Correção no texto da "solução" | Melhorar a documentação do padrão Adapter no contexto do projeto | Todos os integrantes |
+| 1.2    | 05/04/2021 | Inserção da modelagem          | Melhorar a compreensão do GOF em questão                         | Marcelo Victor       |

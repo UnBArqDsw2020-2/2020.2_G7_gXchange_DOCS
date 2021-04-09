@@ -1,10 +1,10 @@
-site_name: 'gXchange'
+site_name: "gXchange"
 
 theme:
   logo: assets/logos/icon-branco.png
   favicon: assets/logos/icon-branco.png
   name: material
-  language: 'pt'
+  language: "pt"
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
@@ -76,7 +76,7 @@ nav:
           - Criacionais:
               - Builder Anúncio: desenho/padroes_projeto/3.2/criacionais/builder_anuncio.md
               - Builder Moderador: desenho/padroes_projeto/3.2/criacionais/builder_moderador.md
-              - Prototype (Type Script): desenho/padroes_projeto/3.2/criacionais/prototype_ts.md
+              - Prototype (TypeScript): desenho/padroes_projeto/3.2/criacionais/prototype_ts.md
           - Estruturais:
               - API Adapter: desenho/padroes_projeto/3.2/estruturais/api_adapter.md
               - FlyWeight Motivos: desenho/padroes_projeto/3.2/estruturais/flyweight_motivos.md
