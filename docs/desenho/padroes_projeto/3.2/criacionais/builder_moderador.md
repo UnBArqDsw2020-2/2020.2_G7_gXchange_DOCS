@@ -30,9 +30,15 @@ Ou seja, baseado numa abordagem de builder. Será preciso criar uma Model Modera
 Abordagens semelhantes podem ser tomadas para problemas de criação de contas com papéis/perfis de responsabilidades diferentes.
 </p>
 
+## Modelagem
+
+![Diagrama de builder do moderador](../../../../../assets/gofs/modelos/builder_moderador.png)
+
+<a href="https://drive.google.com/file/d/16nmouwfYAg6tl0JegQ4VkxEqzZ6b7rrd/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
 ## Código
 
-``` python
+```python
 class ProfileBuilder(models.Models):
     # A chave primária desta model será automática
     email = EmailField(unique=True)
@@ -67,7 +73,7 @@ class ModeratorBuilder(ProfileBuilder):
             Propriedade que retorna o produto final, no caso a instância de Moderator, prontap para ser salva
         """
         pass
-    
+
     def send_email(self) -> None:
         """
             Método que tem a responsabilidade de enviar o email para o moderador contendo o link para o formulário de cadastro, seja por chamar um serviço de email
@@ -76,15 +82,15 @@ class ModeratorBuilder(ProfileBuilder):
 
     def set_data(self, data) -> None:
         """
-            Método que é responsável por criar um novo objeto de Person com os dados fornecidos e também criar o objeto moderador 
+            Método que é responsável por criar um novo objeto de Person com os dados fornecidos e também criar o objeto moderador
         """
         pass
 
 ```
 
-
 ## Versionamento
 
-| Versão | Data       | Modificação               | Motivo | Autor         |
-| ------ | ---------- | ------------------------- | ------ | ------------- |
-| 1.0 | 04/04/2021 | Criação do documento | - | Todos os integrantes |
+| Versão | Data       | Modificação                                  | Motivo                                         | Autor                |
+| ------ | ---------- | -------------------------------------------- | ---------------------------------------------- | -------------------- |
+| 1.0    | 04/04/2021 | Criação do documento                         | -                                              | Todos os integrantes |
+| 1.1    | 08/04/2021 | Alteração da solução e inclusão da modelagem | Para que esteja documentado a modelagem do GOF | Marcelo Victor       |
