@@ -21,7 +21,7 @@ São um grupo de padrões de projeto que contém 23 padrões bem documentados di
 
 **Estrutura**:
 
-![Estrutura builder](../../../../../assets/gofs/builder.png)
+![Estrutura builder](../../../../assets/gofs/builder.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 105.
 
@@ -31,7 +31,7 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 **Intenção**: Especificar os tipos de objetos a serem criados usando uma instância-protótipo e criar novos objetos pela cópia desse protótipo.
 
-**Aplicabilidade**: Use o padrão Prototype quando: 
+**Aplicabilidade**: Use o padrão Prototype quando:
 
 - um sistema tiver que ser independente de como os seus produtos são criados, compostos e representados; e
 - quando as classes a instanciar forem especificadas em tempo de execução, por exemplo, por carga dinâmica; ou
@@ -40,13 +40,13 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 **Estrutura**:
 
-![Estrutura prototype](../../../../../assets/gofs/prototype.png)
+![Estrutura prototype](../../../../assets/gofs/prototype.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 123.
 
 [Link para a imagem](https://drive.google.com/file/d/15LLcURZ5R1Hv_0-pbYU_8-4NkCZthwxI/view?usp=sharing)
 
-### Singleton 
+### Singleton
 
 **Intenção**: Garantir que uma classe tenha somente uma instância e fornecer um ponto global de acesso para a mesma.
 
@@ -57,7 +57,7 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 **Estrutura**:
 
-![Estrutura singleton](../../../../../assets/gofs/singleton.png)
+![Estrutura singleton](../../../../assets/gofs/singleton.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 130.
 
@@ -81,7 +81,7 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 **Estrutura**:
 
-![Estrutura Adapter](../../../../../assets/gofs/adapter.png)
+![Estrutura Adapter](../../../../assets/gofs/adapter.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 142.
 
@@ -89,17 +89,17 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 ### Facade
 
-**Intenção**: Fornecer uma interface unificada para um conjunto de interfaces em um subsistema. Os subsistemas se tornam mais complexos à medida que evoluem.  Façade define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
+**Intenção**: Fornecer uma interface unificada para um conjunto de interfaces em um subsistema. Os subsistemas se tornam mais complexos à medida que evoluem. Façade define uma interface de nível mais alto que torna o subsistema mais fácil de ser usado.
 
 **Aplicabilidade**: Use o padrão Facade quando:
 
-- Você deseja fornecer uma interface simples para um subsistema complexo. A maioria dos padrões, quando aplicados, resulta em mais e menores classes aumentando a complexidade; 
+- Você deseja fornecer uma interface simples para um subsistema complexo. A maioria dos padrões, quando aplicados, resulta em mais e menores classes aumentando a complexidade;
 - Existirem muitas dependências entre clientes e classes de implementação de uma abstração;
 - Quando se deseja estruturar seus subsistemas em camadas. Use um facade para definir o ponto de entrada para cada nível de subsistema.
 
 **Estrutura**:
 
-![Estrutura Facade](../../../../../assets/gofs/facade.png)
+![Estrutura Facade](../../../../assets/gofs/facade.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 181.
 
@@ -119,7 +119,7 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 **Estrutura**:
 
-![Estrutura Flyweight](../../../../../assets/gofs/flyweight.png)
+![Estrutura Flyweight](../../../../assets/gofs/flyweight.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 190.
 
@@ -129,7 +129,7 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 **Intenção**: Fornece um substituto (surrogate) ou marcador da localização de outro objeto para controlar o acesso a esse objeto.
 
-**Aplicabilidade**: 
+**Aplicabilidade**:
 
 O padrão Proxy é aplicável sempre que há necessidade de uma referência mais versátil,ou sofisticada, do que um simples apontador para um objeto. Aqui apresentamos diversas situações comuns nas quais o padrão Proxy é aplicável:
 
@@ -144,7 +144,7 @@ O padrão Proxy é aplicável sempre que há necessidade de uma referência mais
 
 **Estrutura**:
 
-![Estrutura Proxy](../../../../../assets/gofs/proxy.png)
+![Estrutura Proxy](../../../../assets/gofs/proxy.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 200.
 
@@ -168,7 +168,7 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 **Estrutura**:
 
-![Estrutura Chain of Responsibility](../../../../../assets/gofs/chain_of_responsibility.png)
+![Estrutura Chain of Responsibility](../../../../assets/gofs/chain_of_responsibility.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 214.
 
@@ -186,7 +186,7 @@ objeto, de maneira que o objeto possa ser restaurado para esse estado mais tarde
 
 **Estrutura**:
 
-![Estrutura Memento](../../../../../assets/gofs/memento.png)
+![Estrutura Memento](../../../../assets/gofs/memento.png)
 
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000. Página 268.
 
@@ -194,10 +194,11 @@ GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSID0000ES, John. "Padrões de p
 
 ## Referências
 
->GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000.
+> GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. "Padrões de projeto: soluções reutilizáveis de software orientado a objetos". Artmed Editora S.A, 2000.
 
 ## Versionamento
 
-| Versão | Data       | Modificação               | Motivo | Autor         |
-| ------ | ---------- | ------------------------- | ------ | ------------- |
-| 1.0 | 04/04/2021 | Criação do documento | documento com abordagem sobre os GOFs | Todos os integrantes |
+| Versão | Data       | Modificação          | Motivo                                | Autor                |
+| ------ | ---------- | -------------------- | ------------------------------------- | -------------------- |
+| 1.0    | 04/04/2021 | Criação do documento | Documento com abordagem sobre os GOFs | Todos os integrantes |
+| 1.1    | 08/04/2021 | Correção do path das assets do documentos | Fazer com que as imagens apareçam corretamente na wiki | Todos os integrantes |
