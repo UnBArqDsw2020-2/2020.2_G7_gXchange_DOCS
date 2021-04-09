@@ -20,9 +20,15 @@ Essa abordagem apresenta vantagens por encapsular as lógicas de construção do
 Dentro da estrutura de Builder, há a classe diretora, no caso qualquer classe que precise utilizar o builder será considerada a diretora.
 </p>
 
+## Modelagem
+
+![Diagrama de builder do anúncio](../../../../../assets/gofs/modelos/offer_Builder.png)
+
+<a href="https://drive.google.com/file/d/1aD8J5pPU1wjd4PYfXsbuKuJbyObJJh3S/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
 ## Código
 
-``` typescript
+```typescript
 class OfferBuilder {
     private offer: Offer; // O tipo Offer refere-se ao tipo Anúncio
 
@@ -64,6 +70,7 @@ class OfferBuilder {
 
 ## Versionamento
 
-| Versão | Data       | Modificação               | Motivo | Autor         |
-| ------ | ---------- | ------------------------- | ------ | ------------- |
-| 1.0 | 04/04/2021 | Criação do documento | Listar o problema de criação de um novo anúncio | Todos os integrantes |
+| Versão | Data       | Modificação                                  | Motivo                                          | Autor                |
+| ------ | ---------- | -------------------------------------------- | ----------------------------------------------- | -------------------- |
+| 1.0    | 04/04/2021 | Criação do documento                         | Listar o problema de criação de um novo anúncio | Todos os integrantes |
+| 1.1    | 08/04/2021 | Alteração da solução e inclusão da modelagem | Para que esteja documentado a modelagem do GOF  | Marcelo Victor       |
