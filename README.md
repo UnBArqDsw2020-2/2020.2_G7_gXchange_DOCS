@@ -54,10 +54,20 @@ Este repositório é destinado ao grupo 7 - [**gXchange**](https://github.com/Un
 ##### 2.1.3 - [Modelagem ágil](https://youtu.be/JOU-X-XP3X0)
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Aqui serão adicionados 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+
+![GRASP - Chat e mensagem](https://user-images.githubusercontent.com/48963026/114285418-5ed2a100-9a2d-11eb-85e5-97108631c8d6.jpg)
+
+![GoF - Builder Moderador](https://user-images.githubusercontent.com/48963026/114285419-6134fb00-9a2d-11eb-9662-fffd36214cde.jpg)
+
+![Emergentes - Component Pattern](https://user-images.githubusercontent.com/48963026/114285424-698d3600-9a2d-11eb-8382-6730b0a2b92c.jpg)
 
 ## Vídeo(s) Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Aqui serão adicionados o(s) vídeo(s) da Terceira Entrega.
+
+##### 3.1 - [Padrões de Projeto - GRASPs](https://youtu.be/qQglFV-Mie0)
+
+##### 3.2 - [Padrões de Projeto - GoFs](https://youtu.be/4m0vWAqYDn8)
+
+##### 3.3 - [Padrões de Projeto - Emergentes](https://youtu.be/ALiAMjn1VUM)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Aqui serão adicionados 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
