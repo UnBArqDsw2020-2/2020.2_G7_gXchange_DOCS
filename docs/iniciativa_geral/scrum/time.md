@@ -1,6 +1,14 @@
-# Time
+# Scrum na equipe
 
-## Scrum Master (SM)
+## Sprint
+
+<p style="text-indent: 20px; text-align: justify">
+A sprint da equipe é definida com um tamanho de uma semana, ela se inicia e termina no domingo
+</p>
+
+## Time
+
+### Scrum Master (SM)
 
 <p style="text-indent: 20px; text-align: justify">
 "O Scrum Master é responsável por garantir que o Scrum seja entendido e aplicado." (SCHWABER e SUTHERLAND, 2014, p. 7).
@@ -8,7 +16,7 @@
 
 Integrante: Igor Paiva
 
-## Product Owner (PO)
+### Product Owner (PO)
 
 <p style="text-indent: 20px; text-align: justify">
 "O Product Owner, ou dono do produto, é o responsável por maximizar o valor do produto e do trabalho do Time de Desenvolvimento." (SCHWABER e SUTHERLAND, 2014, p. 5).
@@ -16,7 +24,7 @@ Integrante: Igor Paiva
 
 Integrante: Thiago Lopes
 
-## Time de desenvolvimento (TD)
+### Time de desenvolvimento (TD)
 
 <p style="text-indent: 20px; text-align: justify">
 "OO Time de Desenvolvimento consiste de profissionais que realizam o trabalho de entregar uma versão usável que potencialmente incrementa o produto “Pronto” ao final de cada Sprint" (SCHWABER e SUTHERLAND, 2014, p. 6.
@@ -34,3 +42,4 @@ Integrantes:
 ## Referências
 
 >SCHWABER, Ken; SUTHERLAND, Jeff. “Guia do Scrum - Um guia definitivo para o Scrum: As regras do jogo”. Scrum.Org and ScrumInc , 2014.
+ 

@@ -1,4 +1,4 @@
-# Revisão da Sprint 1
+# Retrospectiva da Sprint 1
 
 <p style="text-indent: 20px; text-align: justify">
 "A Retrospectiva da Sprint é uma oportunidade para o Time Scrum inspecionar a si próprio e criar um plano para melhorias a serem aplicadas na próxima Sprint." (SCHWABER e SUTHERLAND, 2014, p. 12).
@@ -32,7 +32,7 @@ Por ser a primeira semana e a maioria dos integrantes não terem familiaridade c
 - Administração do tempo.
 - Melhoria no ânimo do time.
 - Colocar em uso o aprendizado adquirido sobre as tecnologias.
-
+,
 ## Decisões do Scrum Master para tornar o Scrum mais agradável
 
 <p style="text-indent: 20px; text-align: justify">
