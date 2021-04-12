@@ -118,12 +118,18 @@ nav:
           - Scrum:
               - Planejamento da Sprint: iniciativa_geral/padroes/scrum/planejamento_sprint.md
       - Scrum:
+          - Scrum na equipe: iniciativa_geral/scrum/time.md
           - Sprint 1:
               - Planejamento: iniciativa_geral/scrum/sprint_1/planejamento.md
               - Revisão: iniciativa_geral/scrum/sprint_1/revisao.md
               - Retrospectiva: iniciativa_geral/scrum/sprint_1/retrospectiva.md
           - Sprint 2:
               - Planejamento: iniciativa_geral/scrum/sprint_2/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_2/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_2/retrospectiva.md
+          - Sprint 3:
+              - Planejamento: iniciativa_geral/scrum/sprint_2/planejamento.md
+
       - Atas:
           - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
           - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
