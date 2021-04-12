@@ -70,7 +70,9 @@ nav:
               - Atributos de Qualidade: desenho/modelagem/iniciativa/atributos_qualidade.md
               - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
   - Desenho de Software (Padrões de projeto):
-      - 3.1 Módulo Padrões de Projeto GRASPs: desenho/padroes_projeto/3.1/grasp.md
+      - 3.1 Módulo Padrões de Projeto GRASPs:
+          - GRASPs: desenho/padroes_projeto/3.1/grasp.md
+          - Apresentação: desenho/padroes_projeto/3.1/apresentacao_3.1.md
       - 3.2 Módulo Padrões de Projeto GoFs:
           - Geral: desenho/padroes_projeto/3.2/geral.md
           - Criacionais:
@@ -85,7 +87,10 @@ nav:
               - Mediador: desenho/padroes_projeto/3.2/comportamentais/mediator.md
               - Memento: desenho/padroes_projeto/3.2/comportamentais/memento.md
               - Template: desenho/padroes_projeto/3.2/comportamentais/template.md
-      - 3.3 Módulo Padrões de Projeto Emergentes: desenho/padroes_projeto/3.3/emergente.md
+          - Apresentação: desenho/padroes_projeto/3.2/apresentacao_3.2.md
+      - 3.3 Módulo Padrões de Projeto Emergentes:
+          - Padrões Emergentes: desenho/padroes_projeto/3.3/emergente.md
+          - Apresentação: desenho/padroes_projeto/3.3/apresentacao_3.3.md
       - Iniciativas extras:
           - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
   - Versões documentos:
