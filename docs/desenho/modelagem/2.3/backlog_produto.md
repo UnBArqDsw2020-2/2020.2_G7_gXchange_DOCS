@@ -324,7 +324,7 @@ Critérios de aceitação:
 
 ### FT04 - Perfil de usuário
 
-#### US37
+#### US39
 
 Eu, como um usuário, desejo acessar e visualizar o perfil de outro usuário para que eu consiga ver as informações daquele usuário
 
