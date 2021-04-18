@@ -6,7 +6,7 @@
 
 ## Quadro de conhecimentos
 
-![Q
+![Quadro conhecimentos](../../../assets/equipe/quadro_conhecimento.jpg)
 
 ## Como o trabalho escolhido será realizado?
 
