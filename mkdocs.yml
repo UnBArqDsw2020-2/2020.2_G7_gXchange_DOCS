@@ -1,10 +1,10 @@
-site_name: "gXchange"
+site_name: 'gXchange'
 
 theme:
   logo: assets/logos/icon-branco.png
   favicon: assets/logos/icon-branco.png
   name: material
-  language: "pt"
+  language: 'pt'
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
@@ -133,7 +133,7 @@ nav:
               - Revisão: iniciativa_geral/scrum/sprint_2/revisao.md
               - Retrospectiva: iniciativa_geral/scrum/sprint_2/retrospectiva.md
           - Sprint 3:
-              - Planejamento: iniciativa_geral/scrum/sprint_2/planejamento.md
+              - Planejamento: iniciativa_geral/scrum/sprint_3/planejamento.md
 
       - Atas:
           - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
