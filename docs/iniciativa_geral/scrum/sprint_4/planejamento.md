@@ -36,7 +36,7 @@ Visto que não há divergências, o objetivo do PO será considerado o objetivo 
 
 ## Definir os pares
 
-``` python
+```python
 {
     ('Rhuan', 'Washington'): ['US37', 'US39'],
     ('Igor', 'Thiago L'): ['US35', 'US36'],

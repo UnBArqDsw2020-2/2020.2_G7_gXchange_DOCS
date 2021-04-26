@@ -26,11 +26,7 @@ O framework Django Rest permite que alguns métodos específicos das Views sejam
 """
 class BaseFilterListView(generics.ListAPIView):
     @abstract_method
-    def get_queryset(self): # método que deverá ser definido pelas classes que implementarem o template
-        pass
-
-
-class OfferPlatformListView(BaseFilterListView):
+    def get_queryset(self): # método que deiew(BaseFilterListView):
     """
         View que lista todas os anúncios com uma dada plataforma
     """

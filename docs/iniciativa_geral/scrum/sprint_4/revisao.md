@@ -1,4 +1,4 @@
-# Revisão da sprint 3
+# Revisão da sprint 4
 
 ## Palavras-chave
 
@@ -6,47 +6,45 @@
 
 ## Quadro de conhecimentos
 
-![Quadro conhecimentos](../../../assets/equipe/quadro_sprint3.jpg)
+![Quadro conhecimentos](../../../assets/equipe/quadro_sprint4.jpg)
 
 <a href="https://drive.google.com/file/d/1uydCa6GdV0EkR9Cfc88E3BOEN69kM0zj/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
 
 ## O que ficou pronto nessa sprint? (PO)
 
 <p style="text-indent: 20px; text-align: justify">
-Edição de anúncio US12, cadastro de anúncio US09.
+US35 - Login de usário, US36 - Autenticação das rotas, US37 - Lista de anúncios, US14 - Visualizar informações de um anúncio
 </p>
 
 ## Aspectos da sprint
 
 ### Aspectos positivos
 
+- Temos login e permissões
 - Cada dia mais perto da entrega do projeto (ou não)
-- O esqueleto do feed ficou pronto, o card ficou bala, tiramos a foto do Sherlock Holmes
-- O update da offer tá lindíssissimo.
-- Junin subiu um Docker pela primeira vez \*-\* (DevOps está orgulhoso)
+- Visualizar anúncio quase pronto
+- Trabalho de bancos quase finalizado
 
 ### Problemas / soluções
 
-- Serializer roubando os base64
-  - Tirar da serializer e fazer isso na mão
-- Muito tempo para resolver o problema de cadastro de anúncio, o que atrasou a sprint como um todo.
-  - Fazer as coisas na View, serve de lição
-- Problemas quanto a localização do anúncio
-  - Usar API do correios
+- As libs e ferramentas que usamos para a parte de login e verificação das permissões não fornecem o usuário logado facilmente
+  - Tivemos que decodificar o token do usuário, pegar seus dados e aí buscar ele no banco de dados
 
 ## O produto irá ser finalizado no prazo? (PO)
 
 <p style="text-indent: 20px; text-align: justify">
-Possivelmente.
+O MVP será entregue no prazo proposto
 </p>
 
 ## O que vem a seguir?
 
-- O tempo. O tempo de Deus tem seus mistérios. Amém!
+- Elaborar os documentos da última entrega
+- Gravar o vídeo da apresentação
+- Finalizar o MVP
 
 ## Mudanças no backlog de produto
 
-- 2 User Stories, um número
+- Nenhuma.
 
 ## Referências
 
