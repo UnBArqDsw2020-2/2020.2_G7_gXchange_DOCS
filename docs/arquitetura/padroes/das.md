@@ -16,6 +16,10 @@ Este documento se aplica a arquitetura do <strong>gXchange</strong> e todos os s
 
 ### 1.3 Definições Acrônimos e Abreviações
 
+| Acrônimo | Forma extendida |
+| ------ | --------- |
+| DRF | Django Rest-Framework |
+
 <p style="text-indent: 20px; text-align: justify">
 Os léxicos aplicáveis no contexto do gXchange podem ser consultados no documento de <a href="../../../desenho/base/1.1/lexico">léxicos</a>
 </p>
@@ -26,11 +30,15 @@ Requisitos, histórias de usuário, épicos e features seguem o padrão já adot
 
 ### 1.4 Referências
 
-> Documento de arquitetura de Software. UFPE. Disponível em: https://www.cin.ufpe.br/~gta/rup-vc/core.informal_resources/guidances/examples/resources/ex_sad.htm
+> Documento de arquitetura de Software. UFPE. Disponível em: https://www.cin.ufpe.br/~gta/rup-vc/core.informal_resources/guidances/examples/resources/ex_sad.htm. Acesso em: 24/04/2021
 
-> Documento de arquitetura de Software. UFPE. Disponível em: https://www.cin.ufpe.br/~gta/rup-vc/extend.formal_resources/guidances/examples/resources/sadoc_v1.htm
+> Documento de arquitetura de Software. UFPE. Disponível em: https://www.cin.ufpe.br/~gta/rup-vc/extend.formal_resources/guidances/examples/resources/sadoc_v1.htm. Acesso em: 24/04/2021
 
 > Artefatos do gXchange. Disponível em: https://github.com/UnBArqDsw2020-2/2020.2_G7_gXchange_DOCS.
+
+> Visões Arquiteturais. Disponível em: https://www.dimap.ufrn.br/~thais/Arquitetura20081/Visoes4+1eDocumentacao.pdf. Acesso em: 27/04/2021
+
+> Kruchten’s 4 + 1 views of Software Design. Disponível em: https://medium.com/the-mighty-programmer/kruchtens-views-of-software-design-e9088398c592. Acesso em: 27/04/2021
 
 ### 1.5 Visão Geral
 
@@ -53,6 +61,33 @@ Este documento é divido em seções, cada qual com seu próposito:
 
 ## 2. Representação Arquitetural
 
+<p style="text-indent: 20px; text-align: justify">
+A solução arquitetural definida para o gXchange pode ser visualizada, em sua forma com granularidade maior, abaixo:
+</p>
+
+![Representação Arquitetural](../../../assets/arquitetura/representacao.png)
+
+<a href="https://drive.google.com/file/d/1raywRBZc67k7WeM89ZlA2T3kvpV1XzzX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
+<p style="text-indent: 20px; text-align: justify">
+Consiste numa arquitetura que obedece o modelo Cliente-Servidor, em que no caso os dois Clientes são os chamados Front-end. Já o servidor, é a gXchange-API, também chamada de Back-end;
+</p>
+
+### 2.1 Back-end
+
+<p style="text-indent: 20px; text-align: justify">
+O Back-end adota o padrão MVC, no caso o MVT por fazer uso do framework Django, que se estrutura como um modelo N-Camadas. No caso há 4 camadas, sendo que há uma camada denominada <em><strong>Serializer</strong></em>. Como se pode ver é um modelo em sua forma relaxada, pois a camada <em><strong>View</strong></em> se comunica tanto com a camada <em><strong>Serializer</strong></em> e <em><strong>Model</strong></em>.
+</p>
+
+
+<p style="text-indent: 20px; text-align: justify">
+De modo análogo, os clientes podem ser considerados, semanticamente, a quinta camada dessa arquitetura, pois dependem e consomem diretamente da camada de <em><strong>View</strong></em>.
+</p>
+
+![N-camadas](../../../assets/arquitetura/camadas.png)
+
+<a href="https://drive.google.com/file/d/17g7W3HaW2Xz1L-9bsFtMDRHLx4iUe8zx/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
 ## 3. Objetivos Arquiteturais e Restrições
 
 ## 4. Visualização de Casos de Uso
@@ -69,11 +104,70 @@ Este documento é divido em seções, cada qual com seu próposito:
 
 ## 7. Visão de Implantação
 
+<p style="text-indent: 20px; text-align: justify">
+No contexto da implantação (<em>deploy</em>) do software, seguindo os princípios de devops, em que infraestrutura é escrita como código. Todo o processo de implantação deve ser de maneira automatizada ao longo dos repositórios do software. Os serviços deverão ser implantados utilizando Docker e Docker-compose.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+De mesmo modo, os subsistemas podem ser implantados em servidores, torna-se então indiferente se serão dispostos em um mesmo servidor, ou em servidores diferentes.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+Para escalar os serviços, aplica-se principalmente a Back-end - API, deverão ser implantados utilizando Docker Swarm mode, com replicação, ou seja replicando o serviço e também utilizando <em>Load Balancing</em>.
+</p>
+
+![Diagrama de implantação](../../../assets/arquitetura/deploy.png)
+
+<a href="https://drive.google.com/file/d/1tobCBehmQmZ7f7O-NXoyvLoYRYQJrHLN/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
 ## 8. Visão de Implementação
 
-### 8.1 Visão geral
+### 8.1 Camadas
 
-### 8.2 Camadas
+<p style="text-indent: 20px; text-align: justify">
+Além da divisão em subsistemas já propostas, e com ênfase na definição em camadas listada no tópico <a href="#21-back-end">2.1</a>. O desenvolvimento no subsistema gXchange-API deve seguiro os padrões de código do framework Django e também do framework Django Rest (DRF). Isso implicam diretamente em como as camadas são definidas, e, quais as responsabilidades atribuídas a cada uma delas.
+</p>
+
+#### 8.1.1 View
+
+<p style="text-indent: 20px; text-align: justify">
+Esta camada é a camada que ficará responsável por receber as requisições dos clientes, e reagirá baseada nos verbos HTTP ( <em> GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS e TRACE</em>).
+</p>
+
+#### 8.1.2 Serializer
+
+<p style="text-indent: 20px; text-align: justify">
+Esta camada tem a responsabilidade de processar os dados advindos da camada Model, e também, é responsável por abstrair e implementar como serão feitasa as alterações nas classes da camada Model. 
+</p>
+
+#### 8.1.3 Model
+
+<p style="text-indent: 20px; text-align: justify">
+Esta camada carrega consigo o modelo de domínio, por obedecer ao padrão <em>Active Record</em> tem a capacidade de abstrair as tabelas da camada de persistência, também deve abstrair os relacionamentos entre as mesmas.
+</p>
+
+#### 8.1.4 Persistência
+
+<p style="text-indent: 20px; text-align: justify">
+Camada em que os dados serão guardados, de maneira estruturada, utilizando um banco de dados.
+</p>
+
+### 8.2 Metodologia de Desenvolvimento
+
+<p style="text-indent: 20px; text-align: justify">
+As metodologias adotadas serão Agile, Scrum e XP. Sendo que no mesmo contexto será utilizado o framework DevOps pela equipe de infraestrutura, mas que também se aplica à equipe de desenvolvimento.
+</p>
+
+### 8.3 Padrões de Desenvolvimento
+
+<p style="text-indent: 20px; text-align: justify">
+A ferramenta utilizada para versionamento será o GitHub, não há padronização para Editor de Texto ou IDE, mas os repositórios de subsistemas deverão estar configurados com ferramentas de análise estática de código. Preve assim uma melhor eficiência e padronização dos códigos fonte da equipe. Estas análises serão efetuadas, automaticamente, por meio da ferramenta de integração contínua chamada GitHub Actions.
+</p>
+
+| Linguagem | Estilo de código |
+| ------ | --------- |
+| Typescript/Javascript | Airbnb |
+| Python | PEP8 |
 
 ## 9. Visão de Dados
 
@@ -88,4 +182,5 @@ Este documento é divido em seções, cada qual com seu próposito:
 | Versão | Data       | Modificação    | Motivo                          | Autor         |
 | ------ | ---------- | -------------- | ------------------------------- | ------------- |
 | 0.1    | 24/04/2021 | Criação do DAS | Incluir estrutura básica do DAS | Rhuan Queiroz |
-| 1.0    | 24/04/2021 | Inserção da introdução do DAS | Para que documento em si fique claro | Todos os integrantes |
+| [1.0](../../../versoes/arquitetura/das/1.0)    | 24/04/2021 | Inserção da introdução do DAS | Para que documento em si fique claro | Todos os integrantes |
+| 2.0    | 27/04/2021 | Inserção dos tópicos 2, 7 e 8 | Para que as Visões de Implantação e Implementação sejam adicionadas ao DAS, além de prover uma representação geral da arquitetura, e seus pontos principais | Todos os integrantes |
