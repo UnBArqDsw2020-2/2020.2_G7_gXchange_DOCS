@@ -120,6 +120,7 @@ nav:
       - Documento de Arquitetura de Software:
           - 1.0: versoes/arquitetura/das/1.0.md
           - 2.0: versoes/arquitetura/das/2.0.md
+          - 3.0: versoes/arquitetura/das/3.0.md
   - Iniciativas extras gerais:
       - Padrões:
           - Atas: iniciativa_geral/padroes/atas.md
