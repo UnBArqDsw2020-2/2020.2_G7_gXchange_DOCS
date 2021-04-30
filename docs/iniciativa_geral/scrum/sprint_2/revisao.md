@@ -25,11 +25,11 @@ A issue de editar perfil e termo de consentimento foram finalizadas nessa sprint
 
 ### Problemas / Soluções
 
-- A entrega e produção dos vídeos tomou muito tempo e muitas noites. 
+- A entrega e produção dos vídeos tomou muito tempo e muitas noites.
   - Solução: O dia ter 54 horas.
-- Quando vamos desistir do scrum? 
+- Quando vamos desistir do scrum?
   - Solução: Nunca, traz o Go Horse pls
-- Django massetou os cria 
+- Django massetou os cria
   - Solução: Mudamos o padrão de request do back
 - Integrantes abalados pelo lucidchart (1501 conto meu Deus)
   - Solução: Pedir estorno ao Lucidchart (já resolvido :raised_hands:).
@@ -57,7 +57,6 @@ Ainda não sabemos se finalizaremos, mas estamos receosos quanto ao prazo, visto
 - US de autorização
 - US de visualizar anúncio via feed
 - Modificar a prioridade da US15 para 'Alta'
-
 
 ## Referências
 

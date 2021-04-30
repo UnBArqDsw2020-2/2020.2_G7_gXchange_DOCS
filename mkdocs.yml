@@ -140,8 +140,15 @@ nav:
               - Revisão: iniciativa_geral/scrum/sprint_2/revisao.md
               - Retrospectiva: iniciativa_geral/scrum/sprint_2/retrospectiva.md
           - Sprint 3:
-              - Planejamento: iniciativa_geral/scrum/sprint_2/planejamento.md
-
+              - Planejamento: iniciativa_geral/scrum/sprint_3/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_3/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_3/retrospectiva.md
+          - Sprint 4:
+              - Planejamento: iniciativa_geral/scrum/sprint_4/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_4/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_4/retrospectiva.md
+          - Sprint 5:
+              - Planejamento: iniciativa_geral/scrum/sprint_5/planejamento.md
       - Atas:
           - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
           - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
