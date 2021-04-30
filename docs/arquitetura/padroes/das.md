@@ -203,9 +203,13 @@ O seguinte diagrama entidade-relacionamento consiste na organização lógica da
 De modo a representar como os componentes são relacionados, e com quais eles se comunicam pode-se optar pelo seguinte diagrama de componentes:
 </p>
 
-![Diagrama de componentes](../../../assets/diagrama_componentes/diagrama_de_componentes.png)
+![Diagrama de componentes](../../../assets/arquitetura/componentes.png)
 
-<a href="https://drive.google.com/file/d/1xU5zW2MU66O0srtWuXSoXb3pZectBMDB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+<a href="https://drive.google.com/file/d/1damFiR7XnzrVgZ6FFMGTPE7N59LALkHD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link para a imagem</a>
+
+<p style="text-indent: 20px; text-align: justify">
+O subsistema apresentado acima refere-se, de maneira genérica, aos componentes que poderão estar presentes nos dois clientes propostos, com exceção do componente referente às funções de moderador. Foi escolhida a notação de subsistema com as linhas pontilhadas para esta representação.
+</p>
 
 #### 5.1.4 Notificações
 
@@ -477,3 +481,4 @@ Outras especificações relevantes à arquitetura estão listadas abaixo:
 | [2.0](../../../versoes/arquitetura/das/2.0)   | 27/04/2021 | Inserção dos tópicos 2, 7 e 8 | Para que as Visões de Implantação e Implementação sejam adicionadas ao DAS, além de prover uma representação geral da arquitetura, e seus pontos principais | Todos os integrantes |
 | [3.0](../../../versoes/arquitetura/das/3.0)   | 29/04/2021 | Inserção dos tópicos 3, 6, 9, 10 e 11 e parte do 5, Modificações no Tópico 2 | Para que as outras partes do documento sejam estabelecidas | Todos os integrantes |
 | 4.0    | 29/04/2021 | Inserção do tópico 4, inserção de mais subtópicos no tópico 5 e do subtópico 8.4 | Para que partes importantes da arquitetura sejam definidas | Todos os integrantes |
+| 4.1    | 29/04/2021 | Correção no tópico 5.1.3 | Para que haja melhor explicação acerca dos componentes | Thiago Guilherme e Washington Bispo |
