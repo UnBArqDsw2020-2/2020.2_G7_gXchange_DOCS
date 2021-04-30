@@ -93,6 +93,9 @@ nav:
           - Apresentação: desenho/padroes_projeto/3.3/apresentacao_3.3.md
       - Iniciativas extras:
           - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
+  - Arquitetura de Software & Reutilização:
+      - 4.1 Módulo Estilos e Padrões Arquiteturais:
+          - Documento de Arquitetura de Software: arquitetura/padroes/das.md
   - Versões documentos:
       - Rich Picture:
           - 1.1: versoes/rich_picture/1.0.md
@@ -114,6 +117,10 @@ nav:
           - 2.0: versoes/requisitos/2.0.md
       - Diagrama de Classe:
           - 1.0: versoes/diagrama_classe/1.0.md
+      - Documento de Arquitetura de Software:
+          - 1.0: versoes/arquitetura/das/1.0.md
+          - 2.0: versoes/arquitetura/das/2.0.md
+          - 3.0: versoes/arquitetura/das/3.0.md
   - Iniciativas extras gerais:
       - Padrões:
           - Atas: iniciativa_geral/padroes/atas.md
