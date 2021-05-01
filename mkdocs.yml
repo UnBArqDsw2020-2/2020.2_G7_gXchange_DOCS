@@ -96,6 +96,8 @@ nav:
   - Arquitetura de Software & Reutilização:
       - 4.1 Módulo Estilos e Padrões Arquiteturais:
           - Documento de Arquitetura de Software: arquitetura/padroes/das.md
+      - Iniciativas extras:
+          - Documento com arquiteruas alternativas: arquitetura/arq_alternativas.md
   - Versões documentos:
       - Rich Picture:
           - 1.1: versoes/rich_picture/1.0.md
@@ -121,6 +123,8 @@ nav:
           - 1.0: versoes/arquitetura/das/1.0.md
           - 2.0: versoes/arquitetura/das/2.0.md
           - 3.0: versoes/arquitetura/das/3.0.md
+      - Documento com arquiteruas alternativas:
+          - 1.0: versoes/arquitetura/arq_1.0.md
   - Iniciativas extras gerais:
       - Padrões:
           - Atas: iniciativa_geral/padroes/atas.md
