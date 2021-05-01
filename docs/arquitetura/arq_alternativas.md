@@ -50,7 +50,7 @@ Na imagem abaixo, segue uma representação bem simples de como é um microfront
 
 ![MicroFrontend](../../assets/notas_arq/microfrontend.png)
 
-## Microsservices
+## Microsserviços
 
 <p style="text-indent: 20px; text-align: justify">
 É notável que a arquitetura monolítica provida para o gXchange impacta negativamente na escalabilidade. Uma maneira de escalar e obter maior controle de quais componentes precisam de mais recursos em detrimento de outros. A arquitetura de microsserviços também beneficia a implementação de novas funcionalidades e pode servir para caso a aplicação comece a ficar complexa.
@@ -117,9 +117,30 @@ Segue uma lista de possíveis micro serviços e suas responsabilidades:
 - Serviço de Ofertas, responsável por todas as ações relacionadas às ofertas um CRUD para ofertas.
 - Serviço de Chat, responsável por lidar com a criação das conversas e das trocas de mensagens entre os usuários
 - Serviço de Moderação, contém as lógicas de denúncias de usuário e moderação
+- Serviço de Notificação, contém as lógicas de notificação aos clientes, tem funcionamento baseado em eventos e faz uso de mensageria.
 
 <p style="text-indent: 20px; text-align: justify">
 Provavelmente, num contexto de um gXchange com muitos usuários, serviços de Usuários, Ofertas e Chat serão um dos que mais vão demandar recursos.
+</p>
+
+## Backend For Frontend (BFF)
+
+<p style="text-indent: 20px; text-align: justify">
+Com o uso de microsserviços surgiriam vários novos endpoints e muitas vezes em servidores diferentes. Como diminuir o impacto desses serviços para o time de desenvolvimento dos front-ends ou microfrontends?
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+Graças o estilo arquitetural Backend for Frontend é possível diminuir esses impactos. A ideia parte do príncipio de criar um único servidor para estes recursos
+</p>
+
+![BFF Architecture](https://miro.medium.com/max/1050/1*JTjhbxRxevEfnt4eExWTVw.png)
+
+<p style="text-indent: 20px; text-align: justify">
+Cada um desses BFF's são altamente coesos ao seu cliente, a ideia é ser o outro significado do acrônimo, Best Friend, ou seja, melhor amigo de um Front. Essa coesão e esse baixo acoplamento diminui os impactos de mudanças e permite aumento do encapsulamento. Um determinado cliente X não precisa saber da existência de um serviço Y, sendo que ele não faz parte do seu contexto funcionamento.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+Esse padrão funciona bem com a lógica de microfrontends, sendo que a ideia é que o time que mantém um dado microfrontend também mantenha o BFF do mesmo. Facilita também para novos integrantes do time. Não será preciso estudar todos os vários endpoints do Back-end apenas entender o que está disponível no BFF.
 </p>
 
 ## Referências
@@ -137,3 +158,4 @@ Provavelmente, num contexto de um gXchange com muitos usuários, serviços de Us
  Versão | Data       | Modificação                    | Motivo | Autor         |
 | ------ | ---------- | -------------------------------| ------ | ------------- |
 | 1.0 | 30/04/2021 | Criação do documento de arquiteturas alternativas | Documentar as possíveis arquiteturas que poderiam ser utilizadas no gXchange | Todos os integrantes |
+| 2.0 | 01/05/2021 | Inclusão do padrão BFF | Incrementar mais ainda as possíveis arquiteturas que poderiam ser usadas | Todos os integrantes |
