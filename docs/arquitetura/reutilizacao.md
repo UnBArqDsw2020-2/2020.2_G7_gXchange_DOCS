@@ -9,7 +9,7 @@ Este documento tem como propósito evidenciar os pontos de reutilização que j�
 ## Implantação
 
 <p style="text-indent: 20px; text-align: justify">
-No contexto de implantação, e seguinto o conceito de infraestrutura como código, em ambos os repositórios, tanto de back-end quanto de front-end contém uma estrutura padrão que podem ser utilizadas para conteinerizar aplicações React e Django + Postgresql.
+No contexto de implantação, e seguindo o conceito de infraestrutura como código, em ambos os repositórios, tanto de back-end quanto de front-end contém uma estrutura padrão que podem ser utilizadas para conteinerizar aplicações React e Django + Postgresql.
 </p>
 
 ### Front-end
@@ -37,7 +37,7 @@ Para a criação de um conteiner Django com banco de dados Postgresql os arquivo
 ## Componentes da folha de estilo
 
 <p style="text-indent: 20px; text-align: justify">
-No contexto de padronização e reutilização de componentes nos front-end é interessante empacotar todos os componentes reusáveis do sistema, dessa forma o código de ambos ficaria mais coesos implementariam o padrão definido. Isso também aumenta a manutenibilidade do sistema, visto que a mudança no pacote já seria refletida nos sistemas que o utilizam.
+No contexto de padronização e reutilização de componentes nos front-end é interessante empacotar todos os componentes reusáveis do sistema, dessa forma o código de ambos ficaria mais coesos e implementariam o padrão definido. Isso também aumenta a manutenibilidade do sistema, visto que a mudança no pacote já seria refletida nos sistemas que o utilizam.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -89,11 +89,11 @@ O pacote pode ser encontrado [aqui](https://github.com/UnBArqDsw2020-2/2020.2_G7
 ## Django Apps
 
 <p style="text-indent: 20px; text-align: justify">
-Tomando a arquitetura monolítica do gXchange - API, o Framework Django permite que, sejam criados outros apps dentro de uma mesma API, o conceito de app do Django segue a ideia de um mini projeto com sua própria estrutura MVT.
+Tomando a arquitetura monolítica do gXchange - API, o Framework Django permite que sejam criados outros apps dentro de uma mesma API, o conceito de app do Django segue a ideia de um mini projeto com sua própria estrutura MVT.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Neste mesmo contexto, caso seja necessário criar um app com outro próposito mantendo assim a coesão. É possível utilizar as classes do modelo de domínio, sem a necessidade de duplicar ou reimplementar as models que serão necessárias.
+Neste mesmo contexto, caso seja necessário criar um app com outro próposito mantendo assim a coesão, é possível utilizar as classes do modelo de domínio, sem a necessidade de duplicar ou reimplementar as models que serão necessárias.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -105,7 +105,7 @@ Deste modo é possível amenizar os efeitos negativos de uma arquitetura monolí
 ## Django JWT Logged user
 
 <p style="text-indent: 20px; text-align: justify">
-No pacote de utils da gXchange API há duas funcionalidades que podem ser reutilizáveis que são a de obter usuário logado e obter o email do usuário logado. Estas funcionalidades decodificam o token JWT do usuário para obter suas informações, esssas podem ser utilizadas pelas <em>views</em> e <em>serializers</em> para realizarem tarefas relacionadas ao usuário logado.
+No pacote de utils da gXchange API há duas funcionalidades que podem ser reutilizáveis que são a de obter usuário logado e obter o email do usuário logado. Estas funcionalidades decodificam o token JWT do usuário para obter suas informações, essas podem ser utilizadas pelas <em>views</em> e <em>serializers</em> para realizarem tarefas relacionadas ao usuário logado.
 </p>
 
 ## WebSocket
@@ -127,3 +127,4 @@ A modelagem arquitetural proposta no <a href="../padroes/das/#514-notificacoes">
 | Versão | Data | Modificação  | Motivo  | Autor  |
 | ------ | ---------- | --- | ------ | ------ |
 | 1.0    | 30/04/2021 | Criação do documento  | Listar as partes orientadas ao reúso | Todos os integrantes |
+| 1.0.1    | 01/05/2021 | Correções de ortografia  | Permitir a melhor compreensão do documento | Todos os integrantes |
