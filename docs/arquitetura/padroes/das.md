@@ -68,7 +68,7 @@ Este documento é divido em seções, cada qual com seu próposito:
 ## 2. Representação Arquitetural
 
 <p style="text-indent: 20px; text-align: justify">
-A solução arquitetural definida para o gXchange pode ser visualizada, em sua forma com granularidade maior, abaixo:
+A solução arquitetural definida para o gXchange pode ser visualizada, em sua forma com granularidade menor, abaixo:
 </p>
 
 ![Representação Arquitetural](../../../assets/arquitetura/representacao.png)
@@ -364,7 +364,7 @@ Os dados fluem bidirecionalmente entre as camadas do back-end, e também fluem d
 ### 6.2 Fluxo de Atividades
 
 <p style="text-indent: 20px; text-align: justify">
-Os fluxos de atividades referentes ao sistemas e subsistemas podem ser encontrados na seção de <a href="../../../desenho/modelagem/2.2/diagramas_atividades">diagramas de arquitetura</a>
+Os fluxos de atividades referentes ao sistemas e subsistemas podem ser encontrados na seção de <a href="../../../desenho/modelagem/2.2/diagramas_atividades">diagramas de atividades</a>
 </p>
 
 
@@ -464,7 +464,7 @@ Gatilhos, sequências, visões e outros objetos que podem estar presentes no ban
 ## 11. Qualidade
 
 <p style="text-indent: 20px; text-align: justify">
-Os atributos de qualidade estabelicidos para a arquitetura devem satisfazer os atributos de qualidade especificados anteriormente para o sistema como um todo. Esta especificação e priorização podem ser encontrados no documento de <a href="../../../desenho/modelagem/iniciativa/especificacao_suplementar#6-atributos-de-qualidade">especificação suplementar</a>.
+Os atributos de qualidade estabelecidos para a arquitetura devem satisfazer os atributos de qualidade especificados anteriormente para o sistema como um todo. Esta especificação e priorização podem ser encontrados no documento de <a href="../../../desenho/modelagem/iniciativa/especificacao_suplementar#6-atributos-de-qualidade">especificação suplementar</a>.
 Outras especificações relevantes à arquitetura estão listadas abaixo:
 </p>
 
