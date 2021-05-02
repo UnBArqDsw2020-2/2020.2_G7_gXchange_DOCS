@@ -391,31 +391,31 @@ Para escalar os serviços, aplica-se principalmente a Back-end - API, deverão s
 ### 8.1 Camadas
 
 <p style="text-indent: 20px; text-align: justify">
-Além da divisão em subsistemas já propostas, e com ênfase na definição em camadas listada no tópico <a href="#21-back-end">2.1</a>. O desenvolvimento no subsistema gXchange-API deve seguir os padrões de código do framework Django e também do framework Django Rest (DRF). Isso implicam diretamente em como as camadas são definidas, e, quais as responsabilidades atribuídas a cada uma delas.
+Além da divisão em subsistemas já propostas, e com ênfase na definição em camadas listada no tópico <a href="#21-back-end">2.1</a>, o desenvolvimento no subsistema gXchange-API deve seguir os padrões de código do framework Django e também do framework Django Rest (DRF). Isso implica diretamente em como as camadas são definidas, e quais as responsabilidades atribuídas a cada uma delas.
 </p>
 
 #### 8.1.1 View
 
 <p style="text-indent: 20px; text-align: justify">
-Esta camada é a camada que ficará responsável por receber as requisições dos clientes, e reagirá baseada nos verbos HTTP ( <em> GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS e TRACE</em>).
+Esta camada é a camada que ficará responsável por receber as requisições dos clientes, e reagirá baseada nos verbos HTTP (<em>GET, HEAD, POST, PUT, PATCH, DELETE, CONNECT, OPTIONS e TRACE</em>).
 </p>
 
 #### 8.1.2 Serializer
 
 <p style="text-indent: 20px; text-align: justify">
-Esta camada tem a responsabilidade de processar os dados advindos da camada Model, e também, é responsável por abstrair e implementar como serão feitas as alterações nas classes da camada Model. 
+Esta camada tem a responsabilidade de processar os dados advindos da camada Model, e também é responsável por abstrair e implementar como serão feitas as alterações nas classes da camada Model. 
 </p>
 
 #### 8.1.3 Model
 
 <p style="text-indent: 20px; text-align: justify">
-Esta camada carrega consigo o modelo de domínio, por obedecer ao padrão <em>Active Record</em> tem a capacidade de abstrair as tabelas da camada de persistência, também deve abstrair os relacionamentos entre as mesmas.
+Esta camada carrega consigo o modelo de domínio, e por obedecer ao padrão <em>Active Record</em>, tem a capacidade de abstrair as tabelas da camada de persistência. Também tem a responsabilidade de abstrair os relacionamentos entre as mesmas.
 </p>
 
 #### 8.1.4 Persistência
 
 <p style="text-indent: 20px; text-align: justify">
-Camada em que os dados serão guardados, de maneira estruturada, utilizando o banco de dados Objeto-Relacional Postgresql.
+Camada em que os dados serão guardados de maneira estruturada, utilizando o banco de dados Objeto-Relacional Postgresql.
 </p>
 
 ### 8.2 Metodologia de Desenvolvimento
@@ -427,7 +427,7 @@ As metodologias adotadas serão Agile, Scrum e XP. Sendo que no mesmo contexto s
 ### 8.3 Padrões de Desenvolvimento
 
 <p style="text-indent: 20px; text-align: justify">
-A ferramenta utilizada para versionamento será o GitHub, não há padronização para Editor de Texto ou IDE, mas os repositórios de subsistemas deverão estar configurados com ferramentas de análise estática de código. Preve assim uma melhor eficiência e padronização dos códigos fonte da equipe. Estas análises serão efetuadas, automaticamente, por meio da ferramenta de integração contínua chamada GitHub Actions.
+A ferramenta utilizada para versionamento será o GitHub, não há padronização para Editor de Texto ou IDE, mas os repositórios de subsistemas deverão estar configurados com ferramentas de análise estática de código. Prevê assim uma melhor eficiência e padronização dos códigos fonte da equipe. Estas análises serão efetuadas automaticamente, por meio da ferramenta de integração contínua chamada GitHub Actions.
 </p>
 
 | Linguagem             | Estilo de código |
@@ -438,17 +438,17 @@ A ferramenta utilizada para versionamento será o GitHub, não há padronizaçã
 ### 8.4 Documentação de Endpoints
 
 <p style="text-indent: 20px; text-align: justify">
-Os endpoints do Back-End API deverão ser documentados utilizando a ferramenta <em>Swagger</em>, pois assim facilita a integração do time, que no caso podem ser times diferentes, e diminui o tempo gasto para inclusão de novas funcionalidades e novos membros no time.
+Os endpoints do Back-End API deverão ser documentados utilizando a ferramenta <em>Swagger</em>, facilitando assim a integração do time, que no caso podem se diferir, diminuindo o tempo gasto para inclusão de novas funcionalidades e novos membros no time.
 </p>
 
 ## 9. Visão de Dados
 
 <p style="text-indent: 20px; text-align: justify">
-A visão de dados refere-se a como os dados serão persistidos. O seguinte diagrama lógico de dados refere-se a como a camada de dados persistirá os dados. De tal modo que a modelo domínio obedece esta mesma modelagem e associações.  
+A visão de dados refere-se a como os dados serão persistidos. O seguinte diagrama lógico de dados refere-se a como a camada de dados persistirá os dados, de modo que a modelo domínio obedeça esta mesma modelagem e associações.  
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Gatilhos, sequências, visões e outros objetos que podem estar presentes no banco de dados especificado. Sempre que possível as lógicas referentes a estes objetos deverão ser implementadas na camada de <strong><em>Model</em></strong>. 
+Gatilhos, sequências, visões e outros objetos que podem estar presentes no banco de dados especificado. Sempre que possível, as lógicas referentes a estes objetos deverão ser implementadas na camada de <strong><em>Model</em></strong>. 
 </p>
 
 ![DLD](../../../assets/arquitetura/DLD.png)
@@ -464,14 +464,14 @@ Gatilhos, sequências, visões e outros objetos que podem estar presentes no ban
 ## 11. Qualidade
 
 <p style="text-indent: 20px; text-align: justify">
-Os atributos de qualidades estabelicidos para a arquitetura devem satisfazer os atributos de qualidade especificados anteriormente para o sistema como um todo. Esta especificação e priorização podem ser encontrados no documento de <a href="../../../desenho/modelagem/iniciativa/especificacao_suplementar#6-atributos-de-qualidade">especificação suplementar</a>.
+Os atributos de qualidade estabelicidos para a arquitetura devem satisfazer os atributos de qualidade especificados anteriormente para o sistema como um todo. Esta especificação e priorização podem ser encontrados no documento de <a href="../../../desenho/modelagem/iniciativa/especificacao_suplementar#6-atributos-de-qualidade">especificação suplementar</a>.
 Outras especificações relevantes à arquitetura estão listadas abaixo:
 </p>
 
 - O sistema deve estar disponível 24 horas por dia, 7 dias por semana. Não deve haver mais que 5% de tempo de inatividade.
 - O sistema deve atualizar seus serviços utilizando Docker Swarm Rolling Updates.
 - O Tempo Médio Entre Falhas deve exceder 1000 horas.
-- O sistema deverá ser projetada para facilidade de utilização e deverá ser apropriada para uma comunidade de usuários intermediários com aparelhos eletrônicos que possam acessar a internet, sem necessidade de qualquer treinamento do Sistema.
+- O sistema deverá ser projetado para facilidade de utilização e deverá ser apropriado para uma comunidade de usuários intermediários com aparelhos eletrônicos que possam acessar a internet, sem necessidade de qualquer treinamento do Sistema.
 
 ## Versionamento
 | Versão | Data       | Modificação    | Motivo                          | Autor         |
@@ -482,3 +482,4 @@ Outras especificações relevantes à arquitetura estão listadas abaixo:
 | [3.0](../../../versoes/arquitetura/das/3.0)   | 29/04/2021 | Inserção dos tópicos 3, 6, 9, 10 e 11 e parte do 5, Modificações no Tópico 2 | Para que as outras partes do documento sejam estabelecidas | Todos os integrantes |
 | 4.0    | 29/04/2021 | Inserção do tópico 4, inserção de mais subtópicos no tópico 5 e do subtópico 8.4 | Para que partes importantes da arquitetura sejam definidas | Todos os integrantes |
 | 4.1    | 29/04/2021 | Correção no tópico 5.1.3 | Para que haja melhor explicação acerca dos componentes | Thiago Guilherme e Washington Bispo |
+| 4.2    | 02/05/2021 | Correções ortográficas nos tópicos 8, 9, 10 e 11 | Para que haja maior conformidade com a Língua Portuguesa | Thiago Lopes |
