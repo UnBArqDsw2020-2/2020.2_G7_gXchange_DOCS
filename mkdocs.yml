@@ -1,0 +1,166 @@
+site_name: "gXchange"
+
+theme:
+  logo: assets/logos/icon-branco.png
+  favicon: assets/logos/icon-branco.png
+  name: material
+  language: "pt"
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Sobre: index.md
+  - Desenho de Software (Base):
+      - 1.1 Módulo Projeto Não Orientado a Abordagens Específicas:
+          - Rich Picture: desenho/base/1.1/rich_picture.md
+          - 5W2H: desenho/base/1.1/5w2h.md
+          - Léxico: desenho/base/1.1/lexico.md
+          - Diagramas causa-efeito: desenho/base/1.1/causa_efeito.md
+          - Análise de Riscos: desenho/base/1.1/riscos.md
+          - Perfil de usuário:
+              - Personas: desenho/base/1.1/personas.md
+          - Design Sprint:
+              - Execução: desenho/base/1.1/design_sprint/design_sprint.md
+              - Prototipo Média-Fidelidade: desenho/base/1.1/design_sprint/prototipo_media.md
+              - Prototipo Alta-Fidelidade: desenho/base/1.1/design_sprint/prototipo_alta.md
+          - Requisitos:
+              - Padrões: desenho/base/1.1/requisitos/padroes.md
+              - Introspecção: desenho/base/1.1/requisitos/introspeccao.md
+              - Brainstorming: desenho/base/1.1/requisitos/brainstorming.md
+              - Questionário: desenho/base/1.1/requisitos/questionario.md
+              - Todos requisitos priorizados: desenho/base/1.1/requisitos/requisitos.md
+          - Rastro dos participantes: desenho/base/1.1/rastro_participantes_1.1.md
+          - Apresentação: desenho/base/1.1/apresentacao_1.1.md
+      - 1.2 Módulo Processos / Metodologias / Abordagens:
+          - Metodologias: desenho/base/1.2/metodologia.md
+          - Modelagem BPMN 2.0: desenho/base/1.2/bpmn.md
+          - Rastro dos participantes: desenho/base/1.2/rastro_participantes_1.2.md
+          - Apresentação: desenho/base/1.2/apresentacao_1.2.md
+  - Desenho de Software (Modelagem):
+      - 2.1 Módulo Projeto Orientado a Abordagens Tradicionais:
+          - 2.1.1 Notação UML – Diagramas Estáticos:
+              - Diagrama de pacotes: desenho/modelagem/2.1/diagrama_pacotes.md
+              - Diagrama de classes: desenho/modelagem/2.1/diagrama_classes.md
+              - Diagrama de componentes: desenho/modelagem/2.1/diagrama_componentes.md
+              - Iniciativas extras:
+                  - Rastro dos participantes: desenho/modelagem/2.1/rastro_participantes.md
+              - Apresentação: desenho/modelagem/2.1/apresentacao.md
+          - 2.1.2 Notação UML - Diagramas Dinâmicos:
+              - Diagramas de atividade: desenho/modelagem/2.2/diagramas_atividades.md
+              - Diagramas de estados: desenho/modelagem/2.2/diagramas_estados.md
+              - Diagramas de comunicação: desenho/modelagem/2.2/diagramas_comunicacao.md
+              - Diagramas de sequência: desenho/modelagem/2.2/diagramas_sequencia.md
+              - Iniciativas extras:
+                  - Rastro dos participantes: desenho/modelagem/2.2/rastro_participantes.md
+              - Apresentação: desenho/modelagem/2.2/apresentacao.md
+          - 2.1.3 Modelagem ágil:
+              - First Things First: desenho/modelagem/2.3/ftf.md
+              - Backlog de produto: desenho/modelagem/2.3/backlog_produto.md
+              - Iniciativas extras:
+                  - Rastro dos participantes: desenho/modelagem/2.3/rastro_participantes.md
+              - Apresentação: desenho/modelagem/2.3/apresentacao.md
+          - Iniciativas extras:
+              - Atributos de Qualidade: desenho/modelagem/iniciativa/atributos_qualidade.md
+              - Especificação Suplementar (SRS): desenho/modelagem/iniciativa/especificacao_suplementar.md
+  - Desenho de Software (Padrões de projeto):
+      - 3.1 Módulo Padrões de Projeto GRASPs:
+          - GRASPs: desenho/padroes_projeto/3.1/grasp.md
+          - Apresentação: desenho/padroes_projeto/3.1/apresentacao_3.1.md
+      - 3.2 Módulo Padrões de Projeto GoFs:
+          - Geral: desenho/padroes_projeto/3.2/geral.md
+          - Criacionais:
+              - Builder Anúncio: desenho/padroes_projeto/3.2/criacionais/builder_anuncio.md
+              - Builder Moderador: desenho/padroes_projeto/3.2/criacionais/builder_moderador.md
+              - Prototype (TypeScript): desenho/padroes_projeto/3.2/criacionais/prototype_ts.md
+          - Estruturais:
+              - API Adapter: desenho/padroes_projeto/3.2/estruturais/api_adapter.md
+              - FlyWeight Motivos: desenho/padroes_projeto/3.2/estruturais/flyweight_motivos.md
+              - Proxy Lazy Loading: desenho/padroes_projeto/3.2/estruturais/proxy_lazy_loading.md
+          - Comportamentais:
+              - Mediador: desenho/padroes_projeto/3.2/comportamentais/mediator.md
+              - Memento: desenho/padroes_projeto/3.2/comportamentais/memento.md
+              - Template: desenho/padroes_projeto/3.2/comportamentais/template.md
+          - Apresentação: desenho/padroes_projeto/3.2/apresentacao_3.2.md
+      - 3.3 Módulo Padrões de Projeto Emergentes:
+          - Padrões Emergentes: desenho/padroes_projeto/3.3/emergente.md
+          - Apresentação: desenho/padroes_projeto/3.3/apresentacao_3.3.md
+      - Iniciativas extras:
+          - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
+  - Arquitetura de Software & Reutilização:
+      - 4.1 Módulo Estilos e Padrões Arquiteturais:
+          - Documento de Arquitetura de Software: arquitetura/4.1/das.md
+          - Apresentação: arquitetura/4.1/apresentacao.md
+      - 4.2 Módulo Reutilização de Software:
+          - Reutilização de Software: arquitetura/4.2/reutilizacao.md
+          - Apresentação: arquitetura/4.2/apresentacao.md
+      - Iniciativas extras:
+          - Documento com arquiteturas alternativas: arquitetura/iniciativa/arq_alternativas.md
+  - Versões documentos:
+      - Rich Picture:
+          - 1.1: versoes/rich_picture/1.0.md
+      - Léxico:
+          - 1.0: versoes/lexico/1.0.md
+          - 1.1: versoes/lexico/1.1.md
+          - 1.2: versoes/lexico/1.2.md
+          - 1.3: versoes/lexico/1.3.md
+          - 1.4: versoes/lexico/1.4.md
+          - 1.5: versoes/lexico/1.5.md
+      - Introspecção:
+          - 1.0: versoes/introspeccao/1.0.md
+      - Padrões requisitos:
+          - 1.0: versoes/padroes_requisitos/1.0.md
+      - Análise de Riscos:
+          - 1.0: versoes/riscos/1.0.md
+      - Requisitos:
+          - 1.0: versoes/requisitos/1.0.md
+          - 2.0: versoes/requisitos/2.0.md
+      - Diagrama de Classe:
+          - 1.0: versoes/diagrama_classe/1.0.md
+      - Documento de Arquitetura de Software:
+          - 1.0: versoes/arquitetura/das/1.0.md
+          - 2.0: versoes/arquitetura/das/2.0.md
+          - 3.0: versoes/arquitetura/das/3.0.md
+      - Documento com arquiteruas alternativas:
+          - 1.0: versoes/arquitetura/arq_1.0.md
+  - Iniciativas extras gerais:
+      - Padrões:
+          - Atas: iniciativa_geral/padroes/atas.md
+          - Github: iniciativa_geral/padroes/github.md
+          - Versões: iniciativa_geral/padroes/versoes.md
+          - Documento: iniciativa_geral/padroes/documento.md
+          - Scrum:
+              - Planejamento da Sprint: iniciativa_geral/padroes/scrum/planejamento_sprint.md
+      - Scrum:
+          - Scrum na equipe: iniciativa_geral/scrum/time.md
+          - Sprint 1:
+              - Planejamento: iniciativa_geral/scrum/sprint_1/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_1/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_1/retrospectiva.md
+          - Sprint 2:
+              - Planejamento: iniciativa_geral/scrum/sprint_2/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_2/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_2/retrospectiva.md
+          - Sprint 3:
+              - Planejamento: iniciativa_geral/scrum/sprint_3/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_3/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_3/retrospectiva.md
+          - Sprint 4:
+              - Planejamento: iniciativa_geral/scrum/sprint_4/planejamento.md
+              - Revisão: iniciativa_geral/scrum/sprint_4/revisao.md
+              - Retrospectiva: iniciativa_geral/scrum/sprint_4/retrospectiva.md
+          - Sprint 5:
+              - Planejamento: iniciativa_geral/scrum/sprint_5/planejamento.md
+      - Atas:
+          - Reunião dia 23/02/2021: iniciativa_geral/atas/reuniao_23_02_2021.md
+          - Reunião dia 01/03/2021: iniciativa_geral/atas/reuniao_01_03_2021.md
+          - Reunião dia 05/03/2021: iniciativa_geral/atas/reuniao_05_03_2021.md
+          - Reunião dia 16/03/2021: iniciativa_geral/atas/reuniao_16_03_2021.md
+          - Reunião dia 21/03/2021: iniciativa_geral/atas/reuniao_21_03_2021.md
+          - Reunião dia 22/03/2021: iniciativa_geral/atas/reuniao_22_03_2021.md
