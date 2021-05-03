@@ -95,11 +95,13 @@ nav:
           - Modelagem do banco de dados: desenho/padroes_projeto/iniciativa/modelagem_bd.md
   - Arquitetura de Software & Reutilização:
       - 4.1 Módulo Estilos e Padrões Arquiteturais:
-          - Documento de Arquitetura de Software: arquitetura/padroes/das.md
+          - Documento de Arquitetura de Software: arquitetura/4.1/das.md
+          - Apresentação: arquitetura/4.1/apresentacao.md
       - 4.2 Módulo Reutilização de Software:
-          - Reutilização de Software: arquitetura/reutilizacao.md
+          - Reutilização de Software: arquitetura/4.2/reutilizacao.md
+          - Apresentação: arquitetura/4.2/apresentacao.md
       - Iniciativas extras:
-          - Documento com arquiteturas alternativas: arquitetura/arq_alternativas.md
+          - Documento com arquiteturas alternativas: arquitetura/iniciativa/arq_alternativas.md
   - Versões documentos:
       - Rich Picture:
           - 1.1: versoes/rich_picture/1.0.md

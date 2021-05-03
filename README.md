@@ -70,10 +70,26 @@ Este repositório é destinado ao grupo 7 - [**gXchange**](https://github.com/Un
 ##### 3.3 - [Padrões de Projeto - Emergentes](https://youtu.be/ALiAMjn1VUM)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Aqui serão adicionados 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+
+![Login](docs/assets/screenshots/entrega_4/login.jpg)
+
+![Cadastro de Usuário](docs/assets/screenshots/entrega_4/cadastro_usuario.jpg)
+
+![Feed](docs/assets/screenshots/entrega_4/feed.jpg)
+
+![Side Bar](docs/assets/screenshots/entrega_4/side_bar.jpg)
+
+![Cadastro de Oferta](docs/assets/screenshots/entrega_4/cadastro_oferta.jpg)
 
 ## Vídeo(s) Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Aqui serão adicionados o(s) vídeo(s) da Entrega Final.
+
+
+##### 4.1 - [Arquitetura de Software - Estilos e Padrões Arquiteturais](https://youtu.be/1OSHgcInQr8)
+
+##### 4.2 - [Arquitetura de Software - Reutilização de Software](https://youtu.be/ZU9jdlWs-lk)
+
+
 
 ## Descritivo dos Principais Aspectos Técnicos
 
@@ -84,8 +100,8 @@ Aqui serão adicionados o(s) vídeo(s) da Entrega Final.
 
 ## O Projeto está rodando?
 
-( ) SIM
-(X) NÃO
+(X) SIM (gxchange.netlify.app)
+( ) NÃO
 
 ## Informações Complementares 
 
