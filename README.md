@@ -100,7 +100,7 @@ Aqui serão adicionados o(s) vídeo(s) da Entrega Final.
 
 ## O Projeto está rodando?
 
-(X) SIM (gxchange.netlify.app)
+(X) SIM [https://gxchange-dev.netlify.app/](https://gxchange-dev.netlify.app/)
 ( ) NÃO
 
 ## Informações Complementares 
