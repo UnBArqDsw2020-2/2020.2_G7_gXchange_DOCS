@@ -87,7 +87,7 @@ Aqui serão adicionados o(s) vídeo(s) da Entrega Final.
 
 ##### 4.1 - [Arquitetura de Software - Estilos e Padrões Arquiteturais](https://youtu.be/1OSHgcInQr8)
 
-##### 4.2 - [Arquitetura de Software - Reutilização de Software](https://youtu.be/ZU9jdlWs-lk)
+##### 4.2 - [Arquitetura de Software - Reutilização de Software](https://youtu.be/NY3d6uQf9o4)
 
 
 
@@ -105,4 +105,10 @@ Aqui serão adicionados o(s) vídeo(s) da Entrega Final.
 
 ## Informações Complementares 
 
-No momento não há informações complementares.
+API de produção pode ser acessada no link abaixo 
+[API prod](https://gxchange-api.herokuapp.com/)
+
+Ambientes de DEV:
+
+[Front-end dev](https://gxchange-dev.netlify.app/)
+[API dev](https://gxchange-api-dev.herokuapp.com/)
